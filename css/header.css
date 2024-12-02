@@ -1,0 +1,86 @@
+/*Header es una etiqueta única, no necesito "." o "#" */
+header {
+    display: flex ;
+    /**/
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+ 
+header h1 {
+    text-align: center;
+    /*Que hace esto? ocupa todo el espacio disponible */
+    flex-grow: 1;
+    font-size: 1.5rem;
+    color: var(--color-quaternary);
+    font-family: "Arima", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+
+header ul {
+    flex-grow: 1;
+    padding: 0;
+    list-style: none;
+
+    /*hacemos la ul flex y sus items los centramos*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+/*Editando enlaces */
+header ul li a {
+    text-decoration: none;
+    font-size: 1rem;
+    display: block;
+    margin: 0rem 0.5rem ;
+    color: var(--color-quaternary) ;
+    transition:  all 0.3s;
+    font-family: "Skranji";
+    font-weight: 100;
+    font-style: normal;
+}
+
+header ul li a img{
+    width: 30px;
+}
+
+
+/*Efecto de hover y active sobre los elementos a de la ui*/
+header ul li a:hover, header ul li a.active {
+    color: var(--color-primary);
+    border-bottom: 2px  solid var(--color-primary);
+}
+
+
+
+
+
+
+
+@media only screen and (min-width: 576px){
+
+    header {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    }
+
+    header h1 {
+        text-align: left;
+        padding-left: 1rem;
+    }
+
+    header ul {
+        justify-content: flex-end;
+        padding-right: 1rem;
+    }
+
+    header ul li a img{
+    width: 3.5vw; /*Control over img logo*/
+    }
+
+}

@@ -1,0 +1,105 @@
+/*Imagen completa*/
+
+/*
+    .hero-image{
+        min-height: 100vh;
+        background-image: url(/img/01.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+ 
+ .hero-image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+ }
+
+ */
+
+ .letras .hero-image .clave{
+    text-align: center;
+    font-weight: 100;
+    font-family:   Helvetica,Arial, sans-serif;
+    padding: 2rem 0rem 3rem;
+ }
+    /*
+    .hero-image div{
+        ----El elemento "div" hereda la altura de su elemento padre (hero-image)----
+        min-height: inherit;
+        ---Queremos centrar el texto del elemento div---
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        background-color: rgba(0, 0, 0, 0.1);
+    }
+
+   
+    .hero-image .logo2{
+        min-width: 20%;
+        width: 20vh;
+        padding-top: 0.5vh;
+    }
+
+ 
+    .hero-image .titulos {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+        */
+    .unica {
+        font-size: 4rem;
+        color: var(--color-primary);
+        padding-top: 0rem;
+    }
+
+    .mejorada {
+        font-size: 5rem;
+        color: var(--color-tertiary);
+        padding: 0px 15px;
+    }
+
+
+
+
+    /*Inicio styles*/ 
+
+    #inicio {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .titulo h1{
+        font-family:  Helvetica, sans-serif;
+        font-size: 4vw;
+        font-weight: 700;
+        text-align: center;
+        color: var(--color-secondary);
+        margin-top: 1rem;
+    }
+
+    .titulo h2{
+        font-family:  Helvetica, sans-serif;
+        font-weight: 100;
+        font-size: 3vw;
+        text-align: center;
+        color: var(--color-secondary);
+    }
+
+     .titulo h3{
+        font-family: "Arima", Helvetica, sans-serif;
+        font-weight: 100;
+        font-size: 2vw;
+        text-align: center;
+        color: var(--color-tertiary);
+        margin-bottom: 2rem;
+    }
+
+    #inicio img {
+        width: 100%;
+        max-width: 300px;
+        height: auto;
+    }

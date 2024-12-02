@@ -1,0 +1,26 @@
+
+footer {
+    position: fixed;
+    bottom: 0; 
+    left: 0;
+    width: 100%;
+    background-color: #f7f7f7;
+    border-top: 1px solid #a5a0a0;
+    padding: 5px 0;
+    text-align: center;
+}
+    
+
+
+footer h2 {
+    margin: 0.5rem;
+    text-align: center;
+    /*Que hace esto? ocupa todo el espacio disponible */
+    flex-grow: 1;
+    font-size: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    color: var(--color-tertiary);
+    font-weight: lighter;
+    font-style: italic;
+    
+}
