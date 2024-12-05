@@ -1,7 +1,7 @@
 
 document.addEventListener('DOMContentLoaded', e => {
     let inicio = document.getElementById("inicio");
-    inicio.innerHTML = " <div class='titulo'><h1>Todos los llamados de mi Nombre; </h1><h2>para gloria mía los he creado, los formé y los hice.</h2><h3>Isaías 43:7</h3></div><img src='/img/logo.svg' alt='imagenInicio'>";
+    inicio.innerHTML = " <div class='titulo'><h1>Todos los llamados de mi Nombre; </h1><h2>para gloria mía los he creado, los formé y los hice.</h2><h3>Isaías 43:7</h3></div><img src='img/logo.svg' alt='imagenInicio'>";
 });
 
 //  ****||||****||||****||||****||||****|||| Llamada GET a himnario ****||||****||||****||||****||||****||||
