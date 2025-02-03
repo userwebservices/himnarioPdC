@@ -116,16 +116,16 @@ function getText() {
 }
 
 
-//  ****||||****||||****||||****||||****|||| Llamada GET a cantos ****||||****||||****||||****||||****||||
+//  ****||||****||||****||||****||||****|||| Llamada GET a adoración ****||||****||||****||||****||||****||||
 
-let identificadorCantos;
-const cantosGet = document.getElementById('myDropdown3');
-cantosGet.addEventListener("click", (e)=>{
-     identificadorCantos=e.target.id;
+let identificadorAdoracion;
+const adoracionGet = document.getElementById('myDropdown3');
+adoracionGet.addEventListener("click", (e)=>{
+     identificadorAdoracion=e.target.id;
 });
 
 /*Usando onclick */
-cantosGet.onclick = ()=> {
+adoracionGet.onclick = ()=> {
     document.getElementById("inicio").style.display = "none";
     //Manipulación del DOM
     const d = document,
@@ -134,16 +134,59 @@ cantosGet.onclick = ()=> {
 
     //Usando la libreria axios para hacer AJAX
     axios
-    .get("js/alabanza.json") 
+    .get("js/adoracion.json")  
     .then(res=>{
         
        let json = res.data; //de la respuesta, lo que viene en el parametro "data", lo  gaurdo en a la let "json"
 
-       let canto = json.find(el =>{
-            return (el.id == identificadorCantos);
+       let adoracion = json.find(el =>{
+            return (el.id == identificadorAdoracion);
             });
             const $li = d.createElement("li");
-            $li.innerHTML = ` ${canto.title} ${canto.estrofas}`;
+            $li.innerHTML = ` ${adoracion.title} ${adoracion.estrofas}`;
+            $fragment.appendChild($li); 
+            $axios.appendChild($fragment);   
+                }
+    )
+    .catch(error=>{
+        console.log(error.response);
+        let errorMessage = error.response.statusText || "ocurrió un error";
+        $axios.innerHTML = `Error ${error.response.status}: ${errorMessage}`
+
+    })
+    .finally(()=>{
+        console.log("esto se ejecutará independientemente del resultado de Axios")
+    });
+};
+
+//  ****||||****||||****||||****||||****|||| Llamada GET a alabanza ****||||****||||****||||****||||****||||
+
+let identificadorAlabanza;
+const alabanzaGet = document.getElementById('myDropdown4');
+alabanzaGet.addEventListener("click", (e)=>{
+     identificadorAlabanza=e.target.id;
+});
+
+/*Usando onclick */
+alabanzaGet.onclick = ()=> {
+    document.getElementById("inicio").style.display = "none";
+    //Manipulación del DOM
+    const d = document,
+    $axios = d.getElementById("axios"),
+    $fragment = d.createDocumentFragment(); /*Fragmento: para no hacer iteraciones, sino un sólo pegado */
+
+    //Usando la libreria axios para hacer AJAX
+    axios
+    .get("js/alabanza.json")  
+    .then(res=>{
+        
+       let json = res.data; //de la respuesta, lo que viene en el parametro "data", lo  gaurdo en a la let "json"
+
+       let alabanza = json.find(el =>{
+            return (el.id == identificadorAlabanza);
+            });
+            const $li = d.createElement("li");
+            $li.innerHTML = ` ${alabanza.title} ${alabanza.estrofas}`;
             $fragment.appendChild($li); 
             $axios.appendChild($fragment);   
                 }

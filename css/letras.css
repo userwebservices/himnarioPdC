@@ -14,7 +14,7 @@
     align-items: center;
 
  }
-
+ 
  */
 
  .letras .hero-image .clave{
@@ -53,10 +53,11 @@
         font-size: 4rem;
         color: var(--color-primary);
         padding-top: 0rem;
+        margin: 0px;
     }
 
     .mejorada {
-        font-size: 5rem;
+        font-size: 7rem;
         color: var(--color-tertiary);
         padding: 0px 15px;
     }
@@ -96,6 +97,19 @@
         text-align: center;
         color: var(--color-tertiary);
         margin-bottom: 2rem;
+    }
+
+     .spanish  {
+        font-family: "Arima", Helvetica, sans-serif;
+        font-weight: 100;
+        font-size: 5vw;
+        text-align: center;
+        color: var(--color-primary);
+        margin: 0px;
+        padding: 0px;
+        margin: 0px;
+        line-height: 150%;
+       
     }
 
     #inicio img {
