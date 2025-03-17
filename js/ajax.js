@@ -201,3 +201,60 @@ alabanzaGet.onclick = ()=> {
         console.log("esto se ejecutará independientemente del resultado de Axios")
     });
 };
+
+
+
+//  ****||||****||||****||||****||||****|||| Llamada GET a zemirot ****||||****||||****||||****||||****||||
+
+
+let identificadorZemirot;
+const zemirotGet = document.getElementById('myDropdown6');
+zemirotGet.addEventListener("click", (e)=>{
+     identificadorZemirot=e.target.id;
+});
+
+/*Usando onclick */
+zemirotGet.onclick = ()=> {getZemirot()};
+
+//Función getHym
+function getZemirot() {
+
+    document.getElementById("inicio").style.display = "none";
+    //Manipulación del DOM
+    const $axios = document.getElementById("axios"),
+    $fragment = document.createDocumentFragment(); /*Fragmento: para no hacer iteraciones, sino un sólo pegado */
+
+    //Usando la libreria axios para hacer AJAX
+    axios
+    .get("js/zemirot.json") 
+    .then(res=>{
+        
+       let json = res.data; 
+       //de la respuesta, lo que viene en el parametro "data", lo  gaurdo en a la let "json"
+
+       let zamir = json.find(el =>{
+            return (el.id == identificadorZemirot);
+            });
+            const $li = document.createElement("li");
+            $li.innerHTML = ` ${zamir.title} ${zamir.estrofas}`;
+            $fragment.appendChild($li); 
+            
+            if ($axios.hasChildNodes()) {
+                     $axios.removeChild($axios.childNodes[0]); 
+                     $axios.appendChild($fragment);
+                } else{
+                   $axios.appendChild($fragment);
+                  // console.log($axios)
+                } 
+                }
+    )
+    .catch(error=>{
+        console.log(error.response);
+        let errorMessage = error.response.statusText || "ocurrió un error";
+        $axios.innerHTML = `Error ${error.response.status}: ${errorMessage}`
+
+    })
+    .finally(()=>{
+        console.log("esto se ejecutará independientemente del resultado de Axios")
+    });
+}

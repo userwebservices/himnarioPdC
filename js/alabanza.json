@@ -109,7 +109,7 @@
   {
     "id": 22,
     "title": " <h1 class='unica'>Gozate delante del Señor</h1>",
-    "estrofas": "<article class='mejorada'>//Gózate delante del Señor<br>Porque Él es tu Rey//<br>Él es, Él es, Él es, Él es tu Rey<br><br>//Gózate delante del Señor<br>Porque Él es tu Roca//<br>Él es, Él es, Él es, Él es tu Roca<br><br>// Gozate delante del Señor<br>Porque Él es tu Escudo//<br>Él es, Él es, Él es, Él es tu Escudo<br><br>//Haré un altar para ti, (para ti, para ti)<br>con sacrificio de alabanza<br>con júbilo y danza<br> y cantaré a Jehová<br><br>//Que descienda el fuego<br>que descienda el fuego<br>que descienda el fuego de Dios//<br><br></article>"
+    "estrofas": "<article class='mejorada'>//Gózate delante del Señor<br>Porque Él es tu Rey//<br>Él es, Él es, Él es, Él es tu Rey<br><br>//Gózate delante del Señor<br>Porque Él es tu Roca//<br>Él es, Él es, Él es, Él es tu Roca<br><br>// Gozate delante del Señor<br>Porque Él es tu Escudo//<br>Él es, Él es, Él es, Él es tu Escudo<br><br>//Haré un altar para ti, (para ti, para ti)<br>con sacrificio de alabanza<br>con júbilo y danza<br> y cantaré a Jehová //<br><br>//Que descienda el fuego<br>que descienda el fuego<br>que descienda el fuego de Dios//<br><br></article>"
   },
   {
     "id": 23,
@@ -162,7 +162,7 @@
     "id": 32,
     "title": " <h1 class='unica'>¿Porqué habré de temer?</h1>",
     "estrofas": "<article class='mejorada'>// El Señor es mi Luz y mi Salvación<br>¿por qué habré de temer? //<br>// Oh oh oh, Oh oh, Oh, Oh //<br><br>// El Señor es mi Roca<br> y mi Torre Fuerte<br>¿por qué habré de temer? //<br>// Oh oh oh, Oh oh, Oh, Oh //<br><br>Él me esconderá en  su santuario<br> en tiempo de temor<br>Me pararé ante la victoria<br> la batalla es del Señor<br>// Oh oh oh, Oh oh, Oh, Oh //<br><br>// El Señor es mi ayuda en el día de prueba<br> ¿por qué habré de temer? //<br>// Oh oh oh, Oh oh, Oh, Oh //<br><br>Él me esconderá en  su santuario<br> en tiempo de temor<br>Me pararé ante la victoria<br> la batalla es del Señor<br>// Oh oh oh, Oh oh, Oh, Oh //<br><br></article>"
-  },
+  }, 
   {
     "id": 33,
     "title": " <h1 class='unica'>Salmo 46</h1>",
@@ -242,6 +242,21 @@
     "id": 48,
     "title": " <h1 class='unica'>Ven mi amado</h1>",
     "estrofas": "<article class='mejorada'>Como una novia<br> que espera a su amado<br>yo por ti esperaré<br>Como una doncella<br> ataviada en el desierto<br> yo por ti esperaré<br>// Sé como el cervatillo<br> en las montañas del aroma<br>    apresúrate y ven<br> apresúrate y ven //<br><br>// Ven ven ven Amado<br> Ven ven ven Amado<br>    celebremos nuestro amor<br>Ven ven ven Amado<br> Ven ven ven Amado<br>dancemos juntos al Señor //<br>Mi Amado, mi Amado<br> mi Amado, mi Amado<br>es El Hijo de Adonáy<br>Rey de reyes, Rey de reyes<br> Rey de reyes, Rey de reyes<br>   de la tribu de Judá<br></article>"
+  },
+  {
+    "id": 49,
+    "title": " <h1 class='unica'>Bendigan al Señor</h1>",
+    "estrofas": "<article class='mejorada'>Canten al Señor<br>redimidos de su pueblo<br>desde la  del sol hasta que se pone<br>Bendigan al Señor<br> sacerdotes en su Tempo<br>De Sión perfección hermosura<br>Él resplandecerá<br><br>Nos llenará de una nueva alabanza<br>Él llenará nuestra boca de risa<br>y todos juntos le alabaremos<br>por su poder<br><br>De su vino yo me embriagaré<br>en su amor me deleitaré<br>y delante de su trono<br>me gozaré<br></article>"
+  },
+    {
+    "id": 50,
+    "title": " <h1 class='unica'>Bendigan al Señor</h1>",
+    "estrofas": "<article class='mejorada'>// Salga de su camara el novio<br>y de su tálamo la novia //<br><br>// Entre la entrada y el altar<br>lloren sacerdotes ministros de Adonáy //<br><br>Y digan: perdona oh Jehová a tu pueblo<br>no desprecies, para siempre tu herdad<br>// Porque han de decir los pueblos<br>¿Dónde está su Dios? //<br><br>// Jehová responderá<br> y dirá a su pueblo //<br><br>// He aquí os envío pan<br>mosto y aceite y seríes saciados //<br></article>"
+  },
+  {
+    "id": 51,
+    "title": " <h1 class='unica'>Mi corazón esta dispuesto</h1>",
+    "estrofas": "<article class='mejorada'>//// Mi corazón está dispuesto, oh Señor<br>Dispuesto alabarte, oh mi Dios ////<br>Cantaré a Jehová con todo mi corazón<br>Sólo a ti te alabaré<br>oh mi Señor oh mi Señor<br><br>// El gozo de mi vida eres Tú Señor //<br>Yo canto Aleluya<br> porque eres mi Rey<br>Yo canto Aleluya<br> porque eres mi Dios<br></article>"
   }
     
 ] 
