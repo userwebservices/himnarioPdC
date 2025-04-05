@@ -1,9 +1,9 @@
 
 document.addEventListener('DOMContentLoaded', e => {
     let inicio = document.getElementById("inicio");
-    inicio.innerHTML = " <div class='titulo'><h1>Porque nuestra pascua, que es Cristo:</h1><h2>fué sacrificada por nosotros</h2><h3>1 Cor.5:7</h3></div><img src='img/logo.svg' alt='imagenInicio'>";
+    inicio.innerHTML = " <div class='titulo'><h1>SHAAR HASHAMAIM</h1><h2>Puerta del Cielo</h2><h3>1 Gen.28:17</h3></div><img src='img/logo.svg' alt='imagenInicio'>";
 });
-
+ 
 //  ****||||****||||****||||****||||****|||| Llamada GET a himnario ****||||****||||****||||****||||****||||
 
 //Cachando el iD del elemento a que ha sido clickeado en el div con el iD="myDropdown1"

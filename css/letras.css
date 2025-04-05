@@ -90,18 +90,18 @@
     */
     .titulo h1{
         font-family: var(--letra-tituloPrincipal) ;
-        font-size: 4vw;
-        font-weight: 500;
+        font-size: 5vw;
+        font-weight: 100;
         text-align: center;
         color: var(--color-secondary);
         margin-top: 1rem;
-        letter-spacing: 0.3rem;
+        letter-spacing: 1.5rem;
     }
 
     .titulo h2{
         font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
-        font-weight: 100;
-        font-size: 3vw;
+        font-weight: 500;
+        font-size: 4vw;
         text-align: center;
         color: var(--color-secondary);
         letter-spacing: 1rem;
@@ -137,7 +137,7 @@
         font-size: 4vw;
         text-align: center;
         color: var(--color-quaternary);
-        letter-spacing: 0.5rem;
+        letter-spacing: 0.5rem; 
     }
 
     .contentLight {
