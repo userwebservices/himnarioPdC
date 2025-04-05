@@ -25,12 +25,13 @@
     --color-tertiary: #2D3539;
     --color-quaternary: #f7f7f7;
     --color-fifth:  #617E8E ;
+    --color-black: #313131;
     --letra-tituloPrincipal: 'Roboto', sans-serif;
     --letra-tituloSecundario: 'Raleway', Skranji ; /*Importada el 3 de abril, variable creada mismo día, nombre: "--letra-tituloSecundario", el valor es "Raleway" y añado otra fuente standar*/
 
 }
 
- 
+  
 .skranji-regular {
   font-family: "Skranji", system-ui;
   font-weight: 400;

@@ -5,15 +5,17 @@
 
 
 .dropbtn {
-  background-color: var(--color-tertiary)  ;
+  font-family: var(--letra-tituloPrincipal);
+  background-color: var(--color-tertiary);
   color: white;
   padding: 0.5rem;
-  font-size: 1rem;
+  font-weight: 300;
+  font-size: 1vw;
   text-align: center;
   border: none;
   cursor: pointer;
-  border-radius: 7px;
-  
+  border-radius: 7px; 
+  letter-spacing: 4px;
 }
 
 /* Dropdown button on hover & focus */
@@ -32,8 +34,9 @@
   padding: 7px 7px;
   text-decoration: none;
   display: block;
-  font-size: 1.3rem;
-  font-family: verdana, Helvetica, sans-serif;
+  font-size: 1vw;
+  font-family: var(--letra-tituloPrincipal);
+  line-height: 70%;
 }
 .dropdown-content a:hover {
   background-color: var(--color-primary) ;
