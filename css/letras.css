@@ -8,7 +8,7 @@
         background-size: cover;
     }
  
- .hero-image {
+ .hero-image { 
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -50,7 +50,7 @@
     }
         */
     .unica {
-        font-family: var(--font-roboto);
+        font-family: var(--font-roboto); 
         font-size: 5rem;
         letter-spacing: 14px;
         text-transform: uppercase;
@@ -64,12 +64,15 @@
     }
 
     .mejorada {
-        font-size: 7rem;
+        font-family: var(--letra-tituloSecundario);
+        font-size: 5rem;
         color: var(--color-tertiary);
         border: 0px;
         padding: 0px;
         margin: 0px;
         line-height: 100%;
+        font-weight: 300;
+
     }
 
 
@@ -83,21 +86,25 @@
         align-items: center;
     }
 
+    /*Afectan los h1 y h2 de la sección del grid: "letras". Es la primera vusta que se carga en la página 
+    */
     .titulo h1{
-        font-family:  Helvetica, sans-serif;
+        font-family: var(--letra-tituloPrincipal) ;
         font-size: 4vw;
-        font-weight: 700;
+        font-weight: 500;
         text-align: center;
         color: var(--color-secondary);
         margin-top: 1rem;
+        letter-spacing: 0.3rem;
     }
 
     .titulo h2{
-        font-family:  Helvetica, sans-serif;
+        font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
         font-weight: 100;
         font-size: 3vw;
         text-align: center;
         color: var(--color-secondary);
+        letter-spacing: 1rem;
     }
 
      .titulo h3{
@@ -122,8 +129,72 @@
        
     }
 
+
+    /*Titulos personalziados por tipo de background*/
+    /*Background dark*/
+    .titleLight{
+        font-family: var(--letra-tituloPrincipal); /* Usando la variable que cree el 3april25 */
+        font-size: 4vw;
+        text-align: center;
+        color: var(--color-quaternary);
+        letter-spacing: 0.5rem;
+    }
+
+    .contentLight {
+        font-family: var(--letra-tituloSecundario);
+        font-size: 5rem;
+        color: var(--color-quaternary);
+        border: 0px;
+        padding: 0px;
+        margin: 0px;
+        line-height: 100%;
+        font-weight: 300;
+    }
+
+
+    /*Background light*/
+     .titleDark{
+        font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
+        font-weight: 300;
+        font-size: 7vw;
+        text-align: center;
+        color: var(--color-quaternary);
+        letter-spacing: 0.7rem;
+    }
+
+    .contentDark {
+        font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
+        font-weight: 300;
+        font-size: 7vw;
+        text-align: center;
+        color: var(--color-quaternary);
+        letter-spacing: 0.7rem;
+    }
+
+    .pesaj {
+        font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
+        font-weight: 300;
+        font-size: 7vw;
+        text-align: center;
+        color: var(--color-quaternary);
+        letter-spacing: 0.7rem;
+    }
+
+    .pesajTitle {
+        font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
+        font-weight: 500;
+        font-size: 4vw;
+        text-align: center;
+        color: var(--color-quaternary);
+    }
+
     #inicio img {
         width: 100%;
         max-width: 300px;
         height: auto;
     }
+
+    
+
+
+   

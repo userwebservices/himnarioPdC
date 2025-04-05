@@ -1,7 +1,7 @@
 
 document.addEventListener('DOMContentLoaded', e => {
     let inicio = document.getElementById("inicio");
-    inicio.innerHTML = " <div class='titulo'><h1>Todos los llamados de mi Nombre; </h1><h2>para gloria mía los he creado, los formé y los hice.</h2><h3>Isaías 43:7</h3></div><img src='img/logo.svg' alt='imagenInicio'>";
+    inicio.innerHTML = " <div class='titulo'><h1>Porque nuestra pascua, que es Cristo:</h1><h2>fué sacrificada por nosotros</h2><h3>1 Cor.5:7</h3></div><img src='img/logo.svg' alt='imagenInicio'>";
 });
 
 //  ****||||****||||****||||****||||****|||| Llamada GET a himnario ****||||****||||****||||****||||****||||
@@ -26,27 +26,44 @@ himnosGet.onclick = ()=> {
     .get("js/himnos.json") 
     .then(res=>{
         
-                let json = res.data; //Respuesta de la API
+                    let json = res.data; //Respuesta de la API
 
-                let himno = json.find(el =>{  //Himno dentro de la respuesta
-                        return (el.id == identificador);
-                        });
+                    let himno = json.find(el =>{  //Himno dentro de la respuesta
+                            return (el.id == identificador);
+                            });
 
-                const $li = d.createElement("li");
-                      
-                $li.innerHTML = ` ${himno.title} ${himno.estrofas}`;
+                    const $li = d.createElement("li");
+                        
+                    $li.innerHTML = ` ${himno.title} ${himno.estrofas}`;
+                   
+                    $fragment.appendChild($li);
+                    
+                    if ($axios.hasChildNodes()) {
+                        $axios.removeChild($axios.childNodes[0]); 
+                        $axios.appendChild($fragment);
+                    } else{
+                    $axios.appendChild($fragment);
+                    // console.log($axios)
+                    }
+
+
+                    //Esta opción funciona if else, pero lo intentaremos hacer con una función importada desde background.js fri 4april25
+
+                    
+                     if (himno.background) {
+                        $axios.style.backgroundImage = `url('${himno.background}')`;
+                        $axios.style.backgroundSize = 'cover';
+                        $axios.style.backgroundPosition = 'center';
+                        }else {
+                        $axios.style.backgroundImage = `url('../assets/img/back_001.jpg')`;
+                        }
+                    
+                  
+                    
+ 
+                    
                 
-                $fragment.appendChild($li);
-                
-                if ($axios.hasChildNodes()) {
-                     $axios.removeChild($axios.childNodes[0]); 
-                     $axios.appendChild($fragment);
-                } else{
-                   $axios.appendChild($fragment);
-                  // console.log($axios)
                 }
-                
-            }
 
     ) 
     .catch(error=>{

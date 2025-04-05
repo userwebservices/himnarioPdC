@@ -2,6 +2,19 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+/*3april25
+    Importing the font family:  
+    from:
+    Mode: @import*/
+
+    /*Font family for main title: Mulish*/
+    /*
+    @import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');*/
+    @import url('https://fonts.googleapis.com/css2?family=Beiruti:wght@200..900&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+    /*Font family for secondary title: Raleway*/
+    @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
 
 
 @import url('https://fonts.googleapis.com/css2?family=Arima:wght@100..700&family=Roboto:ital,wght@0,100;0,400;0,700;1,100;1,400;1,700&family=Skranji:wght@400;700&display=swap');
@@ -12,11 +25,12 @@
     --color-tertiary: #2D3539;
     --color-quaternary: #f7f7f7;
     --color-fifth:  #617E8E ;
-    --font-roboto: 'Roboto', sans-serif;
+    --letra-tituloPrincipal: 'Roboto', sans-serif;
+    --letra-tituloSecundario: 'Raleway', Skranji ; /*Importada el 3 de abril, variable creada mismo día, nombre: "--letra-tituloSecundario", el valor es "Raleway" y añado otra fuente standar*/
 
 }
 
-
+ 
 .skranji-regular {
   font-family: "Skranji", system-ui;
   font-weight: 400;
