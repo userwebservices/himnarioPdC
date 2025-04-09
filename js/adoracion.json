@@ -1,10 +1,9 @@
-[
-  {
+[{
     "id": 1,
     "title": " <h1 class='unica'>Abba Padre</h1>",
     "estrofas": "<article class='mejorada'>Una Vez mas, Una Vez mas,<br>me acerco a ti, me acerco a ti<br>Con libertad, con libertad<br>en adoración<br>Tu eres mi DIOS, tu eres mi DIOS<br>tu hijo soy, tu hijo soy<br>Mi comunión contigo<br> es una dulce bendición.<br><br>Abba Padre, Abba Padre<br> estar contigo es una dulce bendición<br>Abba Padre, te amo Señor<br> quiero estar en comunión<br>quiero estar contigo</article>"
-  }, 
-{
+  },
+  {
     "id": 78,
     "title": " <h1 class='unica'>Al estar en la presencia</h1>",
     "estrofas": "<article class='mejorada'>Al estar en la presencia<br> de tu divinidad<br>y al contemplar la hermosura<br> de tu santidad<br>mi espíritu se alegra en tu Majestad<br>te adoro a ti, te adoro a ti<br><br>Cuando veo la grandeza<br> de tu dulce amor<br>y compruebo la pureza<br> de tu corazón<br>mi espíritu se alegra<br> en tu Majestad<br>te adoro a ti, te adoro a ti<br><br>Y al estar aquí,<br> delante de ti te adoraré<br>postrado ante ti,<br> mi corazón te adora oh Dios<br>y siempre quiero estar<br>para adorar y contemplar<br> tu santidad<br>te adoro a ti Señor, te adoro a Ti<br></article>"
@@ -19,29 +18,28 @@
     "id": 3,
     "title": " <h1 class='unica'>Amén, amén, amén</h1>",
     "estrofas": "<article class='mejorada'>Amén, amén, amén, amén, amén<br>Las promesas del Señor<br> son siempre amén<br>cuando leo tu palabra canto amén<br>a la orden del Señor respondo amén<br><br>Amén, amén, amén, amén, amén<br>mi vida yo la rindo a tus pies<br>cuando veo tu gloria y tu poder<br>en mi alabanza te canto amén, amén<br></article>"
-  }
-    ,
+  },
   {
     "id": 4,
     "title": " <p class='unica'>Ana becoaj</p>",
     "estrofas": "<article class='mejorada'>Ana, ana becoaj<br>gedulat yeminja tatir tzerua<br>kabel rinat amja sagvenu tarenu<br> tarenu norah<br>Te ruego, oh te ruego<br> con el poder de tu diestra libera a tu siervos<br>recibe los cantos, de tu pueblo<br> protégenos purificanos Dios<br>te ruego Señor, con el poder de tu diestra<br> libera a tu siervos<br>recibe los cantos<br> de tu pueblo, protégenos purificanos Dios<br>como a la niña de tus ojos guárdanos <br>por favor oh Poderoso<br> bendícenos con tu misericordia<br>apiadate con tu justicia Dios santo<br>Omnipotente con tu bondad guía a tu pueblo<br>Majestuoso vuélvete a tu pueblo<br> que recuerdan tu pureza<br>recibe nuestra oración<br> escucha nuestro clamor<br><br>// Tú que sabes todos los secretos //<br>Baruj shem maljuto le olam vaed<br>baruj shem kevod maljuto le olam vaed<br>// bendito el Nombre del que vive eternamente //<br></article>"
   },
 
-  
 
-{
+
+  {
     "id": 5,
     "title": " <h1 class='unica'>Ani bejasdeja</h1>",
     "estrofas": "<article class='mejorada'>/// VaAni bejasdeja batajti<br><p class='spanish'>Y yo en tu misericordia he confiado</p>yagel libi bishuateja  ////<p class='spanish'>se alegra mi corazón en tu salvación</p><br>// Ashira la HaShem<br> ashira la HaShem<p class='spanish'>Canta a Jehová, Canta a Jehová</p>ashira la HaShem<br> ki gamal alaiv //<p class='spanish'>Canta  a Jehová<br /> porque se engrandeció sobre nosotros</p></article>"
   },
 
- 
-   {
+
+  {
     "id": 6,
     "title": " <h1 class='unica'>Caña cascada</h1>",
     "estrofas": "<article class='mejorada'>Yo sé que cuando soy débil<br>Tú eres mi fuerza<br>y se, que cuando estoy triste<br> Tú me consuelas<br>pero Señor, me siento indigno<br>ante mi bajeza y tu me recuerdas<br><br>Que Tú no desechas<br> la caña cascada<br>y Tú no apagas el pábilo que humea<br>pues Tú no desprecias<br>al corazón contrito y necesitado<br><br>Que Tu no desechas<br> a la caña cascada<br>y Tú no apagas el pábilo que humea<br>eres mi esperanza eres mi refugio<br> Jesús eres mi paz<br></article>"
   },
-   {
+  {
     "id": 7,
     "title": " <h1 class='unica'>Clamaré al Dios altísimo</h1>",
     "estrofas": "<article class='mejorada'>Clamaré al Dios Altísimo<br>al Dios que me favorece<br>Clamaré al Dios Altísimo<br>al Dios que me favorece<br><br>Porque en ti, ha confiado mi alma<br>Y en la sombra de tus alas me amparare<br>El enviará su misericordia<br>desde los cielos su verdad<br>Y me salvará, me salvará<br>El Dios Altísimo,   El Dios Altísimo<br></article>"
@@ -56,17 +54,18 @@
     "title": " <h1 class='unica'>Como el ciervo</h1>",
     "estrofas": "<article class='mejorada'>// Como el ciervo busca por las aguas<br>así clama mi alma por ti Señor<br>día y noche yo tengo sed de ti<br>y sólo a ti buscaré //<br><br>// Llename, llename Señor<br>dame más, más de tu amor<br>yo tengo sed sólo de ti<br>llename Señor //<br></article>"
   },
-   {
+  {
     "id": 10,
-    "title": " <h1 class='unica'>Con tu sangre</h1>",
-    "estrofas": "<article class='mejorada'>Con tu sangre nos has redimido<br>para nuestro Dios<br>De todo linaje, pueblo<br> lengua y nación<br>No has hecho reyes y sacerdotes<br>para nuestro Dios<br>Y reinaremos sobre la tierra<br>Gloria al Cordero de Dios<br><br>Exaltad al Cordero de Gloria<br>Adorad al que Vive y Reina<br>Adorad al Dios Altísimo<br>Padre Eterno, Cordero de Dios<br></article>"
+    "title": " <h1 class='pesajTitle'>Con tu sangre</h1>",
+    "estrofas": "<article class='pesaj'>Con tu sangre nos has redimido<br>para nuestro Dios<br>De todo linaje, pueblo<br> lengua y nación<br>No has hecho reyes<br>y sacerdotes<br>para nuestro Dios<br>Y reinaremos sobre la tierra<br>Gloria al Cordero de Dios<br><br>Exaltad al Cordero de Gloria<br>Adorad al que Vive y Reina<br>Adorad al Dios Altísimo<br>Padre Eterno<br>Cordero de Dios</article>",
+    "background": "../assets/img/backPesaj_03.jpg"
   },
-   {
+  {
     "id": 11,
     "title": " <h1 class='unica'>Cosas que ojo no vio</h1>",
     "estrofas": "<article class='mejorada'>// Confesare tu palabra<br>y lo que tu harás en mi<br>pacientemente esperare tus promesas <br>y sé que seguro harás //<br><br>// Cosas que ojo no vio<br>    cosas que oído no oyó<br>cosas que nadie jamás imaginó<br>son las que viviré yo //<br><br>/// Seguro mis ojos verán al Rey ///<br>no moriré sino viviré<br><br>// Cosas que ojo no vio<br>cosas que oído no oyó<br>cosas que nadie jamás imaginó<br>son las que viviré yo //<br><br>//// Son las que viviré yo (son las que viviré yo) ////<br></article>"
   },
-   {
+  {
     "id": 12,
     "title": " <h1 class='unica'>Creo en ti</h1>",
     "estrofas": "<article class='mejorada'>Quiero levantar a ti mis manos<br>Maravilloso Jesús, milagroso Señor<br>llena este lugar de tu presencia<br>y has descender tu poder<br> a los que estamos aquí<br><br>Creo en ti, Jesús<br>y en lo que harás en mí<br>creo en ti, Jesús<br>y en lo que harás en mí<br> en mí, en mí...<br><br>//Recibe toda la gloria<br>recibe toda la honra<br>precioso Hijo de Dios//<br></article>"
@@ -76,22 +75,22 @@
     "title": " <h1 class='unica'>Cristo yo te amo</h1>",
     "estrofas": "<article class='mejorada'>// Cristo yo te amo, Cristo yo te amo<br>No hay nadie como Tú, Jesús //<br><br>// Y no sé donde estuviera<br>si yo a ti no te tuviera<br>si no hubiera conocido<br>al Dios que me ama<br>al Dios que me ama //<br></article>"
   },
-   {
+  {
     "id": 14,
     "title": " <h1 class='unica'>De gloria en gloria</h1>",
     "estrofas": "<article class='mejorada'>De gloria en gloria te veo<br>Cuanto más te conozco<br>Quiero saber más de ti<br><br>Mi Dios cual buen alfarero<br>Quebrantame, transformame<br>Moldeame a tu imagen Señor<br><br>// Quiero ser más como Tu<br>Ver la vida como Tu<br>Saturarme de tu Espíritu<br>y reflejar al mundo tu amor //<br></article>"
   },
-   {
+  {
     "id": 15,
     "title": " <h1 class='unica'>De tal manera </h1>",
     "estrofas": "<article class='mejorada'>De tal Manera me amó<br>Que su vida no escatimo<br>Hasta el final el se entrego<br>Y a la muerte fue porque el me amó<br><br>De tal Manera me amó<br>Y no hay forma en que podre pagar<br>El precio de su grande amor<br>Pero toda mi alma quiero dar<br><br>Por su amor yo vivire<br>De su amor yo cantare<br>Con mi Señor caminare<br>Porque el me amo a mi<br><br>Por su amor yo vivire<br>De su amor yo cantare<br>Con mi Señor caminaré<br>Porque el murio por mi<br>Le seguiré<br></article>"
   },
-   {
+  {
     "id": 16,
     "title": " <h1 class='unica'>Digno y Santo</h1>",
     "estrofas": "<article class='mejorada'>Digno es El Cordero Santo<br>Santo Santo  es Él<br>Levantamos nuestra alabanza<br>Al que en el trono está<br><br>Santo, santo, santo<br>Dios Todopoderoso<br>Quien fue, quien es y quien vendrá.<br>La creación hoy canta<br>Y damos gloria a Él<br>Tú eres digno por siempre y siempre.</article>"
   },
-   {
+  {
     "id": 17,
     "title": " <h1 class='unica'>Dios incomparable</h1>",
     "estrofas": "<article class='mejorada'>Dios de mi corazón<br>en ti encontré mi salvación<br>Tu Gloria y majestad<br>quiero siempre contemplar<br><br>Tú eres mi adoración<br> y mi eterna canción<br>Todo mi interior<br>es cautivado por tu amor<br><br>Eres Dios eterno<br>sólo Tú eres Bueno<br>Dios incomparable eres Tú<br>Nunca me separaré de tu gran amor<br>Eres mi Señor mi Salvador<br></article>"
@@ -158,8 +157,9 @@
   },
   {
     "id": 30,
-    "title": " <h1 class='unica'>Fuíste a la cruz</h1>",
-    "estrofas": "<article class='mejorada'>// Sin merecer la salvación El Señor<br>Desnudo su brazo<br>Me sacó, me lavó, gracias Señor //<br><br>Fuiste a la cruz, moriste por mí<br>pagaste Señor<br>Tu amor me perdonó<br>me salvó, me compró<br>Fuíste a la cruz, moriste por mi<br>pagaste Señor<br>Tu amor me perdonó<br>me salvó, me compró, con sangre<br></article>"
+    "title": " <h1 class='pesajTitle'>Fuíste a la cruz</h1>",
+    "estrofas": "<article class='pesaj'>// Sin merecer la salvación<br>El Señor<br>Desnudo su brazo<br>Me sacó, me lavó<br>gracias Señor //<br><br>Fuiste a la cruz<br> moriste por mí<br>pagaste Señor<br>Tu amor me perdonó<br>me salvó, me compró<br><br>Fuíste a la cruz<br> moriste por mi<br>pagaste Señor<br>Tu amor me perdonó<br>me salvó, me compró<br> con sangre</article>",
+    "background": "../assets/img/backPesaj_03.jpg"
   },
   {
     "id": 31,
@@ -412,6 +412,13 @@
     "id": 81,
     "title": " <h1 class='unica'>Temprano yo te buscare</h1>",
     "estrofas": "<article class='mejorada'>Temprano yo te buscare<br>De madrugada yo me acercare a ti<br>Mi alma te ahnela y tiene sed<br>Para ver tu gloria y tu poder<br><br>Mi socorro haz sido Tú<br>Y en la sombra de tus alas<br>Yo me gozare<br>Mi alma esta apegada a ti<br>Porque tu Diestra me ha sostenido<br>Oh tu Diestra me ha sostenido<br></article>"
+  },
+
+  {
+    "id": 82,
+    "title": " <h1 class='pesajTitle'>Preciosa sangre</h1>",
+    "estrofas": "<article class='pesaj'>Preciosa sangre se derramó<br>Preciosa sangre fluyó por amor<br>Sobre ti, el dolor<br>Tus venas lloraron<br>Jesús, Jesús, Jesús<br><br>Hay poder en la sangre<br>que fluyó por amor<br>Hay poder en la sangre<br>que Él derramó<br><br>Preciosa sangre<br> que me purificó<br>Preciosa sangre<br> que me transformó<br>Sobre ti, el dolor<br>Tus venas lloraron<br>Jesús, Jesús, Jesús<br><br>Hay poder en la sangre<br>que fluyó por amor<br>Hay poder en la sangre<br>que Él derramó<br><br>Tu sangre me transformó<br>tu sangre me perdonó<br>Tu sangre me limpió<br>tu sangre me sanó<br>Tu sangre me salvó…<br><br>Hay poder en la sangre <br>que fluyó por amor <br>Hay poder en la sangre <br>que Él derramó</article>",
+    "background": "../assets/img/backPesaj_03.jpg"
   }
-    
-] 
+
+]

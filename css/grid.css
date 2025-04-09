@@ -14,17 +14,16 @@ body {
 
 header {
 grid-area: header;
-background-color: var(--color-fifth);
+background-color: var(--color-primary);
 } 
 
-.sidebar {
+.sidebar { 
 grid-area: sidebar;
-position: sticky;
+position: sticky; 
 top: 0;
 display: flex;
 align-items: center;
-background-color: var(--color-tertiary);
-opacity: 0.7;
+background-color: var(--color-secondary);
 }
 
 

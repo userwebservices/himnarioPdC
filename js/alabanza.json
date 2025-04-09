@@ -214,8 +214,9 @@
   },
   {
     "id": 43,
-    "title": " <h1 class='unica'>Mis pecados de ayer</h1>",
-    "estrofas": "<article class='mejorada'>/// Mis pecados de ayer<br>Los borró mi Jesús<br>Por su sangre en la cruz<br> los borró mi Jesús ///<br><br>/// Ahora vivo feliz<br>con Jesús libre soy<br>Con su sangre en la cruz<br> mis pecados de ayer los borró mi Jesús ///<br></article>"
+    "title": " <h1 class='pesajTitle'>Mis pecados de ayer</h1>",
+    "estrofas": "<article class='pesaj'>/// Mis pecados de ayer<br>Los borró mi Jesús<br>Por su sangre en la cruz<br> los borró mi Jesús ///<br><br>/// Ahora vivo feliz<br>con Jesús libre soy<br>Con su sangre en la cruz<br> mis pecados de ayer los borró mi Jesús ///<br></article>",
+    "background": "../assets/img/backPesaj_03.jpg"
   },
   {
     "id": 44,
@@ -265,8 +266,9 @@
 
   {
     "id": 53,
-    "title": " <h1 class='unica'>Toma el pandero</h1>",
-    "estrofas": "<article class='mejorada'>Yo te he amado con amor eterno<br>te he cercado con bondad y amor<br>yo te levante oh Hija de Sión<br>y levantada serás<br><br>/// Toma el pandero y ven a danzar<br>toma el pandero y ven a gozar<br>ven y subamos ante nuestro Dios<br>toma el pandero y ven a danzar ///<br><br>Cantaré, danzaré y me alegraré<br>más y más cada vez yo te alabaré<br>Cantaré, danzaré y me alegraré<br>más y más cada vez yo te alabaré<br><br>Delante de tu Trono yo me gozaré<br>en tu amor y tu gracia me deleitaré<br>Delante de tu Trono yo me gozaré<br>en tu amor y tu gracia me deleitaré<br>// Grita, canta, danza<br>alegremente en su presencia<br>Gira, salta dando<br>vueltas para Cristo<br>Él vive, vive para siempre<br>Él es el Rey //<br><br>Te alabaré, te exaltaré<br> y te agradeceré<br>tu grande amor Jesús<br>Cambiaste mi lamento en alabanza<br>sanaste mi herido corazón<br><br></article>"
+    "title": " <h1 class='pesajTitle'>Toma el pandero</h1>",
+    "estrofas": "<article class='pesaj'>/// Toma el pandero y<br>ven a danzar<br>toma el pandero y<br>ven a gozar<br>ven y subamos<br>ante nuestro Dios<br>toma el pandero y<br>ven a danzar ///<br><br>// Cantaré, danzaré<br>y me alegraré<br>más y más cada vez<br>yo te alabaré //<br><br>// Delante de tu Trono<br> yo me gozaré<br>en tu amor y tu gracia<br> me deleitaré //<br><br>// Grita, canta, danza<br>alegremente en su presencia<br>Gira, salta dando<br>vueltas para Cristo<br>Él vive, vive para siempre<br>Él es el Rey //<br><br>Te alabaré, te exaltaré<br> y te agradeceré<br>tu grande amor Jesús<br>Cambiaste mi lamento<br>en alabanza<br>sanaste mi herido corazón</article>",
+    "background": "../assets/img/backPesaj_03.jpg"
   }
 
 ]

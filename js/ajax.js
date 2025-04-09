@@ -1,7 +1,7 @@
 
 document.addEventListener('DOMContentLoaded', e => {
     let inicio = document.getElementById("inicio");
-    inicio.innerHTML = " <div class='titulo'><h1>SHAAR HASHAMAIM</h1><h2>Puerta del Cielo</h2><h3> Gen.28:17</h3></div><img src='img/logo.svg' alt='imagenInicio'>";
+    inicio.innerHTML = " <div class='titulo'><h1>SHAAR HASHAMAIM</h1><h2>Puerta del Cielo</h2></div><img src='img/logo.svg' alt='imagenInicio'>";
 });
  
 //  ****||||****||||****||||****||||****|||| Llamada GET a himnario ****||||****||||****||||****||||****||||
@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', e => {
 //Cachando el iD del elemento a que ha sido clickeado en el div con el iD="myDropdown1"
 let identificador;
 const himnosGet = document.getElementById('myDropdown1');
-himnosGet.addEventListener("click", (e)=>{
+himnosGet.addEventListener("click", (e)=>{ 
      identificador=e.target.id;
 });
 
@@ -45,11 +45,7 @@ himnosGet.onclick = ()=> {
                     $axios.appendChild($fragment);
                     // console.log($axios)
                     }
-
-
                     //Esta opción funciona if else, pero lo intentaremos hacer con una función importada desde background.js fri 4april25
-
-                    
                      if (himno.background) {
                         $axios.style.backgroundImage = `url('${himno.background}')`;
                         $axios.style.backgroundSize = 'cover';
@@ -57,12 +53,6 @@ himnosGet.onclick = ()=> {
                         }else {
                         $axios.style.backgroundImage = `url('../assets/img/back_001.jpg')`;
                         }
-                    
-                  
-                    
- 
-                    
-                
                 }
 
     ) 
@@ -119,6 +109,14 @@ function getText() {
                    $axios.appendChild($fragment);
                   // console.log($axios)
                 } 
+                    //Esta opción funciona if else, pero lo intentaremos hacer con una función importada desde background.js fri 4april25
+                     if (texto.background) {
+                        $axios.style.backgroundImage = `url('${texto.background}')`;
+                        $axios.style.backgroundSize = 'cover';
+                        $axios.style.backgroundPosition = 'center';
+                        }else {
+                        $axios.style.backgroundImage = `url('../assets/img/back_001.jpg')`;
+                        }
                 }
     )
     .catch(error=>{
@@ -162,8 +160,16 @@ adoracionGet.onclick = ()=> {
             const $li = d.createElement("li");
             $li.innerHTML = ` ${adoracion.title} ${adoracion.estrofas}`;
             $fragment.appendChild($li); 
-            $axios.appendChild($fragment);   
-                }
+            $axios.appendChild($fragment);  
+                if (adoracion.background) {
+                        $axios.style.backgroundImage = `url('${adoracion.background}')`;
+                        $axios.style.backgroundSize = 'cover';
+                        $axios.style.backgroundPosition = 'center';
+                        }else {
+                        $axios.style.backgroundImage = `url('../assets/img/back_001.jpg')`;
+                        } 
+                    }
+                
     )
     .catch(error=>{
         console.log(error.response);
@@ -205,7 +211,14 @@ alabanzaGet.onclick = ()=> {
             const $li = d.createElement("li");
             $li.innerHTML = ` ${alabanza.title} ${alabanza.estrofas}`;
             $fragment.appendChild($li); 
-            $axios.appendChild($fragment);   
+            $axios.appendChild($fragment);
+                if (alabanza.background) {
+                        $axios.style.backgroundImage = `url('${alabanza.background}')`;
+                        $axios.style.backgroundSize = 'cover';
+                        $axios.style.backgroundPosition = 'center';
+                        }else {
+                        $axios.style.backgroundImage = `url('../assets/img/back_001.jpg')`;
+                        }    
                 }
     )
     .catch(error=>{

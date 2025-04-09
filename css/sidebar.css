@@ -1,48 +1,4 @@
-
 /* code for menu dropdown*/
-
-
-
-
-.dropbtn {
-  font-family: var(--letra-tituloPrincipal);
-  background-color: var(--color-tertiary);
-  color: white;
-  padding: 0.5rem;
-  font-weight: 300;
-  font-size: 1vw;
-  text-align: center;
-  border: none;
-  cursor: pointer;
-  border-radius: 7px; 
-  letter-spacing: 4px;
-}
-
-/* Dropdown button on hover & focus */
-.dropbtn:hover, .dropbtn:focus {
-  background-color: var(--color-fifth);
-}
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: var(--color-quaternary) ;
-  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-  z-index: 1;
-}
-.dropdown-content a {
-  color: var(--color-secondary) ;
-  padding: 7px 7px;
-  text-decoration: none;
-  display: block;
-  font-size: 1vw;
-  font-family: var(--letra-tituloPrincipal);
-  line-height: 70%;
-}
-.dropdown-content a:hover {
-  background-color: var(--color-primary) ;
-  color: var(--color-quaternary) ;
-}
-
 .show {
   display: block;
 }

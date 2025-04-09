@@ -5,7 +5,7 @@
 /*3april25
     Importing the font family:  
     from:
-    Mode: @import*/
+    Mode: @import*/ 
 
     /*Font family for main title: Mulish*/
     /*
@@ -21,10 +21,10 @@
 
 :root {
     --color-primary: #4FB0E3;
-    --color-secondary: #555E63;
-    --color-tertiary: #2D3539;
+    --color-secondary: #2D3539;
+    --color-tertiary: #555E63;
     --color-quaternary: #f7f7f7;
-    --color-fifth:  #617E8E ;
+    --color-fifth:  #777777 ;
     --color-black: #313131;
     --letra-tituloPrincipal: 'Roboto', sans-serif;
     --letra-tituloSecundario: 'Raleway', Skranji ; /*Importada el 3 de abril, variable creada mismo día, nombre: "--letra-tituloSecundario", el valor es "Raleway" y añado otra fuente standar*/

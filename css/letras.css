@@ -11,7 +11,7 @@
  .hero-image { 
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center; 
 
  }
  
@@ -21,7 +21,7 @@
     text-align: center;
     font-weight: 100;
     font-family:   Helvetica,Arial, sans-serif;
-    padding: 2rem 0rem 3rem;
+    padding: 0rem 0rem ; /*I M P O R T A N T : parece que controla el espacio que se ve entre la letra, una llamada de axios, y el grid, en este caso el área sidebar*/
  }
     /*
     .hero-image div{
@@ -49,6 +49,16 @@
         justify-content: center;
     }
         */
+
+
+    .titleHeader {
+        font-family: var(--letra-tituloSecundario);
+        font-size: 2vw;
+        color: var(--color-quaternary);
+        letter-spacing: 0.5rem;
+        font-weight: 400;
+
+    }
     .unica {
         font-family: var(--font-roboto); 
         font-size: 5rem;
@@ -58,25 +68,21 @@
         padding: 0.5rem;
         margin: 0px;
         line-height: 100%;
-          font-weight: 300;
-
-        
+        font-weight: 300;    
     }
 
     .mejorada {
-        font-family: var(--letra-tituloSecundario);
-        font-size: 5rem;
-        color: var(--color-tertiary);
-        border: 0px;
-        padding: 0px;
-        margin: 0px;
-        line-height: 100%;
+        font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
         font-weight: 300;
-
+        font-size: 7vw;
+        text-align: center;
+        color: var(--color-tertiary);
+        letter-spacing: 0.3rem;
+        line-height: 90%;
+        padding: 1rem 0rem 5rem 0rem; /*Esto hace que la letra, traída por AJAX, tenga espacio hasta abajo, y poco 1rem arriba, y 0 a los lados*/
     }
 
-
-
+     
 
     /*Inicio styles*/ 
 
@@ -96,7 +102,7 @@
         color: var(--color-secondary);
         margin-top: 1rem;
         letter-spacing: 1.5rem;
-    }
+    } 
 
     .titulo h2{
         font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
@@ -130,6 +136,70 @@
     }
 
 
+
+    /*   ====****||||====****||||====****||||====****||||====****||||====****||||====****||||====****|||| */
+    /*   Styles for section: sidebar*/
+
+/*Afecta a: el texto del menú, los botenes: Himnos, Ador<ción Alabanza, etc.*/
+.dropbtn {
+  font-family: var(--letra-tituloPrincipal);
+  background-color: var(--color-secondary);
+  color: var(--color-quaternary);
+  padding: 0.5rem;
+  font-weight: 100;
+  font-size: 1.2vw;
+  text-align: center;
+  border: none;
+  cursor: pointer;
+  border-radius: 7px; 
+  letter-spacing: 4px;
+}
+
+/* Dropdown button on hover & focus -efecto hover sobre los botones del menu */
+.dropbtn:hover, .dropbtn:focus {
+  background-color: var(--color-tertiary);
+  color: var(--color-quaternary);
+  font-weight: 400;
+}
+
+
+
+
+/*Contendio que afecta: el menú desplegable cuando se hace click en un elemento del menú: Himnario, textos, Adoración, etc.*/
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: var(--color-quaternary) ;
+      box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+      z-index: 1;
+        opacity: 0.9;
+
+    }
+    .dropdown-content a {
+      font-family: var(--letra-tituloPrincipal);
+      color: var(--color-secondary) ;
+      padding: 7px 7px;
+      text-decoration: none;
+      font-weight: 400;
+      display: block;
+      font-size: 1vw;
+      line-height: 70%; /* I M P O R T A N T : this has the control of the height inside the list of the names, when you clicked the button menu*/
+    }
+
+    .dropdown-content a:hover {
+      background-color: var(--color-primary) ;
+      color: var(--color-quaternary) ;
+    }
+
+
+    /* E N D  Styles for section: sidebar*/
+    /*   ====****||||====****||||====****||||====****||||====****||||====****||||====****||||====****|||| */
+
+
+    /*   ====****||||====****||||====****||||====****||||====****||||====****||||====****||||====****|||| */
+    /*   Styles for text with backgrounds: dark and light*/
+
+
     /*Titulos personalziados por tipo de background*/
     /*Background dark*/
     .titleLight{
@@ -151,7 +221,6 @@
         font-weight: 300;
     }
 
-
     /*Background light*/
      .titleDark{
         font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
@@ -171,22 +240,51 @@
         letter-spacing: 0.7rem;
     }
 
+    /* E N D  Styles for text with backgrounds: dark and light*/
+    /*   ====****||||====****||||====****||||====****||||====****||||====****||||====****||||====****|||| */
+
+
+    /*   ====****||||====****||||====****||||====****||||====****||||====****||||====****||||====****|||| */
+    /*   Styles for text for Pesaj*/
+
     .pesaj {
         font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
         font-weight: 300;
-        font-size: 7vw;
+        font-size: 6vw;
         text-align: center;
         color: var(--color-quaternary);
-        letter-spacing: 0.7rem;
+        letter-spacing: 0.1rem;
+        line-height: 100%;
+        padding: 1rem 0rem 5rem 0rem; /*Esto hace que la letra, traída por AJAX, tenga espacio hasta abajo, y poco 1rem arriba, y 0 a los lados*/
     }
 
     .pesajTitle {
         font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
-        font-weight: 500;
+        font-weight: 300;
+        font-size: 5vw;
+        text-align: center;
+        color: var(--color-fifth);
+        border-radius: 12px;
+        padding: 0.5vw;
+        background-color: rgba(244, 245, 238, 0.9);
+        display: inline-block;
+        margin-top: 1rem;
+    }
+
+    .pesajNumbers {
+        font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
+        font-weight: 200;
         font-size: 4vw;
         text-align: center;
         color: var(--color-quaternary);
+        border-radius: 12px;
+        padding: 0.2vw;
     }
+
+    /* E N D  Styles for text for Pesaj*/
+    /*   ====****||||====****||||====****||||====****||||====****||||====****||||====****||||====****|||| */
+    
+
 
     #inicio img {
         width: 100%;
