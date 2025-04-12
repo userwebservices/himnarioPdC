@@ -1,7 +1,7 @@
 
 document.addEventListener('DOMContentLoaded', e => {
     let inicio = document.getElementById("inicio");
-    inicio.innerHTML = " <div class='titulo'><h1>SHAAR HASHAMAIM</h1><h2>Puerta del Cielo</h2></div><img src='img/logo.svg' alt='imagenInicio'>";
+    inicio.innerHTML = " <div class='titulo'><h1>SHAAR HASHAMAIM</h1><h2>Puerta del Cielo</h2></div><img src='img/logo.svg' alt='imagenInicio' styles='margin-top: 55px';>";
 });
  
 //  ****||||****||||****||||****||||****|||| Llamada GET a himnario ****||||****||||****||||****||||****||||
