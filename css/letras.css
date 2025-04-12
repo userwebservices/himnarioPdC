@@ -99,7 +99,7 @@
         font-size: 5vw;
         font-weight: 100;
         text-align: center;
-        color: var(--color-secondary);
+        color: var(--color-quaternary);
         letter-spacing: 1.5rem;
         padding-top: 3%;
     } 
@@ -109,9 +109,9 @@
         font-weight: 500;
         font-size: 4vw;
         text-align: center;
-        color: var(--color-secondary);
+        color: var(--color-quaternary);
         letter-spacing: 1rem;
-        padding-bottom: 5rem;
+        padding-bottom: 1rem;
     }
 
      .titulo h3{

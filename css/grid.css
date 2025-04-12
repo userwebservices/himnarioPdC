@@ -30,7 +30,7 @@ background-color: var(--color-secondary);
 
 .letras {
 grid-area: letras;
-background-image: url('../assets/img/back_001.jpg'); /* Cambia la ruta a tu imagen */
+background-image: url('../assets/img/backPesaj_01.jpg'); /* Cambia la ruta a tu imagen */
 background-size: cover; /* Asegura que la imagen cubra el área de la sección */
 background-position: center; /* Centra la imagen dentro del área */
 background-attachment: fixed; /* Fija la imagen al fondo si se hace scroll */
