@@ -1,58 +1,67 @@
 [{
     "id": 1,
-    "title": " <h1 class='unica'>Abba Padre</h1>",
-    "estrofas": "<article class='mejorada'>Una Vez mas, Una Vez mas,<br>me acerco a ti, me acerco a ti<br>Con libertad, con libertad<br>en adoración<br>Tu eres mi DIOS, tu eres mi DIOS<br>tu hijo soy, tu hijo soy<br>Mi comunión contigo<br> es una dulce bendición.<br><br>Abba Padre, Abba Padre<br> estar contigo es una dulce bendición<br>Abba Padre, te amo Señor<br> quiero estar en comunión<br>quiero estar contigo</article>"
+    "title": " <h1 class='titleDark'>Abba Padre</h1>",
+    "estrofas": "<article class='contentDark'>Una Vez mas, Una Vez mas,<br>me acerco a ti, me acerco a ti<br>Con libertad, con libertad<br>en adoración<br>Tu eres mi DIOS, tu eres mi DIOS<br>tu hijo soy, tu hijo soy<br>Mi comunión contigo<br> es una dulce bendición.<br><br>Abba Padre, Abba Padre<br> estar contigo es una dulce bendición<br>Abba Padre, te amo Señor<br> quiero estar en comunión<br>quiero estar contigo</article>",
+    "background": "../assets/img/back_14.jpg"
+
   },
   {
     "id": 78,
-    "title": " <h1 class='unica'>Al estar en la presencia</h1>",
-    "estrofas": "<article class='mejorada'>Al estar en la presencia<br> de tu divinidad<br>y al contemplar la hermosura<br> de tu santidad<br>mi espíritu se alegra en tu Majestad<br>te adoro a ti, te adoro a ti<br><br>Cuando veo la grandeza<br> de tu dulce amor<br>y compruebo la pureza<br> de tu corazón<br>mi espíritu se alegra<br> en tu Majestad<br>te adoro a ti, te adoro a ti<br><br>Y al estar aquí,<br> delante de ti te adoraré<br>postrado ante ti,<br> mi corazón te adora oh Dios<br>y siempre quiero estar<br>para adorar y contemplar<br> tu santidad<br>te adoro a ti Señor, te adoro a Ti<br></article>"
+    "title": " <h1 class='titleDark'>Al estar en la presencia</h1>",
+    "estrofas": "<article class='contentDark'>Al estar en la presencia<br> de tu divinidad<br>y al contemplar la hermosura<br> de tu santidad<br>mi espíritu se alegra en tu Majestad<br>te adoro a ti, te adoro a ti<br><br>Cuando veo la grandeza<br> de tu dulce amor<br>y compruebo la pureza<br> de tu corazón<br>mi espíritu se alegra<br> en tu Majestad<br>te adoro a ti, te adoro a ti<br><br>Y al estar aquí,<br> delante de ti te adoraré<br>postrado ante ti,<br> mi corazón te adora oh Dios<br>y siempre quiero estar<br>para adorar y contemplar<br> tu santidad<br>te adoro a ti Señor, te adoro a Ti<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 2,
-    "title": " <h1 class='unica'>Avinu shebashamaim</h1>",
-    "estrofas": "<article class='mejorada'>Avinu Shebabashamaim<br> yitkadash Shimja<br>tavo maljutja ye-aseh retzonja<br>// kemo baShamai-im ken baAretz //<br><br>Et-lejem jukenu ten lanu hayom, umjal-lanu el-jobotenu<br>kaasher majalnu gam-anajnu -u lejayabenu<br>// veal-tebienu lidei nisayon ki im-tjaltzenu min-hara //<br><br>// Ki leja HaMamlajah veHaGburah veHaTiferet //<br>Avinu shebashamaim Avinu shebashamaim <br><br>// veal-tebienu lidei nisayon ki im-tjaltzenu min-hara //<br>// Ki leja HaMamlajah veHaGburah veHaTiferet //<br>Avinu shebashamaim Avinu shebashamaim <br><br>// veal-tebienu lidei nisayon ki im-tjaltzenu min-hara //<br>/// Ki leja HaMamlajah veHaGburah veHaTiferet ///<br>Ki leja HaMamlajah veHaGburah veHaTiferet, leolmei olamim amén<br>// Ki leja HaMamlajah veHaGburah veHaTiferet //<br></article>"
+    "title": " <h1 class='titleDark'>Avinu shebashamaim</h1>",
+    "estrofas": "<article class='contentDark'>Avinu Shebabashamaim<br> yitkadash Shimja<br>tavo maljutja ye-aseh retzonja<br>// kemo baShamai-im ken baAretz //<br><br>Et-lejem jukenu ten lanu hayom, umjal-lanu el-jobotenu<br>kaasher majalnu gam-anajnu -u lejayabenu<br>// veal-tebienu lidei nisayon ki im-tjaltzenu min-hara //<br><br>// Ki leja HaMamlajah veHaGburah veHaTiferet //<br>Avinu shebashamaim Avinu shebashamaim <br><br>// veal-tebienu lidei nisayon ki im-tjaltzenu min-hara //<br>// Ki leja HaMamlajah veHaGburah veHaTiferet //<br>Avinu shebashamaim Avinu shebashamaim <br><br>// veal-tebienu lidei nisayon ki im-tjaltzenu min-hara //<br>/// Ki leja HaMamlajah veHaGburah veHaTiferet ///<br>Ki leja HaMamlajah veHaGburah veHaTiferet, leolmei olamim amén<br>// Ki leja HaMamlajah veHaGburah veHaTiferet //<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
 
   {
     "id": 3,
-    "title": " <h1 class='unica'>Amén, amén, amén</h1>",
-    "estrofas": "<article class='mejorada'>Amén, amén, amén, amén, amén<br>Las promesas del Señor<br> son siempre amén<br>cuando leo tu palabra canto amén<br>a la orden del Señor respondo amén<br><br>Amén, amén, amén, amén, amén<br>mi vida yo la rindo a tus pies<br>cuando veo tu gloria y tu poder<br>en mi alabanza te canto amén, amén<br></article>"
+    "title": " <h1 class='titleDark'>Amén, amén, amén</h1>",
+    "estrofas": "<article class='contentDark'>Amén, amén, amén, amén, amén<br>Las promesas del Señor<br> son siempre amén<br>cuando leo tu palabra canto amén<br>a la orden del Señor respondo amén<br><br>Amén, amén, amén, amén, amén<br>mi vida yo la rindo a tus pies<br>cuando veo tu gloria y tu poder<br>en mi alabanza te canto amén, amén<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 4,
-    "title": " <p class='unica'>Ana becoaj</p>",
-    "estrofas": "<article class='mejorada'>Ana, ana becoaj<br>gedulat yeminja tatir tzerua<br>kabel rinat amja sagvenu tarenu<br> tarenu norah<br>Te ruego, oh te ruego<br> con el poder de tu diestra libera a tu siervos<br>recibe los cantos, de tu pueblo<br> protégenos purificanos Dios<br>te ruego Señor, con el poder de tu diestra<br> libera a tu siervos<br>recibe los cantos<br> de tu pueblo, protégenos purificanos Dios<br>como a la niña de tus ojos guárdanos <br>por favor oh Poderoso<br> bendícenos con tu misericordia<br>apiadate con tu justicia Dios santo<br>Omnipotente con tu bondad guía a tu pueblo<br>Majestuoso vuélvete a tu pueblo<br> que recuerdan tu pureza<br>recibe nuestra oración<br> escucha nuestro clamor<br><br>// Tú que sabes todos los secretos //<br>Baruj shem maljuto le olam vaed<br>baruj shem kevod maljuto le olam vaed<br>// bendito el Nombre del que vive eternamente //<br></article>"
+    "title": " <p class='titleDark'>Ana becoaj</p>",
+    "estrofas": "<article class='contentDark'>Ana, ana becoaj<br>gedulat yeminja tatir tzerua<br>kabel rinat amja sagvenu tarenu<br> tarenu norah<br>Te ruego, oh te ruego<br> con el poder de tu diestra libera a tu siervos<br>recibe los cantos, de tu pueblo<br> protégenos purificanos Dios<br>te ruego Señor, con el poder de tu diestra<br> libera a tu siervos<br>recibe los cantos<br> de tu pueblo, protégenos purificanos Dios<br>como a la niña de tus ojos guárdanos <br>por favor oh Poderoso<br> bendícenos con tu misericordia<br>apiadate con tu justicia Dios santo<br>Omnipotente con tu bondad guía a tu pueblo<br>Majestuoso vuélvete a tu pueblo<br> que recuerdan tu pureza<br>recibe nuestra oración<br> escucha nuestro clamor<br><br>// Tú que sabes todos los secretos //<br>Baruj shem maljuto le olam vaed<br>baruj shem kevod maljuto le olam vaed<br>// bendito el Nombre del que vive eternamente //<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
-
-
 
   {
     "id": 5,
-    "title": " <h1 class='unica'>Ani bejasdeja</h1>",
-    "estrofas": "<article class='mejorada'>/// VaAni bejasdeja batajti<br><p class='spanish'>Y yo en tu misericordia he confiado</p>yagel libi bishuateja  ////<p class='spanish'>se alegra mi corazón en tu salvación</p><br>// Ashira la HaShem<br> ashira la HaShem<p class='spanish'>Canta a Jehová, Canta a Jehová</p>ashira la HaShem<br> ki gamal alaiv //<p class='spanish'>Canta  a Jehová<br /> porque se engrandeció sobre nosotros</p></article>"
+    "title": " <h1 class='titleDark'>Ani bejasdeja</h1>",
+    "estrofas": "<article class='contentDark'>/// VaAni bejasdeja batajti<br><p class='spanish'>Y yo en tu misericordia he confiado</p>yagel libi bishuateja  ////<p class='spanish'>se alegra mi corazón en tu salvación</p><br>// Ashira la HaShem<br> ashira la HaShem<p class='spanish'>Canta a Jehová, Canta a Jehová</p>ashira la HaShem<br> ki gamal alaiv //<p class='spanish'>Canta  a Jehová<br /> porque se engrandeció sobre nosotros</p></article>",
+    "background": "../assets/img/back_14.jpg"
   },
 
 
   {
     "id": 6,
-    "title": " <h1 class='unica'>Caña cascada</h1>",
-    "estrofas": "<article class='mejorada'>Yo sé que cuando soy débil<br>Tú eres mi fuerza<br>y se, que cuando estoy triste<br> Tú me consuelas<br>pero Señor, me siento indigno<br>ante mi bajeza y tu me recuerdas<br><br>Que Tú no desechas<br> la caña cascada<br>y Tú no apagas el pábilo que humea<br>pues Tú no desprecias<br>al corazón contrito y necesitado<br><br>Que Tu no desechas<br> a la caña cascada<br>y Tú no apagas el pábilo que humea<br>eres mi esperanza eres mi refugio<br> Jesús eres mi paz<br></article>"
+    "title": " <h1 class='titleDark'>Caña cascada</h1>",
+    "estrofas": "<article class='contentDark'>Yo sé que cuando soy débil<br>Tú eres mi fuerza<br>y se, que cuando estoy triste<br> Tú me consuelas<br>pero Señor, me siento indigno<br>ante mi bajeza y tu me recuerdas<br><br>Que Tú no desechas<br> la caña cascada<br>y Tú no apagas el pábilo que humea<br>pues Tú no desprecias<br>al corazón contrito y necesitado<br><br>Que Tu no desechas<br> a la caña cascada<br>y Tú no apagas el pábilo que humea<br>eres mi esperanza eres mi refugio<br> Jesús eres mi paz<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 7,
-    "title": " <h1 class='unica'>Clamaré al Dios altísimo</h1>",
-    "estrofas": "<article class='mejorada'>Clamaré al Dios Altísimo<br>al Dios que me favorece<br>Clamaré al Dios Altísimo<br>al Dios que me favorece<br><br>Porque en ti, ha confiado mi alma<br>Y en la sombra de tus alas me amparare<br>El enviará su misericordia<br>desde los cielos su verdad<br>Y me salvará, me salvará<br>El Dios Altísimo,   El Dios Altísimo<br></article>"
+    "title": " <h1 class='titleDark'>Clamaré al Dios altísimo</h1>",
+    "estrofas": "<article class='contentDark'>Clamaré al Dios Altísimo<br>al Dios que me favorece<br>Clamaré al Dios Altísimo<br>al Dios que me favorece<br><br>Porque en ti, ha confiado mi alma<br>Y en la sombra de tus alas me amparare<br>El enviará su misericordia<br>desde los cielos su verdad<br>Y me salvará, me salvará<br>El Dios Altísimo,   El Dios Altísimo<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 8,
-    "title": " <h1 class='unica'>Conmigo danza</h1>",
-    "estrofas": "<article class='mejorada'>// Conmigo danza<br>el que ama mi alma<br>escucha la canción <br>yo le amo<br>al que ama mi alma<br>escucha la canción //<br><br>Pues tú has venido sobre los montes<br>por las montañas corriste hacia mí<br>oh señor, tuyo es mi corazón<br><br>Contigo iré, tú eres mi amor<br>tú eres mi dueño, el invierno pasó<br> y la primavera llegó<br></article>"
+    "title": " <h1 class='titleDark'>Conmigo danza</h1>",
+    "estrofas": "<article class='contentDark'>// Conmigo danza<br>el que ama mi alma<br>escucha la canción <br>yo le amo<br>al que ama mi alma<br>escucha la canción //<br><br>Pues tú has venido sobre los montes<br>por las montañas corriste hacia mí<br>oh señor, tuyo es mi corazón<br><br>Contigo iré, tú eres mi amor<br>tú eres mi dueño, el invierno pasó<br> y la primavera llegó<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 9,
-    "title": " <h1 class='unica'>Como el ciervo</h1>",
-    "estrofas": "<article class='mejorada'>// Como el ciervo busca por las aguas<br>así clama mi alma por ti Señor<br>día y noche yo tengo sed de ti<br>y sólo a ti buscaré //<br><br>// Llename, llename Señor<br>dame más, más de tu amor<br>yo tengo sed sólo de ti<br>llename Señor //<br></article>"
+    "title": " <h1 class='titleDark'>Como el ciervo</h1>",
+    "estrofas": "<article class='contentDark'>// Como el ciervo busca por las aguas<br>así clama mi alma por ti Señor<br>día y noche yo tengo sed de ti<br>y sólo a ti buscaré //<br><br>// Llename, llename Señor<br>dame más, más de tu amor<br>yo tengo sed sólo de ti<br>llename Señor //<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 10,
@@ -62,98 +71,117 @@
   },
   {
     "id": 11,
-    "title": " <h1 class='unica'>Cosas que ojo no vio</h1>",
-    "estrofas": "<article class='mejorada'>// Confesare tu palabra<br>y lo que tu harás en mi<br>pacientemente esperare tus promesas <br>y sé que seguro harás //<br><br>// Cosas que ojo no vio<br>    cosas que oído no oyó<br>cosas que nadie jamás imaginó<br>son las que viviré yo //<br><br>/// Seguro mis ojos verán al Rey ///<br>no moriré sino viviré<br><br>// Cosas que ojo no vio<br>cosas que oído no oyó<br>cosas que nadie jamás imaginó<br>son las que viviré yo //<br><br>//// Son las que viviré yo (son las que viviré yo) ////<br></article>"
+    "title": " <h1 class='titleDark'>Cosas que ojo no vio</h1>",
+    "estrofas": "<article class='contentDark'>// Confesare tu palabra<br>y lo que tu harás en mi<br>pacientemente esperare tus promesas <br>y sé que seguro harás //<br><br>// Cosas que ojo no vio<br>    cosas que oído no oyó<br>cosas que nadie jamás imaginó<br>son las que viviré yo //<br><br>/// Seguro mis ojos verán al Rey ///<br>no moriré sino viviré<br><br>// Cosas que ojo no vio<br>cosas que oído no oyó<br>cosas que nadie jamás imaginó<br>son las que viviré yo //<br><br>//// Son las que viviré yo (son las que viviré yo) ////<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 12,
-    "title": " <h1 class='unica'>Creo en ti</h1>",
-    "estrofas": "<article class='mejorada'>Quiero levantar a ti mis manos<br>Maravilloso Jesús, milagroso Señor<br>llena este lugar de tu presencia<br>y has descender tu poder<br> a los que estamos aquí<br><br>Creo en ti, Jesús<br>y en lo que harás en mí<br>creo en ti, Jesús<br>y en lo que harás en mí<br> en mí, en mí...<br><br>//Recibe toda la gloria<br>recibe toda la honra<br>precioso Hijo de Dios//<br></article>"
+    "title": " <h1 class='titleDark'>Creo en ti</h1>",
+    "estrofas": "<article class='contentDark'>Quiero levantar a ti mis manos<br>Maravilloso Jesús, milagroso Señor<br>llena este lugar de tu presencia<br>y has descender tu poder<br> a los que estamos aquí<br><br>Creo en ti, Jesús<br>y en lo que harás en mí<br>creo en ti, Jesús<br>y en lo que harás en mí<br> en mí, en mí...<br><br>//Recibe toda la gloria<br>recibe toda la honra<br>precioso Hijo de Dios//<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 13,
-    "title": " <h1 class='unica'>Cristo yo te amo</h1>",
-    "estrofas": "<article class='mejorada'>// Cristo yo te amo, Cristo yo te amo<br>No hay nadie como Tú, Jesús //<br><br>// Y no sé donde estuviera<br>si yo a ti no te tuviera<br>si no hubiera conocido<br>al Dios que me ama<br>al Dios que me ama //<br></article>"
+    "title": " <h1 class='titleDark'>Cristo yo te amo</h1>",
+    "estrofas": "<article class='contentDark'>// Cristo yo te amo, Cristo yo te amo<br>No hay nadie como Tú, Jesús //<br><br>// Y no sé donde estuviera<br>si yo a ti no te tuviera<br>si no hubiera conocido<br>al Dios que me ama<br>al Dios que me ama //<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 14,
-    "title": " <h1 class='unica'>De gloria en gloria</h1>",
-    "estrofas": "<article class='mejorada'>De gloria en gloria te veo<br>Cuanto más te conozco<br>Quiero saber más de ti<br><br>Mi Dios cual buen alfarero<br>Quebrantame, transformame<br>Moldeame a tu imagen Señor<br><br>// Quiero ser más como Tu<br>Ver la vida como Tu<br>Saturarme de tu Espíritu<br>y reflejar al mundo tu amor //<br></article>"
+    "title": " <h1 class='titleDark'>De gloria en gloria</h1>",
+    "estrofas": "<article class='contentDark'>De gloria en gloria te veo<br>Cuanto más te conozco<br>Quiero saber más de ti<br><br>Mi Dios cual buen alfarero<br>Quebrantame, transformame<br>Moldeame a tu imagen Señor<br><br>// Quiero ser más como Tu<br>Ver la vida como Tu<br>Saturarme de tu Espíritu<br>y reflejar al mundo tu amor //<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 15,
-    "title": " <h1 class='unica'>De tal manera </h1>",
-    "estrofas": "<article class='mejorada'>De tal Manera me amó<br>Que su vida no escatimo<br>Hasta el final el se entrego<br>Y a la muerte fue porque el me amó<br><br>De tal Manera me amó<br>Y no hay forma en que podre pagar<br>El precio de su grande amor<br>Pero toda mi alma quiero dar<br><br>Por su amor yo vivire<br>De su amor yo cantare<br>Con mi Señor caminare<br>Porque el me amo a mi<br><br>Por su amor yo vivire<br>De su amor yo cantare<br>Con mi Señor caminaré<br>Porque el murio por mi<br>Le seguiré<br></article>"
+    "title": " <h1 class='titleDark'>De tal manera </h1>",
+    "estrofas": "<article class='contentDark'>De tal Manera me amó<br>Que su vida no escatimo<br>Hasta el final el se entrego<br>Y a la muerte fue porque el me amó<br><br>De tal Manera me amó<br>Y no hay forma en que podre pagar<br>El precio de su grande amor<br>Pero toda mi alma quiero dar<br><br>Por su amor yo vivire<br>De su amor yo cantare<br>Con mi Señor caminare<br>Porque el me amo a mi<br><br>Por su amor yo vivire<br>De su amor yo cantare<br>Con mi Señor caminaré<br>Porque el murio por mi<br>Le seguiré<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 16,
-    "title": " <h1 class='unica'>Digno y Santo</h1>",
-    "estrofas": "<article class='mejorada'>Digno es El Cordero Santo<br>Santo Santo  es Él<br>Levantamos nuestra alabanza<br>Al que en el trono está<br><br>Santo, santo, santo<br>Dios Todopoderoso<br>Quien fue, quien es y quien vendrá.<br>La creación hoy canta<br>Y damos gloria a Él<br>Tú eres digno por siempre y siempre.</article>"
+    "title": " <h1 class='titleDark'>Digno y Santo</h1>",
+    "estrofas": "<article class='contentDark'>Digno es El Cordero Santo<br>Santo Santo  es Él<br>Levantamos nuestra alabanza<br>Al que en el trono está<br><br>Santo, santo, santo<br>Dios Todopoderoso<br>Quien fue, quien es y quien vendrá.<br>La creación hoy canta<br>Y damos gloria a Él<br>Tú eres digno por siempre y siempre.</article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 17,
-    "title": " <h1 class='unica'>Dios incomparable</h1>",
-    "estrofas": "<article class='mejorada'>Dios de mi corazón<br>en ti encontré mi salvación<br>Tu Gloria y majestad<br>quiero siempre contemplar<br><br>Tú eres mi adoración<br> y mi eterna canción<br>Todo mi interior<br>es cautivado por tu amor<br><br>Eres Dios eterno<br>sólo Tú eres Bueno<br>Dios incomparable eres Tú<br>Nunca me separaré de tu gran amor<br>Eres mi Señor mi Salvador<br></article>"
+    "title": " <h1 class='titleDark'>Dios incomparable</h1>",
+    "estrofas": "<article class='contentDark'>Dios de mi corazón<br>en ti encontré mi salvación<br>Tu Gloria y majestad<br>quiero siempre contemplar<br><br>Tú eres mi adoración<br> y mi eterna canción<br>Todo mi interior<br>es cautivado por tu amor<br><br>Eres Dios eterno<br>sólo Tú eres Bueno<br>Dios incomparable eres Tú<br>Nunca me separaré de tu gran amor<br>Eres mi Señor mi Salvador<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 18,
-    "title": " <h1 class='unica'>El manto de tu gloria</h1>",
-    "estrofas": "<article class='mejorada'>La verdad de tu Reino muéstranos<br>Con el poder de tu gloria<br>con el poder de tu gloria cubrenos<br><br>No solo buscamos tener<br>solo tu rostro ver<br>y conocerte y poder verte<br>revelanos tu gloria aquí<br></article>"
+    "title": " <h1 class='titleDark'>El manto de tu gloria</h1>",
+    "estrofas": "<article class='contentDark'>La verdad de tu Reino muéstranos<br>Con el poder de tu gloria<br>con el poder de tu gloria cubrenos<br><br>No solo buscamos tener<br>solo tu rostro ver<br>y conocerte y poder verte<br>revelanos tu gloria aquí<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 19,
-    "title": " <h1 class='unica'>El Señor es mi Rey</h1>",
-    "estrofas": "<article class='mejorada'>El Señor es mi Rey mi todo<br>El Señor es mi luz, mi Rey<br>El que me hace vibrar de gozo<br>El que guìa mis pasos<br>El que extiende sus brazos<br>El creador de los cielos<br></article>"
+    "title": " <h1 class='titleDark'>El Señor es mi Rey</h1>",
+    "estrofas": "<article class='contentDark'>El Señor es mi Rey mi todo<br>El Señor es mi luz, mi Rey<br>El que me hace vibrar de gozo<br>El que guìa mis pasos<br>El que extiende sus brazos<br>El creador de los cielos<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 20,
-    "title": " <h1 class='unica'>El volverá</h1>",
-    "estrofas": "<article class='mejorada'>Él volverá, Él volverá<br>Cristo,  Cristo<br>Cristo, Cristo, Cristo<br><br>Murió por mí, Murió por mí<br>Murió por mí, Murió por mí<br>Resucitó, Resucitó<br>Resucitó, Resucitó<br><br>Él  volverá, Él volverá<br>Él  volverá, Él volverá<br>Viene por mí, Viene por m<br>Viene por mí, Viene por mí<br><br>Él volverá, Él volverá<br>Él volverá, Él volverá<br>Él volverá, Él volverá<br>Él volverá, Él volverá<br></article>"
+    "title": " <h1 class='titleDark'>El volverá</h1>",
+    "estrofas": "<article class='contentDark'>Él volverá, Él volverá<br>Cristo,  Cristo<br>Cristo, Cristo, Cristo<br><br>Murió por mí, Murió por mí<br>Murió por mí, Murió por mí<br>Resucitó, Resucitó<br>Resucitó, Resucitó<br><br>Él  volverá, Él volverá<br>Él  volverá, Él volverá<br>Viene por mí, Viene por m<br>Viene por mí, Viene por mí<br><br>Él volverá, Él volverá<br>Él volverá, Él volverá<br>Él volverá, Él volverá<br>Él volverá, Él volverá<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 21,
-    "title": " <h1 class='unica'>En el desierto</h1>",
-    "estrofas": "<article class='mejorada'>// Con mi canto yo,<br> expreso a Ti, mi amor Señor //<br>// He aprendido a amarte<br> y a servirte con amor //<br><br>// En el desierto yo te conocí<br> como mi Amado ///<br>// Y en este día he venido aquí<br> para decirte cuando te amo //<br>// Mi Amado, Mi Amado //.</article>"
+    "title": " <h1 class='titleDark'>En el desierto</h1>",
+    "estrofas": "<article class='contentDark'>// Con mi canto yo,<br> expreso a Ti, mi amor Señor //<br>// He aprendido a amarte<br> y a servirte con amor //<br><br>// En el desierto yo te conocí<br> como mi Amado ///<br>// Y en este día he venido aquí<br> para decirte cuando te amo //<br>// Mi Amado, Mi Amado //.</article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 22,
-    "title": " <h1 class='unica'>EmanuEl</h1>",
-    "estrofas": "<article class='mejorada'>Su Nombre es Jesús<br>su Nombre Emmanuel<br>Su Nombre es Jesús<br>su Nombre Emmanuel<br>Jesús, Jesús su Nombre es Emmanuel<br>Emmanuel  su Nombre es Emmanuel<br><br>//// Su Nombre es Jesús, su Nombre es Emmanuel ////<br><br>Jesús, Jesús su Nombre es Emmanuel<br>Emmanuel  su Nombre es Emmanuel<br></article>"
+    "title": " <h1 class='titleDark'>EmanuEl</h1>",
+    "estrofas": "<article class='contentDark'>Su Nombre es Jesús<br>su Nombre Emmanuel<br>Su Nombre es Jesús<br>su Nombre Emmanuel<br>Jesús, Jesús su Nombre es Emmanuel<br>Emmanuel  su Nombre es Emmanuel<br><br>//// Su Nombre es Jesús, su Nombre es Emmanuel ////<br><br>Jesús, Jesús su Nombre es Emmanuel<br>Emmanuel  su Nombre es Emmanuel<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 23,
-    "title": " <h1 class='unica'>En el Nombre de Jesús</h1>",
-    "estrofas": "<article class='mejorada'>En el nombre de Jesús<br>me acerco ante tu presencia oh Señor<br>En el nombre de Jesús<br>a ofrecerte mi ofrenda oh Señor<br><br>// Es alabanza, adoración<br>lo que te ofrezco oh Señor<br>en el Nombre, maravilloso de Jesús //<br></article>"
+    "title": " <h1 class='titleDark'>En el Nombre de Jesús</h1>",
+    "estrofas": "<article class='contentDark'>En el nombre de Jesús<br>me acerco ante tu presencia oh Señor<br>En el nombre de Jesús<br>a ofrecerte mi ofrenda oh Señor<br><br>// Es alabanza, adoración<br>lo que te ofrezco oh Señor<br>en el Nombre, maravilloso de Jesús //<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 24,
-    "title": " <h1 class='unica'>Entra en la presencia</h1>",
-    "estrofas": "<article class='mejorada'>// Entra en la presencia del Señor con gratitud<br>Y adórale de corazón<br>Entra en la presencia del Señor con gratitud<br>Y alza tu voz con júbilo //<br><br>// Dad gloria, y honra y alabanza<br>Al Señor   oh Cristo<br>Nombre sin igual //<br></article>"
+    "title": " <h1 class='titleDark'>Entra en la presencia</h1>",
+    "estrofas": "<article class='contentDark'>// Entra en la presencia del Señor con gratitud<br>Y adórale de corazón<br>Entra en la presencia del Señor con gratitud<br>Y alza tu voz con júbilo //<br><br>// Dad gloria, y honra y alabanza<br>Al Señor   oh Cristo<br>Nombre sin igual //<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 25,
-    "title": " <h1 class='unica'>Espíritu de Dios</h1>",
-    "estrofas": "<article class='mejorada'>// Espíritu de Dios, llena mi vida<br>Llena mi alma, llena mi ser //<br><br>/// Lléname, (lléname)<br>Con tu presencia, (lléname, lléname)<br>Con tu poder, (lléname, lléname)<br>Con tu amor ///<br>Espíritu de Dios.</article>"
+    "title": " <h1 class='titleDark'>Espíritu de Dios</h1>",
+    "estrofas": "<article class='contentDark'>// Espíritu de Dios, llena mi vida<br>Llena mi alma, llena mi ser //<br><br>/// Lléname, (lléname)<br>Con tu presencia, (lléname, lléname)<br>Con tu poder, (lléname, lléname)<br>Con tu amor ///<br>Espíritu de Dios.</article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 26,
-    "title": " <h1 class='unica'>Está cayendo</h1>",
-    "estrofas": "<article class='mejorada'>// Algo esta cayendo aquí<br>Es tan fuerte sobre mí<br>Mis manos levantaré<br>Y su Gloria tocaré //<br><br> /// Está cayendo, su Gloria sobre mi<br> Sanando heridas, levantando al caído<br> Su Gloria está aquí //<br> Su gloria está aquí<br></article>"
+    "title": " <h1 class='titleDark'>Está cayendo</h1>",
+    "estrofas": "<article class='contentDark'>// Algo esta cayendo aquí<br>Es tan fuerte sobre mí<br>Mis manos levantaré<br>Y su Gloria tocaré //<br><br> /// Está cayendo, su Gloria sobre mi<br> Sanando heridas, levantando al caído<br> Su Gloria está aquí //<br> Su gloria está aquí<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 27,
-    "title": " <h1 class='unica'>Estando yo Señor</h1>",
-    "estrofas": "<article class='mejorada'>// Estando yo Señor en tu presencia<br>Postrando todo mi ser ante ti<br>Canto con gozo en tu presencia<br>amándote, adorándote Señor //<br><br>// Llenándome Señor de tu presencia<br>conociendo día a día tu amor<br>habito confiado en tu presencia<br>dándote por siempre mi amor //<br><br>/// Dándote por siempre mi amor ///</article>"
+    "title": " <h1 class='titleDark'>Estando yo Señor</h1>",
+    "estrofas": "<article class='contentDark'>// Estando yo Señor en tu presencia<br>Postrando todo mi ser ante ti<br>Canto con gozo en tu presencia<br>amándote, adorándote Señor //<br><br>// Llenándome Señor de tu presencia<br>conociendo día a día tu amor<br>habito confiado en tu presencia<br>dándote por siempre mi amor //<br><br>/// Dándote por siempre mi amor ///</article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 28,
-    "title": " <h1 class='unica'>Establece tu trono</h1>",
-    "estrofas": "<article class='mejorada'>// Establece tu trono en mi corazón<br>Establece tu alabanza en todo mi ser<br>Porque mi alma necesita más de ti<br>Porque yo quiero tu nombre bendecir //<br><br>// Hermoso, hermoso eres Tú Señor<br>hermoso, hermoso eres Tú //<br></article>"
+    "title": " <h1 class='titleDark'>Establece tu trono</h1>",
+    "estrofas": "<article class='contentDark'>// Establece tu trono en mi corazón<br>Establece tu alabanza en todo mi ser<br>Porque mi alma necesita más de ti<br>Porque yo quiero tu nombre bendecir //<br><br>// Hermoso, hermoso eres Tú Señor<br>hermoso, hermoso eres Tú //<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 29,
-    "title": " <h1 class='unica'>Exáltate</h1>",
-    "estrofas": "<article class='mejorada'>// Al borde de tu gran trono<br>me postraré hoy a ti<br>Tú reinas sobre principados<br>sentado   a la diestra de Dios //<br><br>// Exaltate, oh gran Cordero<br>tú vives hoy y vivirás<br>coronate con mi alabanza<br>tu nombre es el Vencedor //<br></article>"
+    "title": " <h1 class='titleDark'>Exáltate</h1>",
+    "estrofas": "<article class='contentDark'>// Al borde de tu gran trono<br>me postraré hoy a ti<br>Tú reinas sobre principados<br>sentado   a la diestra de Dios //<br><br>// Exaltate, oh gran Cordero<br>tú vives hoy y vivirás<br>coronate con mi alabanza<br>tu nombre es el Vencedor //<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 30,
@@ -163,255 +191,305 @@
   },
   {
     "id": 31,
-    "title": " <h1 class='unica'>Gadol Elohai</h1>",
-    "estrofas": "<article class='mejorada'>// Gadol Elohai, shiru ki Gadol Elohai<br>kol ejad yirei  ki Gadol Elohai //<br><br>// Que Grande es Dios<br>cantale Grande es Dios<br>juntos le veremos, Grande es Dios //<br><br>// Shem me-al kol shem<br>otja raui le-halel<br>libi yashir ki Gadol Elohai //<br><br>// Nombre sin igual, a ti cantaré<br>en mi corazón: Grande es Dios //<br></article>"
+    "title": " <h1 class='titleDark'>Gadol Elohai</h1>",
+    "estrofas": "<article class='contentDark'>// Gadol Elohai, shiru ki Gadol Elohai<br>kol ejad yirei  ki Gadol Elohai //<br><br>// Que Grande es Dios<br>cantale Grande es Dios<br>juntos le veremos, Grande es Dios //<br><br>// Shem me-al kol shem<br>otja raui le-halel<br>libi yashir ki Gadol Elohai //<br><br>// Nombre sin igual, a ti cantaré<br>en mi corazón: Grande es Dios //<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 32,
-    "title": " <h1 class='unica'>Hay momentos</h1>",
-    "estrofas": "<article class='mejorada'>// Hay momentos tan especiales<br>Junto a ti Señor //<br><br>// En los que puedo sentir tu presencia<br>En los que puedo recostarme en ti<br>En los que puedo yo tomar de tu amor //<br></article>"
+    "title": " <h1 class='titleDark'>Hay momentos</h1>",
+    "estrofas": "<article class='contentDark'>// Hay momentos tan especiales<br>Junto a ti Señor //<br><br>// En los que puedo sentir tu presencia<br>En los que puedo recostarme en ti<br>En los que puedo yo tomar de tu amor //<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 33,
-    "title": " <h1 class='unica'>Hay una fuente</h1>",
-    "estrofas": "<article class='mejorada'>// Hay una fuente en mí<br>que está brotando<br>que está fluyendo<br>dentro de mí //<br><br>// Es un río de alabanza<br> y de adoración<br>dirigido hacia ti<br> Señor Jesús, recíbelo //<br></article>"
+    "title": " <h1 class='titleDark'>Hay una fuente</h1>",
+    "estrofas": "<article class='contentDark'>// Hay una fuente en mí<br>que está brotando<br>que está fluyendo<br>dentro de mí //<br><br>// Es un río de alabanza<br> y de adoración<br>dirigido hacia ti<br> Señor Jesús, recíbelo //<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 34,
-    "title": " <h1 class='unica'>Haz llover</h1>",
-    "estrofas": "<article class='mejorada'>// Haz llover, haz llover<br> abre las puertas del cielo<br> Haz llover, haz llover<br>abre puertas del cielo<br>Haz llover…//<br><br>Haz llover Señor Jesús<br> derrama lluvia en éste lugar<br>Ven con tu río Señor Jesús<br> a inundar mi corazón<br></article>"
+    "title": " <h1 class='titleDark'>Haz llover</h1>",
+    "estrofas": "<article class='contentDark'>// Haz llover, haz llover<br> abre las puertas del cielo<br> Haz llover, haz llover<br>abre puertas del cielo<br>Haz llover…//<br><br>Haz llover Señor Jesús<br> derrama lluvia en éste lugar<br>Ven con tu río Señor Jesús<br> a inundar mi corazón<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 35,
-    "title": " <h1 class='unica'>Hossana</h1>",
-    "estrofas": "<article class='mejorada'>// En las alturas, hosanna al Rey<br>En las alturas tu Nombre adoraré //<br>Eres Eterno, eres glorioso bondadoso Dios<br>Por siempre tu Nombre adoraré<br><br>//// Hosana,  Hosana ////<br></article>"
+    "title": " <h1 class='titleDark'>Hossana</h1>",
+    "estrofas": "<article class='contentDark'>// En las alturas, hosanna al Rey<br>En las alturas tu Nombre adoraré //<br>Eres Eterno, eres glorioso bondadoso Dios<br>Por siempre tu Nombre adoraré<br><br>//// Hosana,  Hosana ////<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 36,
-    "title": " <h1 class='unica'>Jesucristo basta</h1>",
-    "estrofas": "<article class='mejorada'>Nuestros corazones insaciables son<br>hasta que conocen a su Salvador<br>Tal y como somos nos amó<br>Hoy nos acercamos sin temor<br><br>Él es el agua que al beber<br>Nunca más tendremos sed<br>Jesucristo Basta<br>Jesucristo Basta<br><br>// Mi castigo recibió<br>Y su herencia me entregó<br>Jesucristo Basta <br>Jesucristo Basta //<br><br>Fuimos alcanzados por su grande amor<br>con brazos abiertos nos recibe hoy<br>// Tal y como somos nos amó<br>Hoy nos acercamos sin temor //<br><br>Él es el agua que al beber<br>Nunca más tendremos sed<br>Jesucristo Basta<br>Jesucristo Basta<br><br>// Mi castigo recibió<br>Y su herencia me entregó<br>Jesucristo Basta <br>Jesucristo Basta //<br><br>Ahora hay un futuro y esperanza fiel<br>En su amor confiamos, hay descanso en Él<br></article>"
+    "title": " <h1 class='titleDark'>Jesucristo basta</h1>",
+    "estrofas": "<article class='contentDark'>Nuestros corazones insaciables son<br>hasta que conocen a su Salvador<br>Tal y como somos nos amó<br>Hoy nos acercamos sin temor<br><br>Él es el agua que al beber<br>Nunca más tendremos sed<br>Jesucristo Basta<br>Jesucristo Basta<br><br>// Mi castigo recibió<br>Y su herencia me entregó<br>Jesucristo Basta <br>Jesucristo Basta //<br><br>Fuimos alcanzados por su grande amor<br>con brazos abiertos nos recibe hoy<br>// Tal y como somos nos amó<br>Hoy nos acercamos sin temor //<br><br>Él es el agua que al beber<br>Nunca más tendremos sed<br>Jesucristo Basta<br>Jesucristo Basta<br><br>// Mi castigo recibió<br>Y su herencia me entregó<br>Jesucristo Basta <br>Jesucristo Basta //<br><br>Ahora hay un futuro y esperanza fiel<br>En su amor confiamos, hay descanso en Él<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 37,
-    "title": " <h1 class='unica'>Kadosh</h1>",
-    "estrofas": "<article class='mejorada'>// Kadosh, Kadosh, Kadosh //<br>// Adonay, Elohim Tzevaot //<br><br>// Santo, Santo, Santo //<br>// Señor, nuestro Dios de poder //<br><br>// Quien fue y Quien es<br> y Quien ha de venir //<br></article>"
+    "title": " <h1 class='titleDark'>Kadosh</h1>",
+    "estrofas": "<article class='contentDark'>// Kadosh, Kadosh, Kadosh //<br>// Adonay, Elohim Tzevaot //<br><br>// Santo, Santo, Santo //<br>// Señor, nuestro Dios de poder //<br><br>// Quien fue y Quien es<br> y Quien ha de venir //<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 38,
-    "title": " <h1 class='unica'>La misma fe</h1>",
-    "estrofas": "<article class='mejorada'>La misma fe, el mismo amor<br>un mismo espíritu nos une hoy<br>en ti Señor para adorarte como siempre<br>para adorar de corazón<br><br>Ayer Señor, sin solución<br>perdidos cada cual, sin salvación<br>sin tu perdón y miera siendo diferentes<br>nos unes en adoración<br><br>Salvador, nosotros somos esa gente<br>que ayer en rumbos diferentes<br>pasaba el tiempo sin razón<br>Salvador hoy nos unimos reverentes<br>reconociendo en una mente<br>al Dios de nuestra salvación<br><br>Un mismo Dios y gran Señor<br>un mismo Espíritu que nos amó<br>nos escogió,   para adorarte<br>como siempre<br>para adorar de corazón<br></article>"
+    "title": " <h1 class='titleDark'>La misma fe</h1>",
+    "estrofas": "<article class='contentDark'>La misma fe, el mismo amor<br>un mismo espíritu nos une hoy<br>en ti Señor para adorarte como siempre<br>para adorar de corazón<br><br>Ayer Señor, sin solución<br>perdidos cada cual, sin salvación<br>sin tu perdón y miera siendo diferentes<br>nos unes en adoración<br><br>Salvador, nosotros somos esa gente<br>que ayer en rumbos diferentes<br>pasaba el tiempo sin razón<br>Salvador hoy nos unimos reverentes<br>reconociendo en una mente<br>al Dios de nuestra salvación<br><br>Un mismo Dios y gran Señor<br>un mismo Espíritu que nos amó<br>nos escogió,   para adorarte<br>como siempre<br>para adorar de corazón<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 39,
-    "title": " <h1 class='unica'>Llevame al lugar santísimo</h1>",
-    "estrofas": "<article class='mejorada'>Señor llevame a tus atrios<br>y al lugar santo <br>al altar de bronce <br>Señor tu rostro quiero ver<br><br>Pásame la muchedumbre <br>por donde el sacerdote canta <br>tengo hambre y sed de justicia <br>y solo encuentro un lugar<br><br>Llevame al lugar santísimo<br>por la sangre del Cordero redentor<br>llevame al lugar santísimo<br>tocame limpiame heme aqui<br></article>"
+    "title": " <h1 class='titleDark'>Llevame al lugar santísimo</h1>",
+    "estrofas": "<article class='contentDark'>Señor llevame a tus atrios<br>y al lugar santo <br>al altar de bronce <br>Señor tu rostro quiero ver<br><br>Pásame la muchedumbre <br>por donde el sacerdote canta <br>tengo hambre y sed de justicia <br>y solo encuentro un lugar<br><br>Llevame al lugar santísimo<br>por la sangre del Cordero redentor<br>llevame al lugar santísimo<br>tocame limpiame heme aqui<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 40,
-    "title": " <h1 class='unica'>Menesteroso</h1>",
-    "estrofas": "<article class='mejorada'>// Padre celestial, de nuevo soy <br>suplicandote otra vez me prestes atención<br>Padre celestial, abre por favor<br>la puerta de bendición que tienes para mi //<br><br>// Porque soy un necesitado, un necesitado<br>que no sabe vivir sin tu presencia<br>Un menesteroso, un menesteroso<br>que desea que Tú lo visites //<br></article>"
+    "title": " <h1 class='titleDark'>Menesteroso</h1>",
+    "estrofas": "<article class='contentDark'>// Padre celestial, de nuevo soy <br>suplicandote otra vez me prestes atención<br>Padre celestial, abre por favor<br>la puerta de bendición que tienes para mi //<br><br>// Porque soy un necesitado, un necesitado<br>que no sabe vivir sin tu presencia<br>Un menesteroso, un menesteroso<br>que desea que Tú lo visites //<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 41,
-    "title": " <h1 class='unica'>No hay lugar más alto</h1>",
-    "estrofas": "<article class='mejorada'>A tus pies arde mi corazón<br>A tus pies entrego lo que soy<br>Ese lugar de mi seguridad<br>Donde nadie me puede señalar<br><br>Me perdonaste, me acercaste a tu presencia<br>Me levantaste, hoy me postro a adorarte<br><br>//No hay lugar más alto, más grande<br>Que estar a tus pies, que estar a tus pies //<br>Y aquí permaneceré, postrado a tus pies<br>Y aquí permaneceré a los pies de Cristo<br></article>"
+    "title": " <h1 class='titleDark'>No hay lugar más alto</h1>",
+    "estrofas": "<article class='contentDark'>A tus pies arde mi corazón<br>A tus pies entrego lo que soy<br>Ese lugar de mi seguridad<br>Donde nadie me puede señalar<br><br>Me perdonaste, me acercaste a tu presencia<br>Me levantaste, hoy me postro a adorarte<br><br>//No hay lugar más alto, más grande<br>Que estar a tus pies, que estar a tus pies //<br>Y aquí permaneceré, postrado a tus pies<br>Y aquí permaneceré a los pies de Cristo<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 42,
-    "title": " <h1 class='unica'>No hay palabras</h1>",
-    "estrofas": "<article class='mejorada'>Señor, no hay palabras que puedan<br>Describir tu grandeza y tu infinito amor<br>Los cielos están llenos de ti<br>Y el mar habla de tus proezas<br><br>No hay, no hay hombre que pueda<br>Describir tu grandeza o tu reino Señor<br>Porque es tan grande tu gloria<br>Que no hay hombre que te vea y viva<br><br>Jehová recibe tu siervo<br>Esta humilde alabanza que canto para ti<br>Jesús, sé mi luz y mi guía<br>y seeee el aire que respiro<br><br>Jehová revienta las cadenas<br>bendice tu pueblo, Jesús<br>Y pon alabanzas y gloria <br>y unidos alabemos a Dios<br><br>La, la, la... la, la, la... la, la, la<br></article>"
+    "title": " <h1 class='titleDark'>No hay palabras</h1>",
+    "estrofas": "<article class='contentDark'>Señor, no hay palabras que puedan<br>Describir tu grandeza y tu infinito amor<br>Los cielos están llenos de ti<br>Y el mar habla de tus proezas<br><br>No hay, no hay hombre que pueda<br>Describir tu grandeza o tu reino Señor<br>Porque es tan grande tu gloria<br>Que no hay hombre que te vea y viva<br><br>Jehová recibe tu siervo<br>Esta humilde alabanza que canto para ti<br>Jesús, sé mi luz y mi guía<br>y seeee el aire que respiro<br><br>Jehová revienta las cadenas<br>bendice tu pueblo, Jesús<br>Y pon alabanzas y gloria <br>y unidos alabemos a Dios<br><br>La, la, la... la, la, la... la, la, la<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 43,
-    "title": " <h1 class='unica'>Porque Tú eres bueno</h1>",
-    "estrofas": "<article class='mejorada'>Porque tu eres bueno<br>porque para siempre<br>tu misericordia es<br>cada mañana al despertar<br>se que en ti puedo confiar<br>me sostienes por tu gran fidelidad<br><br>Porque tu eres bueno<br>porque tu justicia<br>justicia eterna es<br>en ella yo me deleitare<br>en tu verdad caminare<br>en tu senda de justicia guíame<br></article>"
+    "title": " <h1 class='titleDark'>Porque Tú eres bueno</h1>",
+    "estrofas": "<article class='contentDark'>Porque tu eres bueno<br>porque para siempre<br>tu misericordia es<br>cada mañana al despertar<br>se que en ti puedo confiar<br>me sostienes por tu gran fidelidad<br><br>Porque tu eres bueno<br>porque tu justicia<br>justicia eterna es<br>en ella yo me deleitare<br>en tu verdad caminare<br>en tu senda de justicia guíame<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 44,
-    "title": " <h1 class='unica'>Que se abra el cielo</h1>",
-    "estrofas": "<article class='mejorada'>Dios bienvenido a este lugar<br>y en nuestro corazón<br> ven y haz voluntad<br><br>Dios te queremos conocer<br> con tu fuego abrazador<br> ven muevete otra vez<br><br>// Espíritu avivanos, te anhelamos Dios //<br><br>Ante tu gloria y majestad<br> sabemos que aquí estas<br> para darnos libertad<br>Entronate en nuestra adoración<br> Asombroso eres Señor<br> con tu presencia llenanos<br><br>// Espíritu avivanos, te anhelamos Dios //<br><br>//Que se abra el Cielo<br>muevete Señor<brvenga aquí tu Reino<br> oh Gran Dios///<br><br>// Y no hay cielo cerrado, se abre<br> Tu reino se mueve aquí<br>En Ti está nuestra esperanza<br> Oh, Gran Dios, oh, Gran Dios //<br></article>"
+    "title": " <h1 class='titleDark'>Que se abra el cielo</h1>",
+    "estrofas": "<article class='contentDark'>Dios bienvenido a este lugar<br>y en nuestro corazón<br> ven y haz voluntad<br><br>Dios te queremos conocer<br> con tu fuego abrazador<br> ven muevete otra vez<br><br>// Espíritu avivanos, te anhelamos Dios //<br><br>Ante tu gloria y majestad<br> sabemos que aquí estas<br> para darnos libertad<br>Entronate en nuestra adoración<br> Asombroso eres Señor<br> con tu presencia llenanos<br><br>// Espíritu avivanos, te anhelamos Dios //<br><br>//Que se abra el Cielo<br>muevete Señor<brvenga aquí tu Reino<br> oh Gran Dios///<br><br>// Y no hay cielo cerrado, se abre<br> Tu reino se mueve aquí<br>En Ti está nuestra esperanza<br> Oh, Gran Dios, oh, Gran Dios //<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 45,
-    "title": " <h1 class='unica'>¿Quién cómo Tú?</h1>",
-    "estrofas": "<article class='mejorada'>¿Quién cómo Tú, quién cómo Tú?<br>Lleno de gracia de amor y más, estás<br>¿Quién cómo Tú, Hijo de Dios?<br>El que venció la muerte y la maldad<br>en el calvario<br><br>¿Quién cómo Tú, quién cómo Tú?<br>Hijo de Dios El Rey de reyes, Señor señores<br>Lleno de gracia de amor y más, estás<br>¿Quién cómo Tú, quién cómo Tú?<br>Lleno de gracia de amor y más, estás<br></article>"
+    "title": " <h1 class='titleDark'>¿Quién cómo Tú?</h1>",
+    "estrofas": "<article class='contentDark'>¿Quién cómo Tú, quién cómo Tú?<br>Lleno de gracia de amor y más, estás<br>¿Quién cómo Tú, Hijo de Dios?<br>El que venció la muerte y la maldad<br>en el calvario<br><br>¿Quién cómo Tú, quién cómo Tú?<br>Hijo de Dios El Rey de reyes, Señor señores<br>Lleno de gracia de amor y más, estás<br>¿Quién cómo Tú, quién cómo Tú?<br>Lleno de gracia de amor y más, estás<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 46,
-    "title": " <h1 class='unica'>Quiero levantar las manos</h1>",
-    "estrofas": "<article class='mejorada'>Quiero levantar mis manos<br>quiero levantar mi voz<br>ofreciendo a tí mi vida<br>en santidad y amor<br><br>Padre solo a tí te ofrezco<br>mi vida y mi corazón<br>y me postro en tu presencia<br>en adoración<br><br>// Hijo de Dios, recibe hoy<br> toda la gloria, la honra y honor //<br></article>"
+    "title": " <h1 class='titleDark'>Quiero levantar las manos</h1>",
+    "estrofas": "<article class='contentDark'>Quiero levantar mis manos<br>quiero levantar mi voz<br>ofreciendo a tí mi vida<br>en santidad y amor<br><br>Padre solo a tí te ofrezco<br>mi vida y mi corazón<br>y me postro en tu presencia<br>en adoración<br><br>// Hijo de Dios, recibe hoy<br> toda la gloria, la honra y honor //<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 47,
-    "title": " <h1 class='unica'>Quiero redimir</h1>",
-    "estrofas": "<article class='mejorada'>// Quiero redimir el tiempo que me queda<br>para prepararme oh Señor<br>Para nuestro encuentro en tu venida<br>anhelo verte Señor //<br><br>Prepárame, quiero estar listo para verte Señor<br>Restáurame, y límpiame eso es mi oración<br>Anhelo verte señor,  en tu gloria y majestad<br><br>// Quiero redimir el tiempo que me queda<br>para prepararme oh Señor<br>Para nuestro encuentro en tu venida<br>anhelo verte Señor //<br><br>Repárame, quiero estar listo para verte Señor<br>Y guíame, auméntame mi fe es mi oración<br>Anhelo verte señor, en tu gloria y majestad<br><br>Repárame, quiero estar listo para verte Señor<br>Y guíame, auméntame mi fe es mi oración<br>//// Anhelo verte señor, en tu gloria y majestad ////<br></article>"
+    "title": " <h1 class='titleDark'>Quiero redimir</h1>",
+    "estrofas": "<article class='contentDark'>// Quiero redimir el tiempo que me queda<br>para prepararme oh Señor<br>Para nuestro encuentro en tu venida<br>anhelo verte Señor //<br><br>Prepárame, quiero estar listo para verte Señor<br>Restáurame, y límpiame eso es mi oración<br>Anhelo verte señor,  en tu gloria y majestad<br><br>// Quiero redimir el tiempo que me queda<br>para prepararme oh Señor<br>Para nuestro encuentro en tu venida<br>anhelo verte Señor //<br><br>Repárame, quiero estar listo para verte Señor<br>Y guíame, auméntame mi fe es mi oración<br>Anhelo verte señor, en tu gloria y majestad<br><br>Repárame, quiero estar listo para verte Señor<br>Y guíame, auméntame mi fe es mi oración<br>//// Anhelo verte señor, en tu gloria y majestad ////<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 48,
-    "title": " <h1 class='unica'>Salmo 5</h1>",
-    "estrofas": "<article class='mejorada'>// Escucha oh Dios mis palabras<br>considera mi gemir<br>está atento a la voz de mi clamor<br>Rey mío mi Dios y Dios mio //<br><br>// De mañana me presentaré delante de ti<br>de mañana oirás mi voz a ti oraré<br>de mañana me presentaré delante de ti<br>de mañana oirás mi voz y esperaré //<br><br></article>"
+    "title": " <h1 class='titleDark'>Salmo 5</h1>",
+    "estrofas": "<article class='contentDark'>// Escucha oh Dios mis palabras<br>considera mi gemir<br>está atento a la voz de mi clamor<br>Rey mío mi Dios y Dios mio //<br><br>// De mañana me presentaré delante de ti<br>de mañana oirás mi voz a ti oraré<br>de mañana me presentaré delante de ti<br>de mañana oirás mi voz y esperaré //<br><br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 49,
-    "title": " <h1 class='unica'>Salmo 91</h1>",
-    "estrofas": "<article class='mejorada'>Me libraras del cazador<br>de la peste del destructor<br>con tus plumas me cubriré<br>y debajo de tus alas viviré<br><br>// Yo diré a Jehová, esperanza mía y mi castillo<br>mi Dios en quién confiaré//<br>// Yo habito al abrigo del Omnipotente<br>yo moro bajo la sombra del Altísimo//<br><br>Caerán a mi lado mil<br>y a mi diestra caerán diez mil<br>mas a mi no llegarán<br>porque he puesto mi amor en ti<br></article>"
+    "title": " <h1 class='titleDark'>Salmo 91</h1>",
+    "estrofas": "<article class='contentDark'>Me libraras del cazador<br>de la peste del destructor<br>con tus plumas me cubriré<br>y debajo de tus alas viviré<br><br>// Yo diré a Jehová, esperanza mía y mi castillo<br>mi Dios en quién confiaré//<br>// Yo habito al abrigo del Omnipotente<br>yo moro bajo la sombra del Altísimo//<br><br>Caerán a mi lado mil<br>y a mi diestra caerán diez mil<br>mas a mi no llegarán<br>porque he puesto mi amor en ti<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 50,
-    "title": " <h1 class='unica'>Señor estoy aquí</h1>",
-    "estrofas": "<article class='mejorada'>Señor estoy aquí<br>necesitado aún más de ti<br>Reconozco que hay<br> muchas dentro de mí<br>Desagradables a ti<br>Necesito un cambio<br>ayúdame señor<br>Dale un cambio a mi vida por favor<br><br>// Cámbiame señor te lo pido hoy<br>Cámbiame señor te lo ruego por favor<br>Cámbiame señor lo grito ya no quiero ser mas yo<br>Lo que quiero es parecerme a Jesús//<br></article>"
+    "title": " <h1 class='titleDark'>Señor estoy aquí</h1>",
+    "estrofas": "<article class='contentDark'>Señor estoy aquí<br>necesitado aún más de ti<br>Reconozco que hay<br> muchas dentro de mí<br>Desagradables a ti<br>Necesito un cambio<br>ayúdame señor<br>Dale un cambio a mi vida por favor<br><br>// Cámbiame señor te lo pido hoy<br>Cámbiame señor te lo ruego por favor<br>Cámbiame señor lo grito ya no quiero ser mas yo<br>Lo que quiero es parecerme a Jesús//<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 51,
-    "title": " <h1 class='unica'>Sólo Tú eres santo</h1>",
-    "estrofas": "<article class='mejorada'>Solo Tú eres santo<br>Solo Tú eres digno<br>Tú eres hermoso<br>y maravilloso<br>derrama tu espíritu<br>y que tu luz brille<br>que tu gloria llene <br>ahora mismo este lugar<br><br>// Quiero llenar<br>tu trono de alabanza<br>quiero llenar<br>tu trono de adoración<br>quiero adorar<br>postrarme en tu presenciay proclamarte señor //<br></article>"
+    "title": " <h1 class='titleDark'>Sólo Tú eres santo</h1>",
+    "estrofas": "<article class='contentDark'>Solo Tú eres santo<br>Solo Tú eres digno<br>Tú eres hermoso<br>y maravilloso<br>derrama tu espíritu<br>y que tu luz brille<br>que tu gloria llene <br>ahora mismo este lugar<br><br>// Quiero llenar<br>tu trono de alabanza<br>quiero llenar<br>tu trono de adoración<br>quiero adorar<br>postrarme en tu presenciay proclamarte señor //<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 52,
-    "title": " <h1 class='unica'>Soy un altar</h1>",
-    "estrofas": "<article class='mejorada'>Que hermoso que estes aqui<br>   aqui tan cerca de mi<br>eres todo lo que quiero<br> me desespero por ti<br><br>Sorpréndeme una vez más<br>no me conformo Señor<br>eres todo lo que anhelo<br>quiero vivir para ti<br>dejame estar aqui<br> junto a ti mi Jesús<br><br>Hoy yo soy un altar<br>donde puede morar hoy tu dulce presencia<br>ven y toma todo de mi, que sea digno de ti<br>agradarte yo quiero, lo anhelo</article>"
+    "title": " <h1 class='titleDark'>Soy un altar</h1>",
+    "estrofas": "<article class='contentDark'>Que hermoso que estes aqui<br>   aqui tan cerca de mi<br>eres todo lo que quiero<br> me desespero por ti<br><br>Sorpréndeme una vez más<br>no me conformo Señor<br>eres todo lo que anhelo<br>quiero vivir para ti<br>dejame estar aqui<br> junto a ti mi Jesús<br><br>Hoy yo soy un altar<br>donde puede morar hoy tu dulce presencia<br>ven y toma todo de mi, que sea digno de ti<br>agradarte yo quiero, lo anhelo</article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 53,
-    "title": " <h1 class='unica'>Su Poder</h1>",
-    "estrofas": "<article class='mejorada'>Nunca ha perdido una batalla<br>Su nombre tiene todo el poder<br>Sus palabras son espíritu y vida<br>Y dan aliento a mi ser<br><br>En el desierto Él es Dios<br>Y Su gloria hoy podemos ver<br><br>Hay poder en Su Nombre<br>Hay poder en Su presencia<br>Hay poder en Su resurrección<br><br>Hay poder en Su sangre<br>Hay poder en Su Palabra<br>Hay poder en el Nombre de Jesús<br><br>En la adversidad Él se levanta<br>Me sostiene su favor<br>Él me libra de todos mis temores<br>Y borra toda transgresión<br><br>En todo tiempo eres Dios<br>Mi adoración es para Él<br></article>"
+    "title": " <h1 class='titleDark'>Su Poder</h1>",
+    "estrofas": "<article class='contentDark'>Nunca ha perdido una batalla<br>Su nombre tiene todo el poder<br>Sus palabras son espíritu y vida<br>Y dan aliento a mi ser<br><br>En el desierto Él es Dios<br>Y Su gloria hoy podemos ver<br><br>Hay poder en Su Nombre<br>Hay poder en Su presencia<br>Hay poder en Su resurrección<br><br>Hay poder en Su sangre<br>Hay poder en Su Palabra<br>Hay poder en el Nombre de Jesús<br><br>En la adversidad Él se levanta<br>Me sostiene su favor<br>Él me libra de todos mis temores<br>Y borra toda transgresión<br><br>En todo tiempo eres Dios<br>Mi adoración es para Él<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 54,
-    "title": " <h1 class='unica'>Te abrazaré</h1>",
-    "estrofas": "<article class='mejorada'>/// Te abrazaré como Jacob<br>Te abrazaré con mi adoración ///<br><br>//// Te ungiré como esa mujer<br>que el vaso quebró la casa llenó ////<br></article>"
+    "title": " <h1 class='titleDark'>Te abrazaré</h1>",
+    "estrofas": "<article class='contentDark'>/// Te abrazaré como Jacob<br>Te abrazaré con mi adoración ///<br><br>//// Te ungiré como esa mujer<br>que el vaso quebró la casa llenó ////<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 55,
-    "title": " <h1 class='unica'>Tengo sed</h1>",
-    "estrofas": "<article class='mejorada'>Tengo sed de mi Dios<br>Tengo sed de adorar<br><br>Quiebro mi corazón<br>Derramo lo que soy<br>Sólo quiero adorar<br></article>"
+    "title": " <h1 class='titleDark'>Tengo sed</h1>",
+    "estrofas": "<article class='contentDark'>Tengo sed de mi Dios<br>Tengo sed de adorar<br><br>Quiebro mi corazón<br>Derramo lo que soy<br>Sólo quiero adorar<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 56,
-    "title": " <h1 class='unica'>Tú</h1>",
-    "estrofas": "<article class='mejorada'>Tu gracia me visitó<br>Sanando mi corazón<br>Mi casa se iluminó de tu luz<br><br>Hablaste a mi corazón<br>Tu voz me dio dirección<br>Camino al amparo de tu luz<br><br>// Y en la tempestad estaré seguro<br>Tú me sostendrás con tu brazo fuerte<br>Tú, mi buen Pastor<br>guiarás mis pasos<br>Cuidarás de mí //<br><br>Tú, cuidas de mí, Tú, velas por mí<br> Tú, vives en mí, <br>Tú, mi seguridad, Mi fuente de paz<br> Tú, cuidas de mí<br>Tú, cuidas de mí, Tú, velas por mí<br> Tú, vives en mí, <br>Y en la tempestad estaré seguro….</article>"
+    "title": " <h1 class='titleDark'>Tú</h1>",
+    "estrofas": "<article class='contentDark'>Tu gracia me visitó<br>Sanando mi corazón<br>Mi casa se iluminó de tu luz<br><br>Hablaste a mi corazón<br>Tu voz me dio dirección<br>Camino al amparo de tu luz<br><br>// Y en la tempestad estaré seguro<br>Tú me sostendrás con tu brazo fuerte<br>Tú, mi buen Pastor<br>guiarás mis pasos<br>Cuidarás de mí //<br><br>Tú, cuidas de mí, Tú, velas por mí<br> Tú, vives en mí, <br>Tú, mi seguridad, Mi fuente de paz<br> Tú, cuidas de mí<br>Tú, cuidas de mí, Tú, velas por mí<br> Tú, vives en mí, <br>Y en la tempestad estaré seguro….</article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 57,
-    "title": " <h1 class='unica'>Tú dices</h1>",
-    "estrofas": "<article class='mejorada'>Lucho con las voces en mi mente<br>dicen nada soy<br>Me dicen mentiras<br>que no me dejan oír tu voz<br><br>En cada momento me demuestras<br>que no soy mi error<br>Recuérdame quién soy en ti<br>quiero escuchar tu voz<br><br>Dices que me amas<br> tal y como soy<br>dices que soy fuerte<br> cuando débil soy<br>y al tropezar me levantarás<br> dices que soy tuyo, que tu hijo soy<br>Y creo en Ti, yo creo en Ti<br>lo que dices de mi, creo en Ti<br><br>Lo único que importa ahora<br>es lo que piensas Tú de mí<br>Encontré mi identidad<br>Encontré valor en Ti<br><br>Todo lo que tengo y lo que soy<br> lo rindo a tus pies<br>en cada derrota y victoria<br>en Ti yo confiaré<br></article>"
+    "title": " <h1 class='titleDark'>Tú dices</h1>",
+    "estrofas": "<article class='contentDark'>Lucho con las voces en mi mente<br>dicen nada soy<br>Me dicen mentiras<br>que no me dejan oír tu voz<br><br>En cada momento me demuestras<br>que no soy mi error<br>Recuérdame quién soy en ti<br>quiero escuchar tu voz<br><br>Dices que me amas<br> tal y como soy<br>dices que soy fuerte<br> cuando débil soy<br>y al tropezar me levantarás<br> dices que soy tuyo, que tu hijo soy<br>Y creo en Ti, yo creo en Ti<br>lo que dices de mi, creo en Ti<br><br>Lo único que importa ahora<br>es lo que piensas Tú de mí<br>Encontré mi identidad<br>Encontré valor en Ti<br><br>Todo lo que tengo y lo que soy<br> lo rindo a tus pies<br>en cada derrota y victoria<br>en Ti yo confiaré<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 58,
-    "title": " <h1 class='unica'>Tú eres Dios</h1>",
-    "estrofas": "<article class='mejorada'>// Tú eres Dios, Tú eres mi Rey<br>Tú eres Señor Jesús<br>Y con mi voz, declararé<br>Que Tú eres Rey, eres Señor //<br><br>// Sobre un trono de justicia<br>Te has sentado en majestad<br>con tu Palabra de autoridad<br>en mi vida reinarás //<br></article>"
+    "title": " <h1 class='titleDark'>Tú eres Dios</h1>",
+    "estrofas": "<article class='contentDark'>// Tú eres Dios, Tú eres mi Rey<br>Tú eres Señor Jesús<br>Y con mi voz, declararé<br>Que Tú eres Rey, eres Señor //<br><br>// Sobre un trono de justicia<br>Te has sentado en majestad<br>con tu Palabra de autoridad<br>en mi vida reinarás //<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 59,
-    "title": " <h1 class='unica'>Tú estas aquí</h1>",
-    "estrofas": "<article class='mejorada'>Aunque mis ojos<br>no te puedan ver, te puedo sentir<br>Sé que estás aquí<br><br>Aunque mis manos no puedan tocar<br> tu rostro Señor,Sé que estás aquí<br><br>Mi corazón, puede sentir tu Presencia<br>Tú estás aquí, Tú estás aquí<br>Puedo sentir, tu majestad<br>Tú estás aquí, Tú estás aquí<br><br>Mi corazón, puede mirar tu hermosura<br>Tú estás aquí, Tú estás aquí<br>Puedo sentir, tu gran amor<br>Tú estás aquí, Tú estás aquí<br></article>"
+    "title": " <h1 class='titleDark'>Tú estas aquí</h1>",
+    "estrofas": "<article class='contentDark'>Aunque mis ojos<br>no te puedan ver, te puedo sentir<br>Sé que estás aquí<br><br>Aunque mis manos no puedan tocar<br> tu rostro Señor,Sé que estás aquí<br><br>Mi corazón, puede sentir tu Presencia<br>Tú estás aquí, Tú estás aquí<br>Puedo sentir, tu majestad<br>Tú estás aquí, Tú estás aquí<br><br>Mi corazón, puede mirar tu hermosura<br>Tú estás aquí, Tú estás aquí<br>Puedo sentir, tu gran amor<br>Tú estás aquí, Tú estás aquí<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 60,
-    "title": " <h1 class='unica'>Tú habitas aquí</h1>",
-    "estrofas": "<article class='mejorada'>Tú habitas aquí<br> en medio de esta alabanza<br>tu presencia adoro<br>Tú  recibe el honor<br><br>Tú me llenas a mi<br> de aliento y fortaleza<br> tu presencia adoro<br> Tú  recibe el poder. (mi señor)<br><br>//Santo, santo , santo es el Señor<br>vives para siempre<br>Santo, santo//<br></article>"
+    "title": " <h1 class='titleDark'>Tú habitas aquí</h1>",
+    "estrofas": "<article class='contentDark'>Tú habitas aquí<br> en medio de esta alabanza<br>tu presencia adoro<br>Tú  recibe el honor<br><br>Tú me llenas a mi<br> de aliento y fortaleza<br> tu presencia adoro<br> Tú  recibe el poder. (mi señor)<br><br>//Santo, santo , santo es el Señor<br>vives para siempre<br>Santo, santo//<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 61,
-    "title": " <h1 class='unica'>Tu mereces la gloria</h1>",
-    "estrofas": "<article class='mejorada'>Tú mereces la gloria y el honor<br> y mi adoración<br>Yo postrado traigo a ti corazón<br> bendiciendote<br><br>Oh Altísimo, majestuoso Dios<br> reinas con poder<br>Eres Santo quién como Tú<br> oh Adonáy<br><br>Sólo a ti bendeciré<br> bendeciré tu Nombre<br>Bendito eres Tú,    bendito eres Tú<br>Bendito eres Tú, bendito eres Tú<br></article>"
+    "title": " <h1 class='titleDark'>Tu mereces la gloria</h1>",
+    "estrofas": "<article class='contentDark'>Tú mereces la gloria y el honor<br> y mi adoración<br>Yo postrado traigo a ti corazón<br> bendiciendote<br><br>Oh Altísimo, majestuoso Dios<br> reinas con poder<br>Eres Santo quién como Tú<br> oh Adonáy<br><br>Sólo a ti bendeciré<br> bendeciré tu Nombre<br>Bendito eres Tú,    bendito eres Tú<br>Bendito eres Tú, bendito eres Tú<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 62,
-    "title": " <h1 class='unica'>Tu Nombre levantaré</h1>",
-    "estrofas": "<article class='mejorada'>// Tu Nombre levantaré<br>me deleito en adorarte<br>te agradezco que en mi vida estés<br>que vinieras a salvarme //<br><br>// Dejaste el trono para<br>mostrarnos la luz<br>de tu trono a la cruz<br>y mi deuda pagar<br>de la cruz a morir<br> de la muerte a tu trono<br>tu Nombre levantare //<br></article>"
+    "title": " <h1 class='titleDark'>Tu Nombre levantaré</h1>",
+    "estrofas": "<article class='contentDark'>// Tu Nombre levantaré<br>me deleito en adorarte<br>te agradezco que en mi vida estés<br>que vinieras a salvarme //<br><br>// Dejaste el trono para<br>mostrarnos la luz<br>de tu trono a la cruz<br>y mi deuda pagar<br>de la cruz a morir<br> de la muerte a tu trono<br>tu Nombre levantare //<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 63,
-    "title": " <h1 class='unica'>Tu presencia</h1>",
-    "estrofas": "<article class='mejorada'>laralala laralala<br> laralala laralala laralala<br>Bueno es sentir tu presencia<br>mejor aún estar en tu voluntad<br>porque sintiendo tu presencia<br>me purifico el alma y todo mi ser<br><br>Bueno es sentir tu presencia<br>y poco a poco cada días estar<br> más cerca de ti<br>por eso digo en mi cantar<br>por eso digo sin cesar<br>que es bueno sentir<br>la presencia de Dios<br><br>laralala laralala<br> laralala laralala laralala<br>Bueno es sentir tu presencia<br>mejor aún es tu gran amor<br>porque sintiendo tu presenciame purifico el alma y todo mi ser<br><br>Bueno es sentir tu presencia<br>allá en lo más profundo del corazón<br>porque sintiendo tu presenciat<br>u amor perfecto saca mi temor<br></article>"
+    "title": " <h1 class='titleDark'>Tu presencia</h1>",
+    "estrofas": "<article class='contentDark'>laralala laralala<br> laralala laralala laralala<br>Bueno es sentir tu presencia<br>mejor aún estar en tu voluntad<br>porque sintiendo tu presencia<br>me purifico el alma y todo mi ser<br><br>Bueno es sentir tu presencia<br>y poco a poco cada días estar<br> más cerca de ti<br>por eso digo en mi cantar<br>por eso digo sin cesar<br>que es bueno sentir<br>la presencia de Dios<br><br>laralala laralala<br> laralala laralala laralala<br>Bueno es sentir tu presencia<br>mejor aún es tu gran amor<br>porque sintiendo tu presenciame purifico el alma y todo mi ser<br><br>Bueno es sentir tu presencia<br>allá en lo más profundo del corazón<br>porque sintiendo tu presenciat<br>u amor perfecto saca mi temor<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 64,
-    "title": " <h1 class='unica'>Viene</h1>",
-    "estrofas": "<article class='mejorada'></article>"
+    "title": " <h1 class='titleDark'>Viene</h1>",
+    "estrofas": "<article class='contentDark'></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 65,
-    "title": " <h1 class='unica'>Venimos ante ti</h1>",
-    "estrofas": "<article class='mejorada'>// Venimos ante ti Señor<br> para adorarte<br>Para exaltarte, mi Rey<br>Venimos ante ti Señor<br> a tributarte<br>Toda la gloria mi Dios //<br><br>Mejor es tu presencia, que la vida<br>Es un deleite contemplar tu hermosura<br>Estar rodeado. de tu santidad y amor<br>Tu presencia es lo mejor<br></article>"
+    "title": " <h1 class='titleDark'>Venimos ante ti</h1>",
+    "estrofas": "<article class='contentDark'>// Venimos ante ti Señor<br> para adorarte<br>Para exaltarte, mi Rey<br>Venimos ante ti Señor<br> a tributarte<br>Toda la gloria mi Dios //<br><br>Mejor es tu presencia, que la vida<br>Es un deleite contemplar tu hermosura<br>Estar rodeado. de tu santidad y amor<br>Tu presencia es lo mejor<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 66,
-    "title": " <h1 class='unica'>Ven, Espíritu ven</h1>",
-    "estrofas": "<article class='mejorada'>// Ven, Espíritu, ven<br>Y lléname, Señor<br>Con tu preciosa unción //<br<br>Purifícame y lávame, renuévame<br>Restáurame, Señor con tu poder<br>Purifícame y lávame, renuévame<br>Restáurame, Señor Te quiero conocer<br></article>"
+    "title": " <h1 class='titleDark'>Ven, Espíritu ven</h1>",
+    "estrofas": "<article class='contentDark'>// Ven, Espíritu, ven<br>Y lléname, Señor<br>Con tu preciosa unción //<br<br>Purifícame y lávame, renuévame<br>Restáurame, Señor con tu poder<br>Purifícame y lávame, renuévame<br>Restáurame, Señor Te quiero conocer<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 67,
-    "title": " <h1 class='unica'Ven mi amado></h1>",
-    "estrofas": "<article class='mejorada'></article>"
+    "title": " <h1 class='titleDark'Ven mi amado></h1>",
+    "estrofas": "<article class='contentDark'></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 68,
-    "title": " <h1 class='unica'>Ven y llena</h1>",
-    "estrofas": "<article class='mejorada'>// Al mirar tu santidad<br>Somos transformados a tu imagen<br>Al mirar tu majestad<br>De gloria en gloria cámbiame Señor//<br><br>/// Ven y llena<br> esta casa con tu gloria ///<br>La gloria postrera<br> será mayor que la primera<br>aumenta en mi tu Gloria oh Jesús<br></article>"
+    "title": " <h1 class='titleDark'>Ven y llena</h1>",
+    "estrofas": "<article class='contentDark'>// Al mirar tu santidad<br>Somos transformados a tu imagen<br>Al mirar tu majestad<br>De gloria en gloria cámbiame Señor//<br><br>/// Ven y llena<br> esta casa con tu gloria ///<br>La gloria postrera<br> será mayor que la primera<br>aumenta en mi tu Gloria oh Jesús<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 69,
-    "title": " <h1 class='unica'>Vengo a ti hoy Señor</h1>",
-    "estrofas": "<article class='mejorada'>// Vengo a ti hoy Señor<br a rendir mi corazón<br>Quiero más de ti<br>Toma mi necesidad<br>dame tu preciosa paz<br>Quiero más de ti //<br><br>// Dame, dame, dame más de ti<br>Bendito Señor<br>Dame, dame, dame más de ti<br>Quiero más de ti //<br></article>"
+    "title": " <h1 class='titleDark'>Vengo a ti hoy Señor</h1>",
+    "estrofas": "<article class='contentDark'>// Vengo a ti hoy Señor<br a rendir mi corazón<br>Quiero más de ti<br>Toma mi necesidad<br>dame tu preciosa paz<br>Quiero más de ti //<br><br>// Dame, dame, dame más de ti<br>Bendito Señor<br>Dame, dame, dame más de ti<br>Quiero más de ti //<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 70,
-    "title": " <h1 class='unica'>Vine a adorarte</h1>",
-    "estrofas": "<article class='mejorada'>Tú  eres  la  luz<br>Que brillo en las tinieblas<br>Abrió mis ojos pude ver<br>Mi corazón adora tu hermosura<br>Esperanza de mi vida eres tú<br><br>// Vine adorarte<br>Vine a postrarme<br>Vine   a decir que eres mi Dios<br>Solo tú eres grande<br>Solo tu eres digno<br>eres asombroso para mi //<br><br>Tú eres el Rey<br>Grandemente exaltado<br>Glorioso por siempre Señor<br>El mundo que creaste humilde viviste<br>Y pobre te hiciste por Amor<br><br>// Vine adorarte<br>Vine a postrarme<br>Vine   a decir que eres mi Dios<br>Solo tú eres grande<br>Solo tu eres digno<br>eres asombroso para mi //<br><br>Nunca sabré, cuánto costó<br>Ver mi maldad sobre esa cruz<br>// Vine adorarte<br>Vine a postrarme<br>Vine   a decir que eres mi Dios<br>Solo tú eres grande<br>Solo tu eres digno<br>eres asombroso para mi //<br><br></article>"
+    "title": " <h1 class='titleDark'>Vine a adorarte</h1>",
+    "estrofas": "<article class='contentDark'>Tú  eres  la  luz<br>Que brillo en las tinieblas<br>Abrió mis ojos pude ver<br>Mi corazón adora tu hermosura<br>Esperanza de mi vida eres tú<br><br>// Vine adorarte<br>Vine a postrarme<br>Vine   a decir que eres mi Dios<br>Solo tú eres grande<br>Solo tu eres digno<br>eres asombroso para mi //<br><br>Tú eres el Rey<br>Grandemente exaltado<br>Glorioso por siempre Señor<br>El mundo que creaste humilde viviste<br>Y pobre te hiciste por Amor<br><br>// Vine adorarte<br>Vine a postrarme<br>Vine   a decir que eres mi Dios<br>Solo tú eres grande<br>Solo tu eres digno<br>eres asombroso para mi //<br><br>Nunca sabré, cuánto costó<br>Ver mi maldad sobre esa cruz<br>// Vine adorarte<br>Vine a postrarme<br>Vine   a decir que eres mi Dios<br>Solo tú eres grande<br>Solo tu eres digno<br>eres asombroso para mi //<br><br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 71,
-    "title": " <h1 class='unica'>Yo entro al lugar más santo</h1>",
-    "estrofas": "<article class='mejorada'>Yo entro al lugar más santo<br>através del Cordero de Dios<br>y vengo tan sólo a adorarte<br>yo entro a honrar al Yo Soy<br><br>// Dios te adoro a ti, te adoro a ti //<br>//// Pues Tu Nombre es Santo, Santo Dios ////<br></article>"
+    "title": " <h1 class='titleDark'>Yo entro al lugar más santo</h1>",
+    "estrofas": "<article class='contentDark'>Yo entro al lugar más santo<br>através del Cordero de Dios<br>y vengo tan sólo a adorarte<br>yo entro a honrar al Yo Soy<br><br>// Dios te adoro a ti, te adoro a ti //<br>//// Pues Tu Nombre es Santo, Santo Dios ////<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 72,
-    "title": " <h1 class='unica'>Yo te busco</h1>",
-    "estrofas": "<article class='mejorada'>Yo te busco, yo te busco<br>Con fuego en mi corazón<br>Yo te busco, yo te busco<br>Recibe mi adoración<br><br>// Te anhelo, te necesito<br>Te amo, mas que a mi ser //<br></article>"
+    "title": " <h1 class='titleDark'>Yo te busco</h1>",
+    "estrofas": "<article class='contentDark'>Yo te busco, yo te busco<br>Con fuego en mi corazón<br>Yo te busco, yo te busco<br>Recibe mi adoración<br><br>// Te anhelo, te necesito<br>Te amo, mas que a mi ser //<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 73,
-    "title": " <h1 class='unica'>Way maker</h1>",
-    "estrofas": "<article class='mejorada'>// Aquí estas, te vemos mover<br>te adoraré,   te adoraré<br>aquí estás, obrando en mi<br>te adoraré, te adoraré //<br><br>// Milagroso, abres caminos<br>cumples promesas, Luz en tinieblas<br>mi Dios, así eres Tú //<br><br>// Aquí estás, sanando mi corazón<br>te adoraré, te adoraré<br>aquí estás, tocando mi corazón<br>te adoraré, te adoraré //<br><br>////// así eres Tú, así eres Tú<br> así eres Tú, así eres Tú/////<br><br>//// Aunque no pueda ver<br> estás obrando<br>aunque no pueda ver<br> estás obrando<br>siempre estás<br> siempre estás obrando<br>siempre estás<br> siempre estás obrando ////<br></article>"
+    "title": " <h1 class='titleDark'>Way maker</h1>",
+    "estrofas": "<article class='contentDark'>// Aquí estas, te vemos mover<br>te adoraré,   te adoraré<br>aquí estás, obrando en mi<br>te adoraré, te adoraré //<br><br>// Milagroso, abres caminos<br>cumples promesas, Luz en tinieblas<br>mi Dios, así eres Tú //<br><br>// Aquí estás, sanando mi corazón<br>te adoraré, te adoraré<br>aquí estás, tocando mi corazón<br>te adoraré, te adoraré //<br><br>////// así eres Tú, así eres Tú<br> así eres Tú, así eres Tú/////<br><br>//// Aunque no pueda ver<br> estás obrando<br>aunque no pueda ver<br> estás obrando<br>siempre estás<br> siempre estás obrando<br>siempre estás<br> siempre estás obrando ////<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 74,
-    "title": " <h1 class='unica'>Yeshúa</h1>",
-    "estrofas": "<article class='mejorada'>Mi orgullo me sacó del jardín<br> su humildad puso el jardín en mi<br>si vendiera todo lo que tengo<br> a cambio de su amor yo fallaría<br>// Porque su amor no se compra<br> ni se merece<br> su amor es un regalo<br>De gracia se recibe //<br><br>// Quiero conocer a Jesús<br> yo quiero conocer a Jesús //<br><br>//// Yeshúa, Yeshúa ////<br>//// Mi Amado es el más bello<br> entre millares y millares ////<br>//// Yeshúa, Yeshúa ////<br></article>"
+    "title": " <h1 class='titleDark'>Yeshúa</h1>",
+    "estrofas": "<article class='contentDark'>Mi orgullo me sacó del jardín<br> su humildad puso el jardín en mi<br>si vendiera todo lo que tengo<br> a cambio de su amor yo fallaría<br>// Porque su amor no se compra<br> ni se merece<br> su amor es un regalo<br>De gracia se recibe //<br><br>// Quiero conocer a Jesús<br> yo quiero conocer a Jesús //<br><br>//// Yeshúa, Yeshúa ////<br>//// Mi Amado es el más bello<br> entre millares y millares ////<br>//// Yeshúa, Yeshúa ////<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 75,
-    "title": " <h1 class='unica'>Yeshúa ven a mí</h1>",
-    "estrofas": "<article class='mejorada'>Yeshúa ven a mi<br> no me dejes más<br>Mira como estoy<br>tenme compasión<br>Yeshúa ven a mi<br>no me dejes más<br>Mira como estoy<br> esperandote Señor<br><br>El me respondió<br> Él me dijo estoy aquí<br>Pero es tu corazón<br> el que no quería venir<br>Yo morí por ti, todo lo sacrifique<br>Pero hoy que estás en mí<br> Yo nunca te dejaré<br>Yeshúa vino a mí<br> hoy me siento muy feliz<br>Yo ya no lo dejaré<br> aunque me muera por Él<br>Yeshúa alegre está<br> porque yo ya estoy con Él<br>Él no me dejara porque amándome está<br></article>"
+    "title": " <h1 class='titleDark'>Yeshúa ven a mí</h1>",
+    "estrofas": "<article class='contentDark'>Yeshúa ven a mi<br> no me dejes más<br>Mira como estoy<br>tenme compasión<br>Yeshúa ven a mi<br>no me dejes más<br>Mira como estoy<br> esperandote Señor<br><br>El me respondió<br> Él me dijo estoy aquí<br>Pero es tu corazón<br> el que no quería venir<br>Yo morí por ti, todo lo sacrifique<br>Pero hoy que estás en mí<br> Yo nunca te dejaré<br>Yeshúa vino a mí<br> hoy me siento muy feliz<br>Yo ya no lo dejaré<br> aunque me muera por Él<br>Yeshúa alegre está<br> porque yo ya estoy con Él<br>Él no me dejara porque amándome está<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 76,
-    "title": " <h1 class='unica'>Yeshúa, ven a mi Señor</h1>",
-    "estrofas": "<article class='mejorada'>Yeshúa,  Yeshúa, Yeshúa, Yeshúa<br><br>Ven a mi Señor amado<br>mi   Redentor<br>Tu novia está aquí<br> esperando de tu gloria oh Gran Señor// Ven y muéstrate en los montes<br> de Jerusalén<br>vestida de novia esta tu Iglesia<br> te esperamos, oh Señor ven //<br><br></article>"
+    "title": " <h1 class='titleDark'>Yeshúa, ven a mi Señor</h1>",
+    "estrofas": "<article class='contentDark'>Yeshúa,  Yeshúa, Yeshúa, Yeshúa<br><br>Ven a mi Señor amado<br>mi   Redentor<br>Tu novia está aquí<br> esperando de tu gloria oh Gran Señor// Ven y muéstrate en los montes<br> de Jerusalén<br>vestida de novia esta tu Iglesia<br> te esperamos, oh Señor ven //<br><br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 77,
-    "title": " <h1 class='unica'>Sión</h1>",
-    "estrofas": "<article class='mejorada'>Oh hijas de Sión<br> oh hijos de Abraham<br>hoy dá vuestro Padre<br> su promesa de amor<br>los haré bendición<br> como estrellas serán<br>les daré esta tierra<br> serán una nación<br><br>Al lugar volverán<br> los traeré hijos míos<br>perdidos no andarán<br> no vagaran nunca más<br>no hay nada en la tierra<br> que puedan llevar<br>bajo mis alas los reuniré<br>hijos al lugar regresarán<br><br>Cómo un extranjero<br> caminaste en la tierra<br>les daré un Salvador<br> mi obra terminaré<br>no hay otro Pastor<br> no hay otro Señor<br>verdes pastos te esperan<br> en la tierra de Sión<br><br>Al lugar volverán<br> los traeré hijos míos<br>perdidos no andarán<br> no vagaran nunca más<br>no hay nada en la tierra<br> que puedan llevar<br>bajo mis alas los reuniré<br>hijos al lugar regresarán<br><br>Y clamemos por paz<br> mirando donde sale el sol<br>repentino y feroz<br>sacerdotes, profetas y reyes<br>verán al que fue traspasado<br> en la cruz<br>lloraremos por aquél que murió<br><br>Hijos míos no teman<br> oh hijos de Abraham<br>lavaré tus pecados<br> El Cordero daré<br>si son como la grana<br> blancos los volveré<br>siempre he estado contigo<br> nunca te dejaré<br><br>Al lugar volverán<br> los traeré hijos míos<br>perdidos no andarán<br> no vagaran nunca más<br>no hay nada en la tierra<br> que puedan llevar<br>bajo mis alas los reuniré<br>hijos al lugar regresarán<br><br>Adonáy Eloheinu, Adonáy ejad<br>Adonáy Eloheinu, Adonáy ejad (Shema Israel)<br>Adonáy Eloheinu, Adonáy ejad  (Shema Israel)<br>Adonáy Eloheinu, Adonáy ejad  <br></article>"
+    "title": " <h1 class='titleDark'>Sión</h1>",
+    "estrofas": "<article class='contentDark'>Oh hijas de Sión<br> oh hijos de Abraham<br>hoy dá vuestro Padre<br> su promesa de amor<br>los haré bendición<br> como estrellas serán<br>les daré esta tierra<br> serán una nación<br><br>Al lugar volverán<br> los traeré hijos míos<br>perdidos no andarán<br> no vagaran nunca más<br>no hay nada en la tierra<br> que puedan llevar<br>bajo mis alas los reuniré<br>hijos al lugar regresarán<br><br>Cómo un extranjero<br> caminaste en la tierra<br>les daré un Salvador<br> mi obra terminaré<br>no hay otro Pastor<br> no hay otro Señor<br>verdes pastos te esperan<br> en la tierra de Sión<br><br>Al lugar volverán<br> los traeré hijos míos<br>perdidos no andarán<br> no vagaran nunca más<br>no hay nada en la tierra<br> que puedan llevar<br>bajo mis alas los reuniré<br>hijos al lugar regresarán<br><br>Y clamemos por paz<br> mirando donde sale el sol<br>repentino y feroz<br>sacerdotes, profetas y reyes<br>verán al que fue traspasado<br> en la cruz<br>lloraremos por aquél que murió<br><br>Hijos míos no teman<br> oh hijos de Abraham<br>lavaré tus pecados<br> El Cordero daré<br>si son como la grana<br> blancos los volveré<br>siempre he estado contigo<br> nunca te dejaré<br><br>Al lugar volverán<br> los traeré hijos míos<br>perdidos no andarán<br> no vagaran nunca más<br>no hay nada en la tierra<br> que puedan llevar<br>bajo mis alas los reuniré<br>hijos al lugar regresarán<br><br>Adonáy Eloheinu, Adonáy ejad<br>Adonáy Eloheinu, Adonáy ejad (Shema Israel)<br>Adonáy Eloheinu, Adonáy ejad  (Shema Israel)<br>Adonáy Eloheinu, Adonáy ejad  <br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
   {
     "id": 79,
-    "title": " <h1 class='unica'>Poderoso Dios</h1>",
-    "estrofas": "<article class='mejorada'>Al que está sentado en el trono<br>Y al cordero, sea el honor<br>Sea la gloria, sea la honra<br>Sea el dominio por los siglos de los siglos<br><br>/// Poderoso Dios ///<br>Mi alma clama por ti<br></article>"
+    "title": " <h1 class='titleDark'>Poderoso Dios</h1>",
+    "estrofas": "<article class='contentDark'>Al que está sentado en el trono<br>Y al cordero, sea el honor<br>Sea la gloria, sea la honra<br>Sea el dominio por los siglos de los siglos<br><br>/// Poderoso Dios ///<br>Mi alma clama por ti<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
 
   {
     "id": 80,
-    "title": " <h1 class='unica'>Cuando levanto mis manos</h1>",
-    "estrofas": "<article class='mejorada'>Levanto mis manos<br>Aunque no tenga fuerzas<br>Levanto mis manos<br>Aunque tenga mil problemas<br><br>Cuando levanto mis manos<br>Comienzo a sentir<br>Una unción que me hace cantar<br>Cuando levanto mis manos<br>Comienzo a sentir, El fuego<br><br>Cuando levanto mis manos<br>Mis cargas se van<br>Nuevas fuerzas tú me das<br>// Todo eso es posible //<br>Cuando levanto mis manos<br></article>"
+    "title": " <h1 class='titleDark'>Cuando levanto mis manos</h1>",
+    "estrofas": "<article class='contentDark'>Levanto mis manos<br>Aunque no tenga fuerzas<br>Levanto mis manos<br>Aunque tenga mil problemas<br><br>Cuando levanto mis manos<br>Comienzo a sentir<br>Una unción que me hace cantar<br>Cuando levanto mis manos<br>Comienzo a sentir, El fuego<br><br>Cuando levanto mis manos<br>Mis cargas se van<br>Nuevas fuerzas tú me das<br>// Todo eso es posible //<br>Cuando levanto mis manos<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
 
   {
     "id": 81,
-    "title": " <h1 class='unica'>Temprano yo te buscare</h1>",
-    "estrofas": "<article class='mejorada'>Temprano yo te buscare<br>De madrugada yo me acercare a ti<br>Mi alma te ahnela y tiene sed<br>Para ver tu gloria y tu poder<br><br>Mi socorro haz sido Tú<br>Y en la sombra de tus alas<br>Yo me gozare<br>Mi alma esta apegada a ti<br>Porque tu Diestra me ha sostenido<br>Oh tu Diestra me ha sostenido<br></article>"
+    "title": " <h1 class='titleDark'>Temprano yo te buscare</h1>",
+    "estrofas": "<article class='contentDark'>Temprano yo te buscare<br>De madrugada yo me acercare a ti<br>Mi alma te ahnela y tiene sed<br>Para ver tu gloria y tu poder<br><br>Mi socorro haz sido Tú<br>Y en la sombra de tus alas<br>Yo me gozare<br>Mi alma esta apegada a ti<br>Porque tu Diestra me ha sostenido<br>Oh tu Diestra me ha sostenido<br></article>",
+    "background": "../assets/img/back_14.jpg"
   },
 
   {

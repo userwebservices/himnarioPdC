@@ -60,11 +60,11 @@
 
     }
     .unica {
-        font-family: var(--font-roboto); 
-        font-size: 5rem;
+        font-family: var(--letra-tituloPrincipal); 
+        font-size: 4rem;
         letter-spacing: 14px;
         text-transform: uppercase;
-        color: var(--color-primary);
+        color: var(--color-tertiary);
         padding: 0.5rem;
         margin: 0px;
         line-height: 100%;
@@ -78,7 +78,7 @@
         text-align: center;
         color: var(--color-tertiary);
         letter-spacing: 0.3rem;
-        line-height: 90%;
+        line-height: 95%;
         padding: 1rem 0rem 5rem 0rem; /*Esto hace que la letra, traída por AJAX, tenga espacio hasta abajo, y poco 1rem arriba, y 0 a los lados*/
     }
 
@@ -201,13 +201,32 @@
 
 
     /*Titulos personalziados por tipo de background*/
-    /*Background dark*/
+    /*Background dark
+    Esto funciona sobre imagenes claras*/
     .titleLight{
-        font-family: var(--letra-tituloPrincipal); /* Usando la variable que cree el 3april25 */
-        font-size: 4vw;
+        font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
+        font-weight: 300;
+        font-size: 5vw;
         text-align: center;
         color: var(--color-quaternary);
-        letter-spacing: 0.5rem; 
+        border-radius: 12px;
+        padding: 0.5vw;
+        background-color:  var(--color-secondary);
+        opacity: 50%;
+        display: inline-block;
+        margin-top: 1rem;
+    }
+
+    .subtitleLight{
+        font-family: var(--letra-tituloPrincipal); 
+        font-size: 4rem;
+        letter-spacing: 14px;
+        text-transform: uppercase;
+        color: var(--color-tertiary);
+        padding: 0.5rem;
+        margin: 0px;
+        line-height: 100%;
+        font-weight: 300;
     }
 
     .contentLight {
@@ -221,23 +240,32 @@
         font-weight: 300;
     }
 
-    /*Background light*/
+    /*Background light
+    Funciona con fotos de background oscuras*/
      .titleDark{
         font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
         font-weight: 300;
-        font-size: 7vw;
+        font-size: 5vw;
         text-align: center;
-        color: var(--color-quaternary);
-        letter-spacing: 0.7rem;
+        color: var(--color-secondary);
+        border-radius: 12px;
+        padding: 0.5vw;
+        background-color:  var(--color-quaternary);
+        opacity: 50%;
+        display: inline-block;
+        margin-top: 1rem;
     }
+
 
     .contentDark {
         font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
         font-weight: 300;
-        font-size: 7vw;
+        font-size: 6vw;
         text-align: center;
         color: var(--color-quaternary);
-        letter-spacing: 0.7rem;
+        letter-spacing: 0.1rem;
+        line-height: 100%;
+        padding: 1rem 0rem 5rem 0rem; /*Esto hace que la letra, traída por AJAX, tenga espacio hasta abajo, y poco 1rem arriba, y 0 a los lados*/
     }
 
     /* E N D  Styles for text with backgrounds: dark and light*/
@@ -246,7 +274,7 @@
 
     /*   ====****||||====****||||====****||||====****||||====****||||====****||||====****||||====****|||| */
     /*   Styles for text for Pesaj*/
-
+ 
     .pesaj {
         font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
         font-weight: 300;

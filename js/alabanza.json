@@ -1,216 +1,258 @@
 [{
     "id": 1,
-    "title": " <h1 class='unica'>Adonáy</h1>",
-    "estrofas": "<article class='mejorada'>Señor de eternidad<br>Misterio sin revelar<br>Dios de los cielos y mar<br>Dios de Israel<br>Ven con tu Gloria y poder <br>Vestido de fuerza y honor<br>Dios oye nuestro clamor<br>Ven poderoso Rey<br>Y todo ojo verá en el cielo tu poder<br><br>Adonay, Adonay<br>toda creación se postrará<br>Adonay, Adonay<br>sólo a Tí Señor te clamarán<br>Adonay<br><br>Espera Jerusalén dándote alabanzas<br>A las puertas tú estás te veremos salir<br>Y cuando cante Sion<br>Baruj haba beShem<br><br>Adonay, Adonay<br>toda creación se postrará<br>Adonay, Adonay<br>sólo a Tí Señor te clamarán<br>Adonay<br><br>//// De la tierra eres Señor ////<br></article>"
+    "title": " <h1 class='titleDark'>Adonáy</h1>",
+    "estrofas": "<article class='contentDark'>Señor de eternidad<br>Misterio sin revelar<br>Dios de los cielos y mar<br>Dios de Israel<br>Ven con tu Gloria y poder <br>Vestido de fuerza y honor<br>Dios oye nuestro clamor<br>Ven poderoso Rey<br>Y todo ojo verá en el cielo tu poder<br><br>Adonay, Adonay<br>toda creación se postrará<br>Adonay, Adonay<br>sólo a Tí Señor te clamarán<br>Adonay<br><br>Espera Jerusalén dándote alabanzas<br>A las puertas tú estás te veremos salir<br>Y cuando cante Sion<br>Baruj haba beShem<br><br>Adonay, Adonay<br>toda creación se postrará<br>Adonay, Adonay<br>sólo a Tí Señor te clamarán<br>Adonay<br><br>//// De la tierra eres Señor ////<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 2,
-    "title": " <h1 class='unica'>Adonáy adonenu</h1>",
-    "estrofas": "<article class='mejorada'>// Adonáy adoneinu<br>Mah Adir Shimja bejol-haAretz<br>Asher tenah hodjá<br> al-HaShamaim //<br><br>Mipi olelim veyonkim ysadeta oz<br>lemaan tzorereija<br> lehashbit oyev umitnakem<br>// Adonáy adoneinu<br>Mah Adir Shimja bejol-haAretz<br>Asher tenah hodjá<br> al-HaShamaim //<br><br>Ki-ereh shameja maasei etzbeoteja<br>yareaj vejojabim asher konantah<br>// Adonáy adoneinu<br>Mah Adir Shimja bejol-haAretz<br>Asher tenah hodjá<br> al-HaShamaim //<br><br>Mah enosh ki-tizkerenu<br> uben-adam ki tifkedenu<br>vatejasrehu meat meelohim<br> vejabod vehadar teatrehu<br>// Adonáy adoneinu<br>Mah Adir Shimja bejol-haAretz<br>Asher tenah hodjá<br> al-HaShamaim //<br><br></article>"
+    "title": " <h1 class='titleDark'>Adonáy adonenu</h1>",
+    "estrofas": "<article class='contentDark'>// Adonáy adoneinu<br>Mah Adir Shimja bejol-haAretz<br>Asher tenah hodjá<br> al-HaShamaim //<br><br>Mipi olelim veyonkim ysadeta oz<br>lemaan tzorereija<br> lehashbit oyev umitnakem<br>// Adonáy adoneinu<br>Mah Adir Shimja bejol-haAretz<br>Asher tenah hodjá<br> al-HaShamaim //<br><br>Ki-ereh shameja maasei etzbeoteja<br>yareaj vejojabim asher konantah<br>// Adonáy adoneinu<br>Mah Adir Shimja bejol-haAretz<br>Asher tenah hodjá<br> al-HaShamaim //<br><br>Mah enosh ki-tizkerenu<br> uben-adam ki tifkedenu<br>vatejasrehu meat meelohim<br> vejabod vehadar teatrehu<br>// Adonáy adoneinu<br>Mah Adir Shimja bejol-haAretz<br>Asher tenah hodjá<br> al-HaShamaim //<br><br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 3,
-    "title": " <h1 class='unica'>Al que me ciñe de poder</h1>",
-    "estrofas": "<article class='mejorada'>// Al que me ciñe de poder<br>Aquel que mi victoria es<br>Solo a Él alabaré, sólo a Él exaltaré //<br><br>// De ti será mi alabanza<br>En la congregación<br>cantaré y alabaré<br>Tu nombre, Señor //<br></article>"
+    "title": " <h1 class='titleDark'>Al que me ciñe de poder</h1>",
+    "estrofas": "<article class='contentDark'>// Al que me ciñe de poder<br>Aquel que mi victoria es<br>Solo a Él alabaré, sólo a Él exaltaré //<br><br>// De ti será mi alabanza<br>En la congregación<br>cantaré y alabaré<br>Tu nombre, Señor //<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 4,
-    "title": " <h1 class='unica'>Ante ti con gozo</h1>",
-    "estrofas": "<article class='mejorada'>// Me gozaré en tu presencia Adonay<br>con todas mis fuerzas gritaré, hey! //<br><br>//Ante ti con gozo palmearé<br>con alegre danza celebraré<br>saltare y me gozare //<br></article>"
+    "title": " <h1 class='titleDark'>Ante ti con gozo</h1>",
+    "estrofas": "<article class='contentDark'>// Me gozaré en tu presencia Adonay<br>con todas mis fuerzas gritaré, hey! //<br><br>//Ante ti con gozo palmearé<br>con alegre danza celebraré<br>saltare y me gozare //<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 5,
-    "title": " <h1 class='unica'>Baruj Adonáy</h1>",
-    "estrofas": "<article class='mejorada'>// Baruj Adonai, Elohey Israel<br>Adonai, Santo es el Señor<br>Baruj Adonai, Elohey Yisrael<br>Adonai, Santo es el Señor //<br><br>// Min ha olam, ve-ad ha olam<br>alaba su nombre por siempre será<br> min ha olam ve-ad ha olam<br>Santo es el Señor, Dios de Israel, hey! //<br><br>// Y las naciones lo alaban<br>E Israel dirá  Amén!<br>y todos cantan aleluya<br>e Israel dirá amén! //<br><br>e Israel dirá: amén!<br></article>"
+    "title": " <h1 class='titleDark'>Baruj Adonáy</h1>",
+    "estrofas": "<article class='contentDark'>// Baruj Adonai, Elohey Israel<br>Adonai, Santo es el Señor<br>Baruj Adonai, Elohey Yisrael<br>Adonai, Santo es el Señor //<br><br>// Min ha olam, ve-ad ha olam<br>alaba su nombre por siempre será<br> min ha olam ve-ad ha olam<br>Santo es el Señor, Dios de Israel, hey! //<br><br>// Y las naciones lo alaban<br>E Israel dirá  Amén!<br>y todos cantan aleluya<br>e Israel dirá amén! //<br><br>e Israel dirá: amén!<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 6,
-    "title": " <h1 class='unica'>Bendice alma mía</h1>",
-    "estrofas": "<article class='mejorada'>Bendice alma mía a Jehová<br>y bendiga mi ser su Santo Nombre<br>Bendice alma mía a Jehová<br>y no olvides ninguno de sus beneficios<br><br>Él es quien perdona<br>(perdona tus iniquidades)<br>Él es quien te sana<br>(te sana todas tus dolencias)<br>Él es quien rescata<br>(rescata del hoyo)<br>Del hoyo tu vida<br><br>Él que te corona de favores<br>y misericordias<br>Él que sacia tu boca<br>de mucho bien<br>de modo que así como el águila<br>tu también te rejuvenezcas<br></article>"
+    "title": " <h1 class='titleDark'>Bendice alma mía</h1>",
+    "estrofas": "<article class='contentDark'>Bendice alma mía a Jehová<br>y bendiga mi ser su Santo Nombre<br>Bendice alma mía a Jehová<br>y no olvides ninguno de sus beneficios<br><br>Él es quien perdona<br>(perdona tus iniquidades)<br>Él es quien te sana<br>(te sana todas tus dolencias)<br>Él es quien rescata<br>(rescata del hoyo)<br>Del hoyo tu vida<br><br>Él que te corona de favores<br>y misericordias<br>Él que sacia tu boca<br>de mucho bien<br>de modo que así como el águila<br>tu también te rejuvenezcas<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 7,
-    "title": " <h1 class='unica'>Bueno es alabar</h1>",
-    "estrofas": "<article class='mejorada'>// Bueno es alabar oh Señor<br>tu Nombre<br>darte gloria honra y honor<br> por siempre<br>Buenos es alabarte oh Jesús<br>y gozarme en su poder //<br><br>// Porque grande eres Tú<br>grandes son tus obras<br>Porque grande eres Tú<br>grande es tu amor<br> grande es tu gloria //<br></article>"
+    "title": " <h1 class='titleDark'>Bueno es alabar</h1>",
+    "estrofas": "<article class='contentDark'>// Bueno es alabar oh Señor<br>tu Nombre<br>darte gloria honra y honor<br> por siempre<br>Buenos es alabarte oh Jesús<br>y gozarme en su poder //<br><br>// Porque grande eres Tú<br>grandes son tus obras<br>Porque grande eres Tú<br>grande es tu amor<br> grande es tu gloria //<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 8,
-    "title": " <h1 class='unica'>Con óleo de alegría</h1>",
-    "estrofas": "<article class='mejorada'>Con oleo de alegria me has ungido<br>con gozo y con pandero danzare<br>delante de tu pueblo redimido<br>la gloria de tu Nombre exaltaré<br>con el pandero<br><br>// Toda la noche sin parar<br>cantando alabanzas al Señor<br>diciendo de su gloria y majestad<br>el es el Rey// (de Israel) //<br><br>Toda rodilla se doblará ante Él<br>Es Jesucristo Dios por siempre<br>Y toda lengua confesará ante Él<br>Es Jesucristo Dios por siempre <br><br>No, no puedo parar de alabarte no<br>No, no puedo parar de alabarte no<br>No, no puedo parar de alabarte Cristo<br><br>Toda rodilla se doblará ante Él<br>Es Jesucristo Dios por siempre<br>El es el Alfa   y la Omega<br>Es Jesucristo Dios por siempre <br><br>No, no puedo parar de alabarte no<br>No, no puedo parar de alabarte no<br>No, no puedo parar de alabarte Cristo<br><br></article>"
+    "title": " <h1 class='titleDark'>Con óleo de alegría</h1>",
+    "estrofas": "<article class='contentDark'>Con oleo de alegria me has ungido<br>con gozo y con pandero danzare<br>delante de tu pueblo redimido<br>la gloria de tu Nombre exaltaré<br>con el pandero<br><br>// Toda la noche sin parar<br>cantando alabanzas al Señor<br>diciendo de su gloria y majestad<br>el es el Rey// (de Israel) //<br><br>Toda rodilla se doblará ante Él<br>Es Jesucristo Dios por siempre<br>Y toda lengua confesará ante Él<br>Es Jesucristo Dios por siempre <br><br>No, no puedo parar de alabarte no<br>No, no puedo parar de alabarte no<br>No, no puedo parar de alabarte Cristo<br><br>Toda rodilla se doblará ante Él<br>Es Jesucristo Dios por siempre<br>El es el Alfa   y la Omega<br>Es Jesucristo Dios por siempre <br><br>No, no puedo parar de alabarte no<br>No, no puedo parar de alabarte no<br>No, no puedo parar de alabarte Cristo<br><br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 9,
-    "title": " <h1 class='unica'>Como hizo David</h1>",
-    "estrofas": "<article class='mejorada'>Cómo hizo David delante de Dios<br>yo danzaré y me gozare<br>delante de mi Rey<br><br>Cómo hizo Maria con el tamboril<br>ya aplaudiré y cantaré<br>delante  de mi Rey<br><br>Cómo hizo Judá cuando fue a pelear<br>daré un grito de aclamación<br>delante de mi Rey<br><br>Cómo hizo Josué en Jericó<br>gritaré y conquistare<br>delante de mi Rey<br><br>Ahora puedo yo venir ante ti<br>y alabarte mi Rey<br>me postrare y adorare<br>a Cristo mi Rey<br><br>El Dios de Israel es Poderoso<br>Adonay nuestro Dios no perderá<br>El guía a su pueblo en la batalla<br>Ante Él sus enemigos caerán<br>Oh, oh, oh<br><br>// Grita fuerte victoria ante Él ¡hey!<br>Alcen todos la voz<br>Canta y danza El triunfo del Señor<br>Porque El ganó, al enemigo derrotó //<br><br>El Dios de Israel es mi Campeón<br>Su Diestra la victoria conquistó<br>El incienso de alabanza sube ante Él<br>Y Él lucha por nosotros a vencer<br>Oh, oh, oh<br></article>"
+    "title": " <h1 class='titleDark'>Como hizo David</h1>",
+    "estrofas": "<article class='contentDark'>Cómo hizo David delante de Dios<br>yo danzaré y me gozare<br>delante de mi Rey<br><br>Cómo hizo Maria con el tamboril<br>ya aplaudiré y cantaré<br>delante  de mi Rey<br><br>Cómo hizo Judá cuando fue a pelear<br>daré un grito de aclamación<br>delante de mi Rey<br><br>Cómo hizo Josué en Jericó<br>gritaré y conquistare<br>delante de mi Rey<br><br>Ahora puedo yo venir ante ti<br>y alabarte mi Rey<br>me postrare y adorare<br>a Cristo mi Rey<br><br>El Dios de Israel es Poderoso<br>Adonay nuestro Dios no perderá<br>El guía a su pueblo en la batalla<br>Ante Él sus enemigos caerán<br>Oh, oh, oh<br><br>// Grita fuerte victoria ante Él ¡hey!<br>Alcen todos la voz<br>Canta y danza El triunfo del Señor<br>Porque El ganó, al enemigo derrotó //<br><br>El Dios de Israel es mi Campeón<br>Su Diestra la victoria conquistó<br>El incienso de alabanza sube ante Él<br>Y Él lucha por nosotros a vencer<br>Oh, oh, oh<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 10,
-    "title": " <h1 class='unica'>David danzaba</h1>",
-    "estrofas": "<article class='mejorada'>// David David danzaba en la presencia del Señor<br>Y el pueblo se regocijaba //<br>// Porque David andaba conforme al corazón de Adonáy //<br><br>// David David peleó contra el oso y el león<br>Y el pueblo se regocijaba //<br>// Porque David andaba conforme al corazón de Adonáy //<br><br>// Saúl mató a mil David a sus diez mil<br>Y el pueblo se regocijaba //<br>// Porque David andaba conforme al corazón de Adonáy //<br><br>Cantare a Jehová<br> con todo mi corazón<br>Solo a ti alabaré<br> oh mi Señor, oh mi Señor<br><br>// Mi corazón está dispuesto oh Señor<br> Dispuesto alabarte oh, mi Dios<br>Mi corazón está dispuesto oh Señor<br>Dispuesto alabarte oh, mi Dios //<br></article>"
+    "title": " <h1 class='titleDark'>David danzaba</h1>",
+    "estrofas": "<article class='contentDark'>// David David danzaba en la presencia del Señor<br>Y el pueblo se regocijaba //<br>// Porque David andaba conforme al corazón de Adonáy //<br><br>// David David peleó contra el oso y el león<br>Y el pueblo se regocijaba //<br>// Porque David andaba conforme al corazón de Adonáy //<br><br>// Saúl mató a mil David a sus diez mil<br>Y el pueblo se regocijaba //<br>// Porque David andaba conforme al corazón de Adonáy //<br><br>Cantare a Jehová<br> con todo mi corazón<br>Solo a ti alabaré<br> oh mi Señor, oh mi Señor<br><br>// Mi corazón está dispuesto oh Señor<br> Dispuesto alabarte oh, mi Dios<br>Mi corazón está dispuesto oh Señor<br>Dispuesto alabarte oh, mi Dios //<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 11,
-    "title": " <h1 class='unica'>Dios no nos trajo</h1>",
-    "estrofas": "<article class='mejorada'>// Dios no nos trajo hasta<br> aquí para volver atrás<br>nos trajo hasta aquí<br> a poseer la tierra que él nos dio //<br><br>// Y aunque el gigante se encuentre allá<br> yo nunca temeré<br>nos trajo aquí<br>a poseer la tierra que él nos dio //<br></article>"
+    "title": " <h1 class='titleDark'>Dios no nos trajo</h1>",
+    "estrofas": "<article class='contentDark'>// Dios no nos trajo hasta<br> aquí para volver atrás<br>nos trajo hasta aquí<br> a poseer la tierra que él nos dio //<br><br>// Y aunque el gigante se encuentre allá<br> yo nunca temeré<br>nos trajo aquí<br>a poseer la tierra que él nos dio //<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 12,
-    "title": " <h1 class='unica'>El Dios de Abraham</h1>",
-    "estrofas": "<article class='mejorada'>//// Éste es el día que Adonáy mostró<br>que las naciones cantarían a Él<br>Sus alabanzas en mi boca están<br>somos promesas del Dios de Abraham ////<br><br>// Canta y regocíjate<br> danza y regocíjate<br>Somos promesa<br> del Dios de Abraham //<br><br>// Un Pueblo le mostró<br> en las arenas del mar<br>Otro brilló en el más allá<br>Somos promesa<br> del Dios de Abraham //<br></article>"
+    "title": " <h1 class='titleDark'>El Dios de Abraham</h1>",
+    "estrofas": "<article class='contentDark'>//// Éste es el día que Adonáy mostró<br>que las naciones cantarían a Él<br>Sus alabanzas en mi boca están<br>somos promesas del Dios de Abraham ////<br><br>// Canta y regocíjate<br> danza y regocíjate<br>Somos promesa<br> del Dios de Abraham //<br><br>// Un Pueblo le mostró<br> en las arenas del mar<br>Otro brilló en el más allá<br>Somos promesa<br> del Dios de Abraham //<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 13,
-    "title": " <h1 class='unica'>El Poderoso de Israel</h1>",
-    "estrofas": "<article class='mejorada'>Y de noche cantaremos<br> celebrando su poder<br>Con alegría de corazón<br>Como el que va con la flauta<br>al monte de Adonay<br>Celebraremos su poder<br><br>Porque El es El…<br> Poderoso de Israel<br>El poderoso de Israel<br>Su voz se oirá, nadie lo detendrá<br>Al poderoso de Israel<br><br>Y los ojos de los ciegos<br>se abrirán y ellos verán<br>Los oídos de los sordos oirán<br>El cojo saltará, con el arpa danzará<br>La lengua de los mudos ¡Cantará!<br></article>"
+    "title": " <h1 class='titleDark'>El Poderoso de Israel</h1>",
+    "estrofas": "<article class='contentDark'>Y de noche cantaremos<br> celebrando su poder<br>Con alegría de corazón<br>Como el que va con la flauta<br>al monte de Adonay<br>Celebraremos su poder<br><br>Porque El es El…<br> Poderoso de Israel<br>El poderoso de Israel<br>Su voz se oirá, nadie lo detendrá<br>Al poderoso de Israel<br><br>Y los ojos de los ciegos<br>se abrirán y ellos verán<br>Los oídos de los sordos oirán<br>El cojo saltará, con el arpa danzará<br>La lengua de los mudos ¡Cantará!<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 14,
-    "title": " <h1 class='unica'>El Santo de Israel</h1>",
-    "estrofas": "<article class='mejorada'>// El Santo de Israel está aquí<br>Ha descendido con gloria y poder<br>Su Nombre es Adonáy<br> Dios fuerte y valiente<br>El León de Judá //<br><br>/// Alabamos, exaltamos<br> hoy al Santo de Israel ///<br><br>// Su Nombre es Adonáy<br>Dios fuerte y Valiente<br>El León de Judá //<br>  </article>"
+    "title": " <h1 class='titleDark'>El Santo de Israel</h1>",
+    "estrofas": "<article class='contentDark'>// El Santo de Israel está aquí<br>Ha descendido con gloria y poder<br>Su Nombre es Adonáy<br> Dios fuerte y valiente<br>El León de Judá //<br><br>/// Alabamos, exaltamos<br> hoy al Santo de Israel ///<br><br>// Su Nombre es Adonáy<br>Dios fuerte y Valiente<br>El León de Judá //<br>  </article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 15,
-    "title": " <h1 class='unica'>El Señor marchando va</h1>",
-    "estrofas": "<article class='mejorada'>El Señor es marchando va<br>y su pueblo junto a él esta<br>su gloria en nuestras vidas brillará<br><br>Su victoria nos ha dado ya<br>y su brazo nos fortalecerá<br>lucharé hasta la tierra conquistar<br><br>// En mi vida el capitán es Cristo<br>marcharemos ante su presencia<br>no hay armas que nos puedan derrotar //<br></article>"
+    "title": " <h1 class='titleDark'>El Señor marchando va</h1>",
+    "estrofas": "<article class='contentDark'>El Señor es marchando va<br>y su pueblo junto a él esta<br>su gloria en nuestras vidas brillará<br><br>Su victoria nos ha dado ya<br>y su brazo nos fortalecerá<br>lucharé hasta la tierra conquistar<br><br>// En mi vida el capitán es Cristo<br>marcharemos ante su presencia<br>no hay armas que nos puedan derrotar //<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
 
   {
     "id": 16,
-    "title": " <h1 class='unica'>En gran manera</h1>",
-    "estrofas": "<article class='mejorada'>En gran manera me gozaré<br>en El Señor<br>Mi alma se alegrará en mi Dios<br>En su presencia danzare<br>alabanzas ofreceré<br>En el altar de mi Señor<br><br>Porque con vestiduras<br> de salvación el me vistió<br>Y de manto de Justicia Él me rodeo<br>Y como novio Él me atavió<br>// Y  como a novia adornada<br> con sus joyas //<br><br>Mi Amado es blanco y rubio<br>señalado entre diez mil<br>Él es hermoso y dulce<br>// Tal es mi Amado, tal es mi Amigo //<br>Oh Doncellas de Jerusalén<br>tal es mi Amado, tal es mi Amigo <br>Oh Doncellas de Jerusalén.</article>"
+    "title": " <h1 class='titleDark'>En gran manera</h1>",
+    "estrofas": "<article class='contentDark'>En gran manera me gozaré<br>en El Señor<br>Mi alma se alegrará en mi Dios<br>En su presencia danzare<br>alabanzas ofreceré<br>En el altar de mi Señor<br><br>Porque con vestiduras<br> de salvación el me vistió<br>Y de manto de Justicia Él me rodeo<br>Y como novio Él me atavió<br>// Y  como a novia adornada<br> con sus joyas //<br><br>Mi Amado es blanco y rubio<br>señalado entre diez mil<br>Él es hermoso y dulce<br>// Tal es mi Amado, tal es mi Amigo //<br>Oh Doncellas de Jerusalén<br>tal es mi Amado, tal es mi Amigo <br>Oh Doncellas de Jerusalén.</article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 17,
-    "title": " <h1 class='unica'>En Sión suena la trompeta</h1>",
-    "estrofas": "<article class='mejorada'>En Sión suene la trompeta<br>Y alarma en el Monte santo<br>En Sión suene la trompeta<br>De Libertad<br><br>// Cayeron los muros al rodear la ciudad<br>Este es el Pueblo que sirve al Señor //<br><br>// Dios envía su luz, para hacernos brillar //<br><br>En Sión suene la trompeta<br> y la alarma en el Monte Santo<br>En Sión suene la trompeta<br>De Libertad, de libertad, de libertad</article>"
+    "title": " <h1 class='titleDark'>En Sión suena la trompeta</h1>",
+    "estrofas": "<article class='contentDark'>En Sión suene la trompeta<br>Y alarma en el Monte santo<br>En Sión suene la trompeta<br>De Libertad<br><br>// Cayeron los muros al rodear la ciudad<br>Este es el Pueblo que sirve al Señor //<br><br>// Dios envía su luz, para hacernos brillar //<br><br>En Sión suene la trompeta<br> y la alarma en el Monte Santo<br>En Sión suene la trompeta<br>De Libertad, de libertad, de libertad</article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 18,
-    "title": " <h1 class='unica'>Eterno</h1>",
-    "estrofas": "<article class='mejorada'>// Todo gobierno de la creación<br>Se postrará sólo ante el Gran Yo Soy<br>Solo hay un Dios que reinará por siempre<br>Suyo es el reino que no acabará<br>oh oh oh //<br><br>// Él es amor, Él es amor eterno<br>Es esperanza y salvación eterna<br>Nuestra canción se escuchará por siempre<br>Y adoraremos solo al Rey Eterno<br>ooh oh oh //<br><br>// Y al final Su rostro, yo veré<br>Él brilla más que el sol con su poder<br>Donde mil años son como un momento<br>Vestido en majestad<br>glorioso Rey, glorioso Rey //<br></article>"
+    "title": " <h1 class='titleDark'>Eterno</h1>",
+    "estrofas": "<article class='contentDark'>// Todo gobierno de la creación<br>Se postrará sólo ante el Gran Yo Soy<br>Solo hay un Dios que reinará por siempre<br>Suyo es el reino que no acabará<br>oh oh oh //<br><br>// Él es amor, Él es amor eterno<br>Es esperanza y salvación eterna<br>Nuestra canción se escuchará por siempre<br>Y adoraremos solo al Rey Eterno<br>ooh oh oh //<br><br>// Y al final Su rostro, yo veré<br>Él brilla más que el sol con su poder<br>Donde mil años son como un momento<br>Vestido en majestad<br>glorioso Rey, glorioso Rey //<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
 
   {
     "id": 19,
-    "title": " <h1 class='unica'>Gracia sublime</h1>",
-    "estrofas": "<article class='mejorada'>¿Quién rompe el poder del pecado?<br>Su amor es fuerte y poderoso<br>El Rey de Gloria, el Rey de Majestad<br><br>Conmueve el mundo con su estruendo<br>Y nos asombra con maravillas<br>El Rey de Gloria, el Rey de Majestad<br><br>Gracia sublime es<br>perfecto es tu amor<br> Tomaste mi lugar, cargaste tú mi cruz<br>Tu vida diste ahí y ahora libre soy<br>Jesús te adoro<br> por lo que hiciste en mí<br><br>Pusiste en orden todo el caos<br>Nos adoptaste como tus hijos<br>El Rey de Gloria, el Rey de Majestad<br><br>El que gobierna con su justicia<br>Y resplandece con su belleza<br>El Rey de Gloria, el Rey de Majestad<br><br>/// Digno es el Cordero de Dios<br>Digno es el Rey que la muerte venció///<br>Digno es el Cordero de Dios<br> ¡Digno! ¡Digno!<br><br>Gracia sublime es<br>perfecto es tu amor<br> Tomaste mi lugar, cargaste tú mi cruz<br>Tu vida diste ahí y ahora libre soy<br>Jesús te adoro<br> por lo que hiciste en mí</article>"
+    "title": " <h1 class='titleDark'>Gracia sublime</h1>",
+    "estrofas": "<article class='contentDark'>¿Quién rompe el poder del pecado?<br>Su amor es fuerte y poderoso<br>El Rey de Gloria, el Rey de Majestad<br><br>Conmueve el mundo con su estruendo<br>Y nos asombra con maravillas<br>El Rey de Gloria, el Rey de Majestad<br><br>Gracia sublime es<br>perfecto es tu amor<br> Tomaste mi lugar, cargaste tú mi cruz<br>Tu vida diste ahí y ahora libre soy<br>Jesús te adoro<br> por lo que hiciste en mí<br><br>Pusiste en orden todo el caos<br>Nos adoptaste como tus hijos<br>El Rey de Gloria, el Rey de Majestad<br><br>El que gobierna con su justicia<br>Y resplandece con su belleza<br>El Rey de Gloria, el Rey de Majestad<br><br>/// Digno es el Cordero de Dios<br>Digno es el Rey que la muerte venció///<br>Digno es el Cordero de Dios<br> ¡Digno! ¡Digno!<br><br>Gracia sublime es<br>perfecto es tu amor<br> Tomaste mi lugar, cargaste tú mi cruz<br>Tu vida diste ahí y ahora libre soy<br>Jesús te adoro<br> por lo que hiciste en mí</article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 20,
-    "title": " <h1 class='unica'>Grande es el Señor</h1>",
-    "estrofas": "<article class='mejorada'>Grande es el Señor<br>Creador del universo<br>Canta y danza<br>al Rey que viene pronto<br>De felicidad, el corazón lo llena<br>Grande es El Señor<br><br>// Oh oh oh Hosanna al Altísimo<br>Oh oh oh Hosanna al Altísimo<br>Oh oh oh Hosanna al Altísimo<br>Grande es El Señor //<br></article>"
+    "title": " <h1 class='titleDark'>Grande es el Señor</h1>",
+    "estrofas": "<article class='contentDark'>Grande es el Señor<br>Creador del universo<br>Canta y danza<br>al Rey que viene pronto<br>De felicidad, el corazón lo llena<br>Grande es El Señor<br><br>// Oh oh oh Hosanna al Altísimo<br>Oh oh oh Hosanna al Altísimo<br>Oh oh oh Hosanna al Altísimo<br>Grande es El Señor //<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 21,
-    "title": " <h1 class='unica'>Grita con gozo</h1>",
-    "estrofas": "<article class='mejorada'>//// Grita de gozo oh Hija de Sión<br>Regocíjate Israel ////<br><br>// Y canta alegre<br>/y gózate de todo corazón //<br><br>// Alegre estamos de fiesta andamos<br>en la presencia del Señor //<br>// Él viene ya, Él viene ya<br>Tu Rey viene ya //<br>// Alegre estamos de fiesta andamos<br>en la presencia del Señor //<br></article>"
+    "title": " <h1 class='titleDark'>Grita con gozo</h1>",
+    "estrofas": "<article class='contentDark'>//// Grita de gozo oh Hija de Sión<br>Regocíjate Israel ////<br><br>// Y canta alegre<br>/y gózate de todo corazón //<br><br>// Alegre estamos de fiesta andamos<br>en la presencia del Señor //<br>// Él viene ya, Él viene ya<br>Tu Rey viene ya //<br>// Alegre estamos de fiesta andamos<br>en la presencia del Señor //<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 22,
-    "title": " <h1 class='unica'>Gozate delante del Señor</h1>",
-    "estrofas": "<article class='mejorada'>//Gózate delante del Señor<br>Porque Él es tu Rey//<br>Él es, Él es, Él es, Él es tu Rey<br><br>//Gózate delante del Señor<br>Porque Él es tu Roca//<br>Él es, Él es, Él es, Él es tu Roca<br><br>// Gozate delante del Señor<br>Porque Él es tu Escudo//<br>Él es, Él es, Él es, Él es tu Escudo<br><br>//Haré un altar para ti, (para ti, para ti)<br>con sacrificio de alabanza<br>con júbilo y danza<br> y cantaré a Jehová //<br><br>//Que descienda el fuego<br>que descienda el fuego<br>que descienda el fuego de Dios//<br><br></article>"
+    "title": " <h1 class='titleDark'>Gozate delante del Señor</h1>",
+    "estrofas": "<article class='contentDark'>//Gózate delante del Señor<br>Porque Él es tu Rey//<br>Él es, Él es, Él es, Él es tu Rey<br><br>//Gózate delante del Señor<br>Porque Él es tu Roca//<br>Él es, Él es, Él es, Él es tu Roca<br><br>// Gozate delante del Señor<br>Porque Él es tu Escudo//<br>Él es, Él es, Él es, Él es tu Escudo<br><br>//Haré un altar para ti, (para ti, para ti)<br>con sacrificio de alabanza<br>con júbilo y danza<br> y cantaré a Jehová //<br><br>//Que descienda el fuego<br>que descienda el fuego<br>que descienda el fuego de Dios//<br><br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 23,
-    "title": " <h1 class='unica'>HaShem Melej</h1>",
-    "estrofas": "<article class='mejorada'>// HaShem mélej, HaShem maláj<br>HaShem yimlój leölám vaEd //<br><br>// Vehayá HaShem lemeléj<br>al kol haáretz<br>bayom hahu yiheyé HaShem<br>ejád uShemó ejád //<br><br>// HaShem reina<br>HaShem reinó<br> Hashem reinará por la eternidad //<br><br>// Y será HaShem el Rey<br>Sobre la tierra<br>En aquel día HaShem será Uno<br>y su Nombre Uno //<br></article>"
+    "title": " <h1 class='titleDark'>HaShem Melej</h1>",
+    "estrofas": "<article class='contentDark'>// HaShem mélej, HaShem maláj<br>HaShem yimlój leölám vaEd //<br><br>// Vehayá HaShem lemeléj<br>al kol haáretz<br>bayom hahu yiheyé HaShem<br>ejád uShemó ejád //<br><br>// HaShem reina<br>HaShem reinó<br> Hashem reinará por la eternidad //<br><br>// Y será HaShem el Rey<br>Sobre la tierra<br>En aquel día HaShem será Uno<br>y su Nombre Uno //<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 24,
-    "title": " <h1 class='unica'>Hossana</h1>",
-    "estrofas": "<article class='mejorada'>//Hosanna sea al Altísimo<br>Al Dios de nuestra salvación<br>Con palmas te recibimos hoy<br>Porque eres el Rey de este lugar //<br>// Lalalalalala lalalalalala<br>lalalalala  lalalalalala //<br><br>Démosle gloria y honra a aquél<br> que vino, a Jerusalén<br>Canta y danza con todas<br> tus fuerzas, delante del Rey<br>Al Mesías enviado de Dios<br>que ha venido y está entre nosotros<br><br>Bendito el Rey<br> que viene y Reina en gloria<br> Aleluya Amén<br>Aquél que entró montado<br> en un pollino, a Jerusalén<br>Sea la gloria y toda la<br> alabanza,por todos los siglos, Amén<br></article>"
+    "title": " <h1 class='titleDark'>Hossana</h1>",
+    "estrofas": "<article class='contentDark'>//Hosanna sea al Altísimo<br>Al Dios de nuestra salvación<br>Con palmas te recibimos hoy<br>Porque eres el Rey de este lugar //<br>// Lalalalalala lalalalalala<br>lalalalala  lalalalalala //<br><br>Démosle gloria y honra a aquél<br> que vino, a Jerusalén<br>Canta y danza con todas<br> tus fuerzas, delante del Rey<br>Al Mesías enviado de Dios<br>que ha venido y está entre nosotros<br><br>Bendito el Rey<br> que viene y Reina en gloria<br> Aleluya Amén<br>Aquél que entró montado<br> en un pollino, a Jerusalén<br>Sea la gloria y toda la<br> alabanza,por todos los siglos, Amén<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 25,
-    "title": " <h1 class='unica'>Hoy cantas tú</h1>",
-    "estrofas": "<article class='mejorada'>// Con arpas y panderos<br> cantaban alabanzas<br>Cantaban y danzaban<br> los hijos de Israel //<br><br>//// Hoy cantas tú, hoy canto yo ////<br><br>//// Grita de gozo oh Hija de Sion<br>Regocíjate Israel ////<br>// Y canta alegre y gózate<br> de todo corazón //<br><br> // Alegres estamos de fiesta estamos<br> en la presencia del Señor //<br>//El viene ya, El viene ya,<br> Tu Rey viene ya //<br>// Alegres estamos de fiesta estamos<br> en la presencia del Señor<br>//// Hoy cantas tú, hoy canto yo ////<br></article>"
+    "title": " <h1 class='titleDark'>Hoy cantas tú</h1>",
+    "estrofas": "<article class='contentDark'>// Con arpas y panderos<br> cantaban alabanzas<br>Cantaban y danzaban<br> los hijos de Israel //<br><br>//// Hoy cantas tú, hoy canto yo ////<br><br>//// Grita de gozo oh Hija de Sion<br>Regocíjate Israel ////<br>// Y canta alegre y gózate<br> de todo corazón //<br><br> // Alegres estamos de fiesta estamos<br> en la presencia del Señor //<br>//El viene ya, El viene ya,<br> Tu Rey viene ya //<br>// Alegres estamos de fiesta estamos<br> en la presencia del Señor<br>//// Hoy cantas tú, hoy canto yo ////<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
 
   {
     "id": 26,
-    "title": " <h1 class='unica'>Hemos venido</h1>",
-    "estrofas": "<article class='mejorada'>Nos hemos acercado<br>Al monte de Sión<br>A la ciudad del Dios vivo<br>A la multitud de millares de ángeles<br>Al Sumo Sacerdote<br> a JESÚS El Mediador<br>Del nuevo pacto hecho en su sangre<br>Para obtener eterna redención<br><br>// Hemos venido a Jerusalén<br>la celestial, la Iglesia amada<br> del Santo El Santo de Israel //<br><br>// Gloria, imperio y majestad<br> a Jesucristo El Señor<br>Al León de la tribu de Judá //<br><br>Tributad adoración al Redentor<br> toda gloria al Vencedor<br><br>// A Jesucristo el Gran Libertador<br>// El cuál es Digno, Digno<br>Digno de todo loor //<br></article>"
+    "title": " <h1 class='titleDark'>Hemos venido</h1>",
+    "estrofas": "<article class='contentDark'>Nos hemos acercado<br>Al monte de Sión<br>A la ciudad del Dios vivo<br>A la multitud de millares de ángeles<br>Al Sumo Sacerdote<br> a JESÚS El Mediador<br>Del nuevo pacto hecho en su sangre<br>Para obtener eterna redención<br><br>// Hemos venido a Jerusalén<br>la celestial, la Iglesia amada<br> del Santo El Santo de Israel //<br><br>// Gloria, imperio y majestad<br> a Jesucristo El Señor<br>Al León de la tribu de Judá //<br><br>Tributad adoración al Redentor<br> toda gloria al Vencedor<br><br>// A Jesucristo el Gran Libertador<br>// El cuál es Digno, Digno<br>Digno de todo loor //<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
 
   {
     "id": 27,
-    "title": " <h1 class='unica'>Ki lo yitosh</h1>",
-    "estrofas": "<article class='mejorada'>// Ki lo yitosh ki lo yitosh Adonáy<br>Ki lo yitosh HaShem amo<br>Ki lo yitosh Adonáy amo<br>najalato lo yaazob //<br><br>// Adonáy hoshia, HaMelej yanenu //<br>HaMelej yanenu beYom karenu<br></article>"
+    "title": " <h1 class='titleDark'>Ki lo yitosh</h1>",
+    "estrofas": "<article class='contentDark'>// Ki lo yitosh ki lo yitosh Adonáy<br>Ki lo yitosh HaShem amo<br>Ki lo yitosh Adonáy amo<br>najalato lo yaazob //<br><br>// Adonáy hoshia, HaMelej yanenu //<br>HaMelej yanenu beYom karenu<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 28,
-    "title": " <h1 class='unica'>La única razón</h1>",
-    "estrofas": "<article class='mejorada'>La única razón de mi adoración<br> eres Tú mi Jesús<br>Mi único motivo para vivir<br> eres Tú mi señor<br>Mi única verdad está en Ti<br> eres mi luz y mi salvación<br>Mi único amor eres Tú Señor<br> y por siempre te alabaré<br><br>// Tú eres Todopoderoso<br> eres grande y majestuoso<br>Eres fuerte, invencible<br> y no hay nadie como Tú //<br></article>"
+    "title": " <h1 class='titleDark'>La única razón</h1>",
+    "estrofas": "<article class='contentDark'>La única razón de mi adoración<br> eres Tú mi Jesús<br>Mi único motivo para vivir<br> eres Tú mi señor<br>Mi única verdad está en Ti<br> eres mi luz y mi salvación<br>Mi único amor eres Tú Señor<br> y por siempre te alabaré<br><br>// Tú eres Todopoderoso<br> eres grande y majestuoso<br>Eres fuerte, invencible<br> y no hay nadie como Tú //<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 29,
-    "title": " <h1 class='unica'>Libre</h1>",
-    "estrofas": "<article class='mejorada'>// Libre, yo soy libre<br>las cadenas del pecado<br> han sido rotas<br>Libre yo soy libre<br>para cantar, para danzar<br> para gozar //<br><br>// He vencido, al enemigo<br>por la sangre de Jesucristo<br> yo soy libre //<br></article>"
+    "title": " <h1 class='titleDark'>Libre</h1>",
+    "estrofas": "<article class='contentDark'>// Libre, yo soy libre<br>las cadenas del pecado<br> han sido rotas<br>Libre yo soy libre<br>para cantar, para danzar<br> para gozar //<br><br>// He vencido, al enemigo<br>por la sangre de Jesucristo<br> yo soy libre //<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 30,
-    "title": " <h1 class='unica'>Poema de salvación</h1>",
-    "estrofas": "<article class='mejorada'>Cristo moriste en una cruz<br>Resucitaste con poder<br>Perdona mis pecados hoy<br>Sé mi Señor y Salvador<br><br>// Cámbiame y hazme otra vez<br>y ayúdame a serte fiel //<br></article>"
+    "title": " <h1 class='titleDark'>Poema de salvación</h1>",
+    "estrofas": "<article class='contentDark'>Cristo moriste en una cruz<br>Resucitaste con poder<br>Perdona mis pecados hoy<br>Sé mi Señor y Salvador<br><br>// Cámbiame y hazme otra vez<br>y ayúdame a serte fiel //<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 31,
-    "title": " <h1 class='unica'>Por amor de Sión</h1>",
-    "estrofas": "<article class='mejorada'>/// Por amor de Sión no callaré ///<br>Y por amor de Jerusalén no descansaré (2x)<br><br>// Hasta que salga<br>como resplandor su justicia<br>y su salvación se encienda<br>  se encienda como una antorcha //<br></article>"
+    "title": " <h1 class='titleDark'>Por amor de Sión</h1>",
+    "estrofas": "<article class='contentDark'>/// Por amor de Sión no callaré ///<br>Y por amor de Jerusalén no descansaré (2x)<br><br>// Hasta que salga<br>como resplandor su justicia<br>y su salvación se encienda<br>  se encienda como una antorcha //<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 32,
-    "title": " <h1 class='unica'>¿Porqué habré de temer?</h1>",
-    "estrofas": "<article class='mejorada'>// El Señor es mi Luz y mi Salvación<br>¿por qué habré de temer? //<br>// Oh oh oh, Oh oh, Oh, Oh //<br><br>// El Señor es mi Roca<br> y mi Torre Fuerte<br>¿por qué habré de temer? //<br>// Oh oh oh, Oh oh, Oh, Oh //<br><br>Él me esconderá en  su santuario<br> en tiempo de temor<br>Me pararé ante la victoria<br> la batalla es del Señor<br>// Oh oh oh, Oh oh, Oh, Oh //<br><br>// El Señor es mi ayuda en el día de prueba<br> ¿por qué habré de temer? //<br>// Oh oh oh, Oh oh, Oh, Oh //<br><br>Él me esconderá en  su santuario<br> en tiempo de temor<br>Me pararé ante la victoria<br> la batalla es del Señor<br>// Oh oh oh, Oh oh, Oh, Oh //<br><br></article>"
+    "title": " <h1 class='titleDark'>¿Porqué habré de temer?</h1>",
+    "estrofas": "<article class='contentDark'>// El Señor es mi Luz y mi Salvación<br>¿por qué habré de temer? //<br>// Oh oh oh, Oh oh, Oh, Oh //<br><br>// El Señor es mi Roca<br> y mi Torre Fuerte<br>¿por qué habré de temer? //<br>// Oh oh oh, Oh oh, Oh, Oh //<br><br>Él me esconderá en  su santuario<br> en tiempo de temor<br>Me pararé ante la victoria<br> la batalla es del Señor<br>// Oh oh oh, Oh oh, Oh, Oh //<br><br>// El Señor es mi ayuda en el día de prueba<br> ¿por qué habré de temer? //<br>// Oh oh oh, Oh oh, Oh, Oh //<br><br>Él me esconderá en  su santuario<br> en tiempo de temor<br>Me pararé ante la victoria<br> la batalla es del Señor<br>// Oh oh oh, Oh oh, Oh, Oh //<br><br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 33,
-    "title": " <h1 class='unica'>Salmo 46</h1>",
-    "estrofas": "<article class='mejorada'>Nuestro Amparo y Fortaleza<br>Pronto auxilio en tribulación<br>No temeré si la tierra tiembla<br>Aunque los montes traspasen la mar<br><br>La mar las aguas<br>tiemblan los montes<br>Por su grandeza y majestad<br>No temeré si la tierra tiembla<br>Aunque los montes traspasen la mar<br><br>// Es Dios mi fortaleza<br>pronto auxilio en tribulación<br>Es Dios quién llena mi vida<br> de luz con su Espíritu protector //<br></article>"
+    "title": " <h1 class='titleDark'>Salmo 46</h1>",
+    "estrofas": "<article class='contentDark'>Nuestro Amparo y Fortaleza<br>Pronto auxilio en tribulación<br>No temeré si la tierra tiembla<br>Aunque los montes traspasen la mar<br><br>La mar las aguas<br>tiemblan los montes<br>Por su grandeza y majestad<br>No temeré si la tierra tiembla<br>Aunque los montes traspasen la mar<br><br>// Es Dios mi fortaleza<br>pronto auxilio en tribulación<br>Es Dios quién llena mi vida<br> de luz con su Espíritu protector //<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 34,
-    "title": " <h1 class='unica'>Salmo 134</h1>",
-    "estrofas": "<article class='mejorada'>Alabad servidores de Adonáy<br>Alabad el Nombre del Señor<br>Bendito sea el Nombre del Señor<br> Desde ahora y para siempre<br>Desde la salida del sol hasta el ocaso<br>Sea alabado su Nombre<br><br>Grande sobre todas las naciones es Adonáy<br>Y por encima de los cielos, su voz<br>Quién como Adonáy nuestro Dios<br>Que se sienta en las alturas<br>y baja para ver<br>// Los cielos y la tierra - AleluYah //<br><br>El levanta del polvo al desvalido<br>De lo bajo hace subir al pobre<br>Para sentarlo con los príncipes<br>Con los príncipes de su pueblo<br>el asienta a la estéril como a madre<br> de hijos jubilosa<br><br>Grande sobre todas las naciones es Adonáy<br>Y por encima de los cielos, su voz<br>Quién como Adonáy nuestro Dios<br>Que se sienta en las alturas<br>y baja para ver<br>// Los cielos y la tierra - AleluYah //<br><br></article>"
+    "title": " <h1 class='titleDark'>Salmo 134</h1>",
+    "estrofas": "<article class='contentDark'>Alabad servidores de Adonáy<br>Alabad el Nombre del Señor<br>Bendito sea el Nombre del Señor<br> Desde ahora y para siempre<br>Desde la salida del sol hasta el ocaso<br>Sea alabado su Nombre<br><br>Grande sobre todas las naciones es Adonáy<br>Y por encima de los cielos, su voz<br>Quién como Adonáy nuestro Dios<br>Que se sienta en las alturas<br>y baja para ver<br>// Los cielos y la tierra - AleluYah //<br><br>El levanta del polvo al desvalido<br>De lo bajo hace subir al pobre<br>Para sentarlo con los príncipes<br>Con los príncipes de su pueblo<br>el asienta a la estéril como a madre<br> de hijos jubilosa<br><br>Grande sobre todas las naciones es Adonáy<br>Y por encima de los cielos, su voz<br>Quién como Adonáy nuestro Dios<br>Que se sienta en las alturas<br>y baja para ver<br>// Los cielos y la tierra - AleluYah //<br><br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 35,
-    "title": " <h1 class='unica'>Salmo 150</h1>",
-    "estrofas": "<article class='mejorada'>// Lo que respira alabe a Adonáy //<br><br>Alabad a nuestro dios en su santuario<br>por la hermosura de su cielo<br>por sus proezas alabadle a Él<br><br>Alabadle por la grandeza de su Nombre<br>con el sonido de bocina<br>salterio y arpa a la vez<br> a la vez  cantad<br><br>Alabadle con el alegre pandero<br>con el candor de la danza<br>cantad con gozo al señor<br><br>Alabadle con cuerdas<br> flautas y címbalos<br>de júbilo resonantes<br>en su lenguaje <br>// Todo lo que respira<br> alabe a Adonáy//<br><br>Amén</article>"
+    "title": " <h1 class='titleDark'>Salmo 150</h1>",
+    "estrofas": "<article class='contentDark'>// Lo que respira alabe a Adonáy //<br><br>Alabad a nuestro dios en su santuario<br>por la hermosura de su cielo<br>por sus proezas alabadle a Él<br><br>Alabadle por la grandeza de su Nombre<br>con el sonido de bocina<br>salterio y arpa a la vez<br> a la vez  cantad<br><br>Alabadle con el alegre pandero<br>con el candor de la danza<br>cantad con gozo al señor<br><br>Alabadle con cuerdas<br> flautas y címbalos<br>de júbilo resonantes<br>en su lenguaje <br>// Todo lo que respira<br> alabe a Adonáy//<br><br>Amén</article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 36,
-    "title": " <h1 class='unica'>Somos de Israel</h1>",
-    "estrofas": "<article class='mejorada'>Somos de Israel<br>de un mismo corazón<br>Sentimos por igual<br> el gozo y el dolor<br><br>Somos de Israel<br>de un mismo y Grande Dios<br>Que quiso en adopción<br> tomarnos por nación<br><br>Somos suerte de Abraham<br>gente de una nación<br>Como la arena del mar<br> que no se puede contar<br><br>// Ni las estrellas (ni las estrellas)<br>se pueden contar (se pueden contar)<br>Ni la arena (ni la arena) de la mar //<br><br>// Descendientes de Abraham<br> (Isaac y Jacob)<br>Gracias al Dios de Abraham<br>  (Isaac y Jacob)<br>Somos hijos de Abraham<br>que no se pueden contar //<br>Somos de Israel<br></article>"
+    "title": " <h1 class='titleDark'>Somos de Israel</h1>",
+    "estrofas": "<article class='contentDark'>Somos de Israel<br>de un mismo corazón<br>Sentimos por igual<br> el gozo y el dolor<br><br>Somos de Israel<br>de un mismo y Grande Dios<br>Que quiso en adopción<br> tomarnos por nación<br><br>Somos suerte de Abraham<br>gente de una nación<br>Como la arena del mar<br> que no se puede contar<br><br>// Ni las estrellas (ni las estrellas)<br>se pueden contar (se pueden contar)<br>Ni la arena (ni la arena) de la mar //<br><br>// Descendientes de Abraham<br> (Isaac y Jacob)<br>Gracias al Dios de Abraham<br>  (Isaac y Jacob)<br>Somos hijos de Abraham<br>que no se pueden contar //<br>Somos de Israel<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 37,
-    "title": " <h1 class='unica'>Suene el shofar</h1>",
-    "estrofas": "<article class='mejorada'>Suena el Shofar<br> Yeshua viene<br>oye su voz, está llamando<br>Suena el Shofar muy pronto vuelve<br>unidos esperad por EL<br><br>Canta y danza todo Israel<br>lai lai lai lara lai<br>Tzion alaba que viene el Rey<br>lai lara lai lai lai<br> Suena el Shofar<br> Yeshua viene<br>oye su voz, está llamando<br>Suena el Shofar muy pronto vuelve<br>unidos esperad por EL<br><br>Alza tus ojos oh Israel<br>lai lai lai lara lai<br>Cerca está tu redención<br>lai lara lai lai lai<br>Suena el Shofar<br> Yeshua viene<br>oye su voz, está llamando<br>Suena el Shofar muy pronto vuelve<br>unidos esperad por EL<br><br>Las naciones congréguense<br>lai lai lai lara lai<br>Griten cuando suene el shofar<br>lai lara lai lai lai<br>Suena el Shofar<br> Yeshua viene<br>oye su voz, está llamando<br>Suena el Shofar muy pronto vuelve<br>unidos esperad por EL<br><br>///unidos esperad por EL///<br>unidos esperad por EL<br>SUENA EL SHOFAR<br></article>"
+    "title": " <h1 class='titleDark'>Suene el shofar</h1>",
+    "estrofas": "<article class='contentDark'>Suena el Shofar<br> Yeshua viene<br>oye su voz, está llamando<br>Suena el Shofar muy pronto vuelve<br>unidos esperad por EL<br><br>Canta y danza todo Israel<br>lai lai lai lara lai<br>Tzion alaba que viene el Rey<br>lai lara lai lai lai<br> Suena el Shofar<br> Yeshua viene<br>oye su voz, está llamando<br>Suena el Shofar muy pronto vuelve<br>unidos esperad por EL<br><br>Alza tus ojos oh Israel<br>lai lai lai lara lai<br>Cerca está tu redención<br>lai lara lai lai lai<br>Suena el Shofar<br> Yeshua viene<br>oye su voz, está llamando<br>Suena el Shofar muy pronto vuelve<br>unidos esperad por EL<br><br>Las naciones congréguense<br>lai lai lai lara lai<br>Griten cuando suene el shofar<br>lai lara lai lai lai<br>Suena el Shofar<br> Yeshua viene<br>oye su voz, está llamando<br>Suena el Shofar muy pronto vuelve<br>unidos esperad por EL<br><br>///unidos esperad por EL///<br>unidos esperad por EL<br>SUENA EL SHOFAR<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 38,
-    "title": " <h1 class='unica'>Tzadik keTamar</h1>",
-    "estrofas": "<article class='mejorada'>// TZADIK KATAMAR YIFRAJ<br>El justo como la palma florecerá<br>KEEREZ BALBANON YISGEH //<br>como cedro en el Líbano crecerá <br><br>SHTULIM BEBEIT HASHEM<br>plantados en la Casa de Dios<br>BEJATZROT ELOHEINU YAFRIJU<br>en los patios de nuestro Dios florecerán<br>OD YENUBUN BESEIBAH<br>aún crecerán en la vejez<br>DESHENIM VERAANANIM YIHIYU<br>vigorosos y verdes estarán<br>LEHAGID KI-YASHAR HASHEM<br>para contar que Recto es Dios<br> TSURI VELO AVLATAH BO<br>mi fortleza y no hay injusticia en Él<br><br>// TAI NA NA NAI, TAI NA NA NAI..//</article>"
+    "title": " <h1 class='titleDark'>Tzadik keTamar</h1>",
+    "estrofas": "<article class='contentDark'>// TZADIK KATAMAR YIFRAJ<br>El justo como la palma florecerá<br>KEEREZ BALBANON YISGEH //<br>como cedro en el Líbano crecerá <br><br>SHTULIM BEBEIT HASHEM<br>plantados en la Casa de Dios<br>BEJATZROT ELOHEINU YAFRIJU<br>en los patios de nuestro Dios florecerán<br>OD YENUBUN BESEIBAH<br>aún crecerán en la vejez<br>DESHENIM VERAANANIM YIHIYU<br>vigorosos y verdes estarán<br>LEHAGID KI-YASHAR HASHEM<br>para contar que Recto es Dios<br> TSURI VELO AVLATAH BO<br>mi fortleza y no hay injusticia en Él<br><br>// TAI NA NA NAI, TAI NA NA NAI..//</article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 39,
-    "title": " <h1 class='unica'>Venceré</h1>",
-    "estrofas": "<article class='mejorada'>// Jehová está en nuestra guerra<br>y peleará<br>Jehová está en la batalla<br>yo venceré //<br><br>// Venceré, vencerás<br> en el Nombre de Adonáy //<br><br>// Venceré en el Nombre<br> maravilloso de Adonáy //<br><br>// No con poder dice El Señor<br>más con mi Santo Espíritu //<br></article>"
+    "title": " <h1 class='titleDark'>Venceré</h1>",
+    "estrofas": "<article class='contentDark'>// Jehová está en nuestra guerra<br>y peleará<br>Jehová está en la batalla<br>yo venceré //<br><br>// Venceré, vencerás<br> en el Nombre de Adonáy //<br><br>// Venceré en el Nombre<br> maravilloso de Adonáy //<br><br>// No con poder dice El Señor<br>más con mi Santo Espíritu //<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 40,
-    "title": " <h1 class='unica'>Y cantaré</h1>",
-    "estrofas": "<article class='mejorada'>//Y cantaré Baruj Hashem<br>Avinu Melej HaMelajim<br>Bendito eres nuestro Padre<br> Rey de Reyes es<br><br> Baruj ata Adonai Eloheinu<br>Melej haOlam<br>Bendito eres Señor nuestro DIOS<br>del universo Rey<br><br>Y cantaré Ha kadosh<br> baruj Hu baruj HaShem<br>Bendito Tú Oh santo Dios<br>su Nombre es<br><br>Y cantaré Meshijeinu<br>Malkeenu Yeshuateinu<br>Mi Mesias y mi Rey<br>Yeshua es él<br></article>"
+    "title": " <h1 class='titleDark'>Y cantaré</h1>",
+    "estrofas": "<article class='contentDark'>//Y cantaré Baruj Hashem<br>Avinu Melej HaMelajim<br>Bendito eres nuestro Padre<br> Rey de Reyes es<br><br> Baruj ata Adonai Eloheinu<br>Melej haOlam<br>Bendito eres Señor nuestro DIOS<br>del universo Rey<br><br>Y cantaré Ha kadosh<br> baruj Hu baruj HaShem<br>Bendito Tú Oh santo Dios<br>su Nombre es<br><br>Y cantaré Meshijeinu<br>Malkeenu Yeshuateinu<br>Mi Mesias y mi Rey<br>Yeshua es él<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 41,
-    "title": " <h1 class='unica'>Cuentan de un Dios</h1>",
-    "estrofas": "<article class='mejorada'>Cuentan de un Dios<br>Que hace maravillas<br>Dandole poder a su pueblo<br><br>Gracias a Él conquistaron reinos<br>Tomaron ciudades en su Nombre<br>Fue cantando, otras veces gritando<br>Acompañado de sonido de bocina<br>Fue cantando otras veces gritando<br>A viva voz a su Dios<br><br>// Columna de fuego<br>nube en el desierto<br>Peña de  Horeb<br> para todo el sediento //<br><br>/// Le llaman Guerrero ///<br>Jehová de los ejercitos<br></article>"
+    "title": " <h1 class='titleDark'>Cuentan de un Dios</h1>",
+    "estrofas": "<article class='contentDark'>Cuentan de un Dios<br>Que hace maravillas<br>Dandole poder a su pueblo<br><br>Gracias a Él conquistaron reinos<br>Tomaron ciudades en su Nombre<br>Fue cantando, otras veces gritando<br>Acompañado de sonido de bocina<br>Fue cantando otras veces gritando<br>A viva voz a su Dios<br><br>// Columna de fuego<br>nube en el desierto<br>Peña de  Horeb<br> para todo el sediento //<br><br>/// Le llaman Guerrero ///<br>Jehová de los ejercitos<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 42,
-    "title": " <h1 class='unica'>Abre mis ojos</h1>",
-    "estrofas": "<article class='mejorada'>Abre mis ojos, oh, Cristo<br>Abre mis ojos, te pido<br>// Yo quiero verte //<br><br>Y contemplar tu majestad<br>Y el resplandor de tu gloria<br>Derrama tu amor y poder<br>Cuando cantamos santo, santo<br><br>/// Santo, santo, santo ///<br>Yo quiero verte<br></article>"
+    "title": " <h1 class='titleDark'>Abre mis ojos</h1>",
+    "estrofas": "<article class='contentDark'>Abre mis ojos, oh, Cristo<br>Abre mis ojos, te pido<br>// Yo quiero verte //<br><br>Y contemplar tu majestad<br>Y el resplandor de tu gloria<br>Derrama tu amor y poder<br>Cuando cantamos santo, santo<br><br>/// Santo, santo, santo ///<br>Yo quiero verte<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 43,
@@ -220,55 +262,64 @@
   },
   {
     "id": 44,
-    "title": " <h1 class='unica'>Grita, canta y danza</h1>",
-    "estrofas": "<article class='mejorada'>// Grita, canta, danza<br>alegremente en su presencia<br>Gira, salta dando vueltas<br> para Cristo<br>Él vive, vive para siempre<br> Él es el Rey //<br><br>// Te alabaré, te exaltaré<br> y te agradeceré<br>Tu grande amor, Jesús<br>Cambiaste mi lamento en alabanza<br>Sanaste mi herido corazón //<br></article>"
+    "title": " <h1 class='titleDark'>Grita, canta y danza</h1>",
+    "estrofas": "<article class='contentDark'>// Grita, canta, danza<br>alegremente en su presencia<br>Gira, salta dando vueltas<br> para Cristo<br>Él vive, vive para siempre<br> Él es el Rey //<br><br>// Te alabaré, te exaltaré<br> y te agradeceré<br>Tu grande amor, Jesús<br>Cambiaste mi lamento en alabanza<br>Sanaste mi herido corazón //<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 45,
-    "title": " <h1 class='unica'>El Señor me ha levantado</h1>",
-    "estrofas": "<article class='mejorada'>// El Señor me ha levantado<br> con poder<br>El Señor me ha levantado<br> con poder //<br><br>// Para proclamar su Nombre<br>Para exaltar su Nombre //<br><br>/// Los montes y valles gritarán<br>que Cristo pronto viene<br>Los montes y valles gritarán<br> que Cristo pronto viene ///<br><br>Los montes y valles gritarán<br> que Cristo pronto viene<br>/// Yo voy proclamando ///<br>Su venida, Aleluya amén<br></article>"
+    "title": " <h1 class='titleDark'>El Señor me ha levantado</h1>",
+    "estrofas": "<article class='contentDark'>// El Señor me ha levantado<br> con poder<br>El Señor me ha levantado<br> con poder //<br><br>// Para proclamar su Nombre<br>Para exaltar su Nombre //<br><br>/// Los montes y valles gritarán<br>que Cristo pronto viene<br>Los montes y valles gritarán<br> que Cristo pronto viene ///<br><br>Los montes y valles gritarán<br> que Cristo pronto viene<br>/// Yo voy proclamando ///<br>Su venida, Aleluya amén<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 46,
-    "title": " <h1 class='unica'>Canten al Señor</h1>",
-    "estrofas": "<article class='mejorada'>Canten al Señor<br>redimidos de Su pueblo<br>Desde la salida del sol<br> hasta que se pone<br><br>Bendigan al Señor<br>sacerdotes en su Templo<br>De Sion, perfección de hermosura<br>El resplandecerá<br><br>// Nos llenará de una nueva alabanza<br>El llenará nuestra boca de risa<br>Y todos juntos le alabaremos por su poder<br>De su vino yo me embriagare<br>En Su amor me deleitare<br>Y delante de Su trono me gozaré //<br></article>"
+    "title": " <h1 class='titleDark'>Canten al Señor</h1>",
+    "estrofas": "<article class='contentDark'>Canten al Señor<br>redimidos de Su pueblo<br>Desde la salida del sol<br> hasta que se pone<br><br>Bendigan al Señor<br>sacerdotes en su Templo<br>De Sion, perfección de hermosura<br>El resplandecerá<br><br>// Nos llenará de una nueva alabanza<br>El llenará nuestra boca de risa<br>Y todos juntos le alabaremos por su poder<br>De su vino yo me embriagare<br>En Su amor me deleitare<br>Y delante de Su trono me gozaré //<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 47,
-    "title": " <h1 class='unica'>Digno, digno, digno</h1>",
-    "estrofas": "<article class='mejorada'>// Digno, digno, digno, digno, digno<br>Digno, digno, digno eres tú Jehová //<br><br>// Jehová es la fortaleza de mi vida<br>De quién he de temer //<br><br>// Jehová es mi luz y mi salud<br>De quién he de temer //<br></article>"
+    "title": " <h1 class='titleDark'>Digno, digno, digno</h1>",
+    "estrofas": "<article class='contentDark'>// Digno, digno, digno, digno, digno<br>Digno, digno, digno eres tú Jehová //<br><br>// Jehová es la fortaleza de mi vida<br>De quién he de temer //<br><br>// Jehová es mi luz y mi salud<br>De quién he de temer //<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 48,
-    "title": " <h1 class='unica'>Ven mi amado</h1>",
-    "estrofas": "<article class='mejorada'>Como una novia<br> que espera a su amado<br>yo por ti esperaré<br>Como una doncella<br> ataviada en el desierto<br> yo por ti esperaré<br>// Sé como el cervatillo<br> en las montañas del aroma<br>    apresúrate y ven<br> apresúrate y ven //<br><br>// Ven ven ven Amado<br> Ven ven ven Amado<br>    celebremos nuestro amor<br>Ven ven ven Amado<br> Ven ven ven Amado<br>dancemos juntos al Señor //<br>Mi Amado, mi Amado<br> mi Amado, mi Amado<br>es El Hijo de Adonáy<br>Rey de reyes, Rey de reyes<br> Rey de reyes, Rey de reyes<br>   de la tribu de Judá<br></article>"
+    "title": " <h1 class='titleDark'>Ven mi amado</h1>",
+    "estrofas": "<article class='contentDark'>Como una novia<br> que espera a su amado<br>yo por ti esperaré<br>Como una doncella<br> ataviada en el desierto<br> yo por ti esperaré<br>// Sé como el cervatillo<br> en las montañas del aroma<br>    apresúrate y ven<br> apresúrate y ven //<br><br>// Ven ven ven Amado<br> Ven ven ven Amado<br>    celebremos nuestro amor<br>Ven ven ven Amado<br> Ven ven ven Amado<br>dancemos juntos al Señor //<br>Mi Amado, mi Amado<br> mi Amado, mi Amado<br>es El Hijo de Adonáy<br>Rey de reyes, Rey de reyes<br> Rey de reyes, Rey de reyes<br>   de la tribu de Judá<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 49,
-    "title": " <h1 class='unica'>Bendigan al Señor</h1>",
-    "estrofas": "<article class='mejorada'>Canten al Señor<br>redimidos de su pueblo<br>desde la  del sol hasta que se pone<br>Bendigan al Señor<br> sacerdotes en su Tempo<br>De Sión perfección hermosura<br>Él resplandecerá<br><br>Nos llenará de una nueva alabanza<br>Él llenará nuestra boca de risa<br>y todos juntos le alabaremos<br>por su poder<br><br>De su vino yo me embriagaré<br>en su amor me deleitaré<br>y delante de su trono<br>me gozaré<br></article>"
+    "title": " <h1 class='titleDark'>Bendigan al Señor</h1>",
+    "estrofas": "<article class='contentDark'>Canten al Señor<br>redimidos de su pueblo<br>desde la  del sol hasta que se pone<br>Bendigan al Señor<br> sacerdotes en su Tempo<br>De Sión perfección hermosura<br>Él resplandecerá<br><br>Nos llenará de una nueva alabanza<br>Él llenará nuestra boca de risa<br>y todos juntos le alabaremos<br>por su poder<br><br>De su vino yo me embriagaré<br>en su amor me deleitaré<br>y delante de su trono<br>me gozaré<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 50,
-    "title": " <h1 class='unica'>Bendigan al Señor</h1>",
-    "estrofas": "<article class='mejorada'>// Salga de su camara el novio<br>y de su tálamo la novia //<br><br>// Entre la entrada y el altar<br>lloren sacerdotes ministros de Adonáy //<br><br>Y digan: perdona oh Jehová a tu pueblo<br>no desprecies, para siempre tu herdad<br>// Porque han de decir los pueblos<br>¿Dónde está su Dios? //<br><br>// Jehová responderá<br> y dirá a su pueblo //<br><br>// He aquí os envío pan<br>mosto y aceite y seríes saciados //<br></article>"
+    "title": " <h1 class='titleDark'>Bendigan al Señor</h1>",
+    "estrofas": "<article class='contentDark'>// Salga de su camara el novio<br>y de su tálamo la novia //<br><br>// Entre la entrada y el altar<br>lloren sacerdotes ministros de Adonáy //<br><br>Y digan: perdona oh Jehová a tu pueblo<br>no desprecies, para siempre tu herdad<br>// Porque han de decir los pueblos<br>¿Dónde está su Dios? //<br><br>// Jehová responderá<br> y dirá a su pueblo //<br><br>// He aquí os envío pan<br>mosto y aceite y seríes saciados //<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 51,
-    "title": " <h1 class='unica'>Mi corazón esta dispuesto</h1>",
-    "estrofas": "<article class='mejorada'>//// Mi corazón está dispuesto, oh Señor<br>Dispuesto alabarte, oh mi Dios ////<br>Cantaré a Jehová con todo mi corazón<br>Sólo a ti te alabaré<br>oh mi Señor oh mi Señor<br><br>// El gozo de mi vida eres Tú Señor //<br>Yo canto Aleluya<br> porque eres mi Rey<br>Yo canto Aleluya<br> porque eres mi Dios<br></article>"
+    "title": " <h1 class='titleDark'>Mi corazón esta dispuesto</h1>",
+    "estrofas": "<article class='contentDark'>//// Mi corazón está dispuesto, oh Señor<br>Dispuesto alabarte, oh mi Dios ////<br>Cantaré a Jehová con todo mi corazón<br>Sólo a ti te alabaré<br>oh mi Señor oh mi Señor<br><br>// El gozo de mi vida eres Tú Señor //<br>Yo canto Aleluya<br> porque eres mi Rey<br>Yo canto Aleluya<br> porque eres mi Dios<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
   {
     "id": 52,
-    "title": " <h1 class='unica'>La Roca fiel</h1>",
-    "estrofas": "<article class='mejorada'>// Es Jesús, la Roca fiel es Dios<br>Mi eterno Juez es Él<br> mi fe está en Él<br>Mi alma siempre a Él<br> le confiaré //<br><br>// ¿Quién nos podrá separar <br>Del amor del Señor?<br> ¿Quién podrá?<br>¿Acaso aflicción<br> tribulación o dolor,<br>angustia o temor? //<br>¿Quién podrá?<br></article>"
+    "title": " <h1 class='titleDark'>La Roca fiel</h1>",
+    "estrofas": "<article class='contentDark'>// Es Jesús, la Roca fiel es Dios<br>Mi eterno Juez es Él<br> mi fe está en Él<br>Mi alma siempre a Él<br> le confiaré //<br><br>// ¿Quién nos podrá separar <br>Del amor del Señor?<br> ¿Quién podrá?<br>¿Acaso aflicción<br> tribulación o dolor,<br>angustia o temor? //<br>¿Quién podrá?<br></article>",
+    "background": "../assets/img/back_12.jpg"
   },
 
   {
     "id": 53,
     "title": " <h1 class='pesajTitle'>Toma el pandero</h1>",
     "estrofas": "<article class='pesaj'>/// Toma el pandero y<br>ven a danzar<br>toma el pandero y<br>ven a gozar<br>ven y subamos<br>ante nuestro Dios<br>toma el pandero y<br>ven a danzar ///<br><br>// Cantaré, danzaré<br>y me alegraré<br>más y más cada vez<br>yo te alabaré //<br><br>// Delante de tu Trono<br> yo me gozaré<br>en tu amor y tu gracia<br> me deleitaré //<br><br>// Grita, canta, danza<br>alegremente en su presencia<br>Gira, salta dando<br>vueltas para Cristo<br>Él vive, vive para siempre<br>Él es el Rey //<br><br>Te alabaré, te exaltaré<br> y te agradeceré<br>tu grande amor Jesús<br>Cambiaste mi lamento<br>en alabanza<br>sanaste mi herido corazón</article>",
-    "background": "../assets/img/backPesaj_03.jpg"
+    "background": "../assets/img/back_12.jpg"
   }
 
 ]
