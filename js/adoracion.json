@@ -503,6 +503,13 @@
     "title": " <h1 class='pesajTitle'>Abba Padre-Pesaj</h1>",
     "estrofas": "<article class='pesaj'>Después de haber cenado<br> se fue a Getsemaní<br>Acompañado por ellos les refirió<br>Mi alma está triste, hasta la muerte<br>Apartándose un poco al Padre clamó <br><br>//Abba Padre<br>todas las cosas son posible para ti<br>Abba Padre<br>solamente hágase Su voluntad//<br><br>Tomando el Pan lo bendijo<br>comed de él este es mi Cuerpo<br>Alzó la Copa<br>del Nuevo Pacto de Dios<br>Bebed de ella esta es mi sangre<br> que por vosotros es derramada<br>Hacedlo siempre<br>en memoria de mi//<br><br>Al tercer día, dejó la muerte<br>Porque Él es vida<br> que el Cielo mandó<br>Camino junto a ellos<br>hasta Bethania<br>Y alzando sus manos<br>puso la bendición<br></article>",
     "background": "../assets/img/backPesaj_01.jpg"
+  },
+
+  {
+    "id": 85,
+    "title": " <h1 class='pesajTitle'>Él es nuestro Pesaj</h1>",
+    "estrofas": "<article class='pesaj'>//He aquí el Cordero que quita<br> el pecado del mundo//<br>He aquí el Cordero<br>que inmolado fue<br>herido por nuestras rebeliones<br>Molido por nuestros pecados<br><br>Él es nuestro Pesaj<br>nuestra redención<br>Él es nuestro Pesaj<br> nuestro Salvador<br>Él es nuestro Pesaj<br>Él es nuestro Rey<br><br>En verdad Él llevó nuestras cargas<br> sufrió nuestros dolores<br>y Nosotros si que lo azotamos<br>El castigo nuestro sobre Él fue<br>Como Cordero no abrió su boca<br> y por sus llagas fuimos curados<br></article>",
+    "background": "../assets/img/backPesaj_01.jpg"
   }
 
 ]
