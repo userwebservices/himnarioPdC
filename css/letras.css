@@ -99,7 +99,7 @@
         font-size: 5vw;
         font-weight: 100;
         text-align: center;
-        color: var(--color-quaternary);
+        color: var(--color-secondary);
         letter-spacing: 1.5rem;
         padding-top: 3%;
     } 
@@ -109,7 +109,7 @@
         font-weight: 500;
         font-size: 4vw;
         text-align: center;
-        color: var(--color-quaternary);
+        color: var(--color-secondary);
         letter-spacing: 1rem;
         padding-bottom: 1rem;
     }
@@ -281,7 +281,7 @@
         font-weight: 300;
         font-size: 6vw;
         text-align: center;
-        color: var(--color-quaternary);
+        color: var(--color-secondary);
         letter-spacing: 0.1rem;
         line-height: 100%;
         padding: 1rem 0rem 5rem 0rem; /*Esto hace que la letra, traída por AJAX, tenga espacio hasta abajo, y poco 1rem arriba, y 0 a los lados*/
