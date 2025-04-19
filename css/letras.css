@@ -76,7 +76,7 @@
         font-weight: 300;
         font-size: 7vw;
         text-align: center;
-        color: var(--color-tertiary);
+        color: var(--color-quaternary);
         letter-spacing: 0.3rem;
         line-height: 95%;
         padding: 1rem 0rem 5rem 0rem; /*Esto hace que la letra, traída por AJAX, tenga espacio hasta abajo, y poco 1rem arriba, y 0 a los lados*/

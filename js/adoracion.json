@@ -510,6 +510,13 @@
     "title": " <h1 class='pesajTitle'>Él es nuestro Pesaj</h1>",
     "estrofas": "<article class='pesaj'>//He aquí el Cordero que quita<br> el pecado del mundo//<br>He aquí el Cordero<br>que inmolado fue<br>herido por nuestras rebeliones<br>Molido por nuestros pecados<br><br>Él es nuestro Pesaj<br>nuestra redención<br>Él es nuestro Pesaj<br> nuestro Salvador<br>Él es nuestro Pesaj<br>Él es nuestro Rey<br><br>En verdad Él llevó nuestras cargas<br> sufrió nuestros dolores<br>y Nosotros si que lo azotamos<br>El castigo nuestro sobre Él fue<br>Como Cordero no abrió su boca<br> y por sus llagas fuimos curados<br></article>",
     "background": "../assets/img/backPesaj_01.jpg"
+  },
+
+  {
+    "id": 86,
+    "title": " <h1 class='pesajTitle'>Miqueas 6:8</h1>",
+    "estrofas": "<article class='pesaj'>//Me ha mostrado El Señor<br>Lo que es bueno<br> y lo que pide Él de mi//<br><br>Hacer justicia, misericordia<br>Y ser humilde ante Él<br></article>",
+    "background": "../assets/img/back_001.jpg"
   }
 
 ]
