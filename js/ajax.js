@@ -51,7 +51,7 @@ himnosGet.onclick = ()=> {
                         $axios.style.backgroundSize = 'cover';
                         $axios.style.backgroundPosition = 'center';
                         }else {
-                        $axios.style.backgroundImage = `url('../assets/img/back_001.jpg')`;
+                        $axios.style.backgroundImage = `url('../assets/img/back_013.jpg')`;
                         }
                 }
 
