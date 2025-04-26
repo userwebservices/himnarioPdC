@@ -318,7 +318,14 @@
   {
     "id": 53,
     "title": " <h1 class='pesajTitle'>Toma el pandero</h1>",
-    "estrofas": "<article class='pesaj'>/// Toma el pandero y<br>ven a danzar<br>toma el pandero y<br>ven a gozar<br>ven y subamos<br>ante nuestro Dios<br>toma el pandero y<br>ven a danzar ///<br><br>// Cantaré, danzaré<br>y me alegraré<br>más y más cada vez<br>yo te alabaré //<br><br>// Delante de tu Trono<br> yo me gozaré<br>en tu amor y tu gracia<br> me deleitaré //<br><br>// Grita, canta, danza<br>alegremente en su presencia<br>Gira, salta dando<br>vueltas para Cristo<br>Él vive, vive para siempre<br>Él es el Rey //<br><br>Te alabaré, te exaltaré<br> y te agradeceré<br>tu grande amor Jesús<br>Cambiaste mi lamento<br>en alabanza<br>sanaste mi herido corazón</article>",
+    "estrofas": "<article class='contentDark'>/// Toma el pandero y<br>ven a danzar<br>toma el pandero y<br>ven a gozar<br>ven y subamos<br>ante nuestro Dios<br>toma el pandero y<br>ven a danzar ///<br><br>// Cantaré, danzaré<br>y me alegraré<br>más y más cada vez<br>yo te alabaré //<br><br>// Delante de tu Trono<br> yo me gozaré<br>en tu amor y tu gracia<br> me deleitaré //<br><br>// Grita, canta, danza<br>alegremente en su presencia<br>Gira, salta dando<br>vueltas para Cristo<br>Él vive, vive para siempre<br>Él es el Rey //<br><br>Te alabaré, te exaltaré<br> y te agradeceré<br>tu grande amor Jesús<br>Cambiaste mi lamento<br>en alabanza<br>sanaste mi herido corazón</article>",
+    "background": "../assets/img/back_12.jpg"
+  },
+
+  {
+    "id": 54,
+    "title": " <h1 class='pesajTitle'>Shema Israel</h1>",
+    "estrofas": "<article class='contentDark'>Shema Israel(Shema Israel)<br>Shema Israel(Shema Israel)<br>Adonáy Eloheinu(Adonáy)<br>Adonáy ejad<br><br>Escucha Israel(Escucha Israel)<br>Escucha Israel(Escucha Israel)<br>El Eterno es nuestro Dios<br>(El Eterno), El Eterno es Uno<br><br>Amarás al Eterno Dios<br>con todo tu corazón<br>Con toda tu alma<br>con todas tus fuerzas<br>Guarda estas mi palabras<br> atalas sobre tu mano<br>ponlas frente a tus ojos<br> en el lugar de tu casa,<br> en las puertas<br><br>Shema Israel(Shema Israel)<br>Adonáy Eloheinu(Adonáy)<br>Adonáy ejad<br><br>Instruye a tus hijos Israel<br> compartelo en tu casa<br>Anuncialo en las calles<br> en la noche al acostarte al despertar<br>para que se multipliquen<br>vuestros días<br> sobre la tierra que Dios<br>juró a vosotros<br>Para darselas por siempre<br>y para siempre<br> Baruj Shem kevod<br>maljuto leolam vaEd<br><br>Shema Israel(Shema Israel)<br>Shema Israel(Shema Israel)<br>Adonáy Eloheinu(Adonáy)<br>Adonáy ejad<br><br>Escucha Israel(Escucha Israel)<br>Escucha Israel(Escucha Israel)<br>El Eterno es nuestro Dios<br>(El Eterno), El Eterno es Uno<br></article>",
     "background": "../assets/img/back_12.jpg"
   }
 
