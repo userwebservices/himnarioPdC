@@ -2,6 +2,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Beiruti:wght@200..900&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
 /*3april25
     Importing the font family:  
     from:
@@ -28,26 +31,256 @@
     --color-black: #313131;
     --letra-tituloPrincipal: 'Roboto', sans-serif;
     --letra-tituloSecundario: 'Raleway', Skranji ; /*Importada el 3 de abril, variable creada mismo día, nombre: "--letra-tituloSecundario", el valor es "Raleway" y añado otra fuente standar*/
+    --letra-aimTitle: 'Poppins','Raleway', sans-serif;
 
 }
 
-  
-.skranji-regular {
-  font-family: "Skranji", system-ui;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.skranji-bold {
-  font-family: "Skranji", system-ui;
-  font-weight: 700;
-  font-style: normal;
-}
 
 
-.arima {
-  font-family: "Arima", system-ui;
-  font-optical-sizing: auto;
-  font-weight: 700;
-  font-style: normal;
-}
+ .titleHeader {
+        font-family: var(--letra-tituloSecundario);
+        font-size: 2vw;
+        color: var(--color-quaternary);
+        letter-spacing: 0.5rem;
+        font-weight: 400;
+
+    }
+    .unica {
+        font-family: var(--letra-tituloPrincipal); 
+        font-size: 4rem;
+        letter-spacing: 14px;
+        text-transform: uppercase;
+        color: var(--color-tertiary);
+        padding: 0.5rem;
+        margin: 0px;
+        line-height: 100%;
+        font-weight: 300;    
+    }
+
+    .mejorada {
+        font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
+        font-weight: 300;
+        font-size: 7vw;
+        text-align: center;
+        color: var(--color-quaternary);
+        letter-spacing: 0.3rem;
+        line-height: 95%;
+        padding: 1rem 0rem 5rem 0rem; /*Esto hace que la letra, traída por AJAX, tenga espacio hasta abajo, y poco 1rem arriba, y 0 a los lados*/
+    }
+
+     
+
+   
+
+    /*  S T A R T Affecting H1, H2 and H3 of the text in the aim view webpage */
+
+    
+    .overlaidTitle h1{
+        position: absolute;
+        z-index: 2;
+        color: var(--color-quaternary);
+        font-family: var(--letra-aimTitle) ;
+        font-size: 4vw;
+        font-weight: 500;
+        text-align: left;
+        letter-spacing: 0rem;
+        line-height: 90%;
+        width: 70%; 
+        padding-top: 22%;
+        left: 5%;  
+    } 
+
+    .overlaidTitle h2{
+        position: absolute;
+        z-index: 2;
+        color: var(--color-quaternary);
+        font-family: var(--letra-aimTitle); /* Usando la variable que cree el 3april25 */
+        font-weight: 100;
+        font-size: 2vw;
+        text-align: left;
+        letter-spacing: 0.1rem;
+        padding-bottom: 1rem;
+        line-height: 90%;
+        padding-top: 30%;
+        left: 5%;
+        width: 70%;
+        
+    }
+
+     .overlaidTitle h3{
+        position: absolute;
+        font-family: var(--letra-tituloPrincipal) ;
+        font-weight: 100;
+        font-size: 1vw;
+        text-align: left;
+        color: var(--color-quaternary);
+        margin-bottom: 2rem;
+        letter-spacing: 0.1rem;
+        padding-top: 35%;
+        left: 5%;
+        width: 8%;
+    }
+
+    
+    .overlaidTitle h3::before{
+        position: absolute;
+        content: '';
+        background: #F7F7F7;
+        height: 0.1rem;
+        width: 30%;
+        left: 0;
+        bottom: 0;
+    }
+
+    /*  E N D  Affecting H1, H2 and H3 of the text in the aim view webpage */
+
+
+     .spanish  {
+        font-family: "Arima", Helvetica, sans-serif;
+        font-weight: 300;
+        font-size: 5vw;
+        text-align: center;
+        color: var(--color-primary);
+        margin: 0px;
+        padding: 0px;
+        line-height: 100%;
+        border: 0px;
+       
+    }
+
+/*Titulos personalziados por tipo de background*/
+    /*Background dark
+    Esto funciona sobre imagenes claras*/
+    .titleLight{
+        font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
+        font-weight: 300;
+        font-size: 5vw;
+        text-align: center;
+        color: var(--color-quaternary);
+        border-radius: 12px;
+        padding: 0.5vw;
+        background-color:  var(--color-secondary);
+        opacity: 50%;
+        display: inline-block;
+        margin-top: 1rem;
+    }
+
+    .subtitleLight{
+        font-family: var(--letra-tituloPrincipal); 
+        font-size: 4rem;
+        letter-spacing: 14px;
+        text-transform: uppercase;
+        color: var(--color-tertiary);
+        padding: 0.5rem;
+        margin: 0px;
+        line-height: 100%;
+        font-weight: 300;
+    }
+
+    .contentLight {
+        font-family: var(--letra-tituloSecundario);
+        font-size: 5rem;
+        color: var(--color-quaternary);
+        border: 0px;
+        padding: 0px;
+        margin: 0px;
+        line-height: 100%;
+        font-weight: 300;
+    }
+
+    /*Background light
+    Funciona con fotos de background oscuras*/
+     .titleDark{
+        font-family: var(--letra-aimTitle); /* Usando la variable que cree el 3april25 */
+        color: var(--color-quaternary);
+        font-weight: 500;
+        font-size: 4vw;
+        text-align: center;
+        border-radius: 12px;
+        padding: 0.5vw;
+        display: inline-block;
+        margin-top: 1rem;
+        position: relative;
+    }
+
+    .titleDark::after{
+        position: absolute;
+        content: '';
+        background: var(--color-primary);
+        height: 1rem;
+        width: 30%;
+        left: 0;
+        bottom: 0;
+    }
+
+
+
+    .contentDark {
+        font-family: var(--letra-aimTitle); /* Usando la variable que cree el 3april25 */
+        font-weight: 300;
+        font-size: 6vw;
+        text-align: center;
+        color: var(--color-quaternary);
+        letter-spacing: 0.1rem;
+        line-height: 100%;
+        padding: 1rem 0rem 5rem 0rem; /*Esto hace que la letra, traída por AJAX, tenga espacio hasta abajo, y poco 1rem arriba, y 0 a los lados*/
+    }
+
+      .subtitleDark{
+        font-family: var(--letra-tituloSecundario); 
+        font-size: 3rem;
+        letter-spacing: 14px;
+        text-transform: uppercase;
+        color: var(--color-quaternary);
+        padding: 0.5rem;
+        margin: 0px;
+        line-height: 100%;
+        font-weight: 300;
+    }
+
+    /* E N D  Styles for text with backgrounds: dark and light*/
+    /*   ====****||||====****||||====****||||====****||||====****||||====****||||====****||||====****|||| */
+
+
+    /*   ====****||||====****||||====****||||====****||||====****||||====****||||====****||||====****|||| */
+    /*   Styles for text for Pesaj*/
+ 
+    .pesaj {
+        font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
+        font-weight: 300;
+        font-size: 6vw;
+        text-align: center;
+        color: var(--color-quaternary);
+        letter-spacing: 0.1rem;
+        line-height: 100%;
+        padding: 1rem 0rem 5rem 0rem; /*Esto hace que la letra, traída por AJAX, tenga espacio hasta abajo, y poco 1rem arriba, y 0 a los lados*/
+        z-index: 999;
+    }
+
+    .pesajTitle {
+        font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
+        font-weight: 300;
+        font-size: 5vw;
+        text-align: center;
+        color: var(--color-secondary);
+        border-radius: 12px;
+        padding: 0.5vw;
+        background-color: rgba(244, 245, 238, 0.9);
+        display: inline-block;
+        margin-top: 1rem;
+        z-index: 3;
+    }
+
+    .pesajNumbers {
+        font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
+        font-weight: 200;
+        font-size: 4vw;
+        text-align: center;
+        color: var(--color-secondary);
+        border-radius: 12px;
+        padding: 0.2vw;
+    }
+
+    /* E N D  Styles for text for Pesaj*/
+    /*   ====****||||====****||||====****||||====****||||====****||||====****||||====****||||====****|||| */
+    

@@ -7,8 +7,8 @@ body {
     grid-template-areas: 
             "header "
             "sidebar"
-            " letras" 
-            " footer"
+            "letras" 
+            "footer"
     ;
 }
 
@@ -26,15 +26,28 @@ align-items: center;
 background-color: var(--color-secondary);
 }
 
+/*from here, code for crrate a lack */
 
 
 .letras {
 grid-area: letras;
-background-image: url('../assets/img/back_013.jpg'); /* Cambia la ruta a tu imagen */
+position: relative; /* Tue 29 April 25 */
+background-image: url('../assets/img/back-79.jpg'); /* Cambia la ruta a tu imagen */
 background-size: cover; /* Asegura que la imagen cubra el área de la sección */
 background-position: center; /* Centra la imagen dentro del área */
 background-attachment: fixed; /* Fija la imagen al fondo si se hace scroll */
-background-repeat: no-repeat; /* Evita que la imagen se repita */}
+background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
+
+
+
+header, footer, .sidebar {
+  position: relative;
+  z-index: 10;
+}
+
+/*Until here, code for crrate a lack */
+
 
 #axios {
   background-image: url('../assets/img/back_010.jpg'); /* Cambia la ruta a tu imagen */
@@ -43,7 +56,7 @@ background-repeat: no-repeat; /* Evita que la imagen se repita */}
   background-attachment: fixed; /* Fija la imagen al fondo si se hace scroll */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
-
+ 
 
 footer {
 grid-area: footer;

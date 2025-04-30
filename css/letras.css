@@ -1,86 +1,40 @@
-/*Imagen completa*/
 
-/*
-    .hero-image{
-        min-height: 100vh;
-        background-image: url(/img/01.jpg);
-        background-repeat: no-repeat;
-        background-size: cover;
-    }
- 
- .hero-image { 
-    display: flex;
-    flex-direction: column;
-    align-items: center; 
+/*Black transparent overlay in section letras*/
 
- }
- 
- */
+.letras::before {
+  content: "";
+  position: absolute;
+  top: 0; 
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.1); /* Black transparent overlay */
+  z-index: 1;
+  pointer-events: none; /* Let clicks pass through */
+}
 
- .letras .hero-image .clave{
+.letras > * {
+  position: relative;
+  z-index: 2;
+}
+
+ .letras  {
     text-align: center;
     font-weight: 100;
     font-family:   Helvetica,Arial, sans-serif;
     padding: 0rem 0rem ; /*I M P O R T A N T : parece que controla el espacio que se ve entre la letra, una llamada de axios, y el grid, en este caso el área sidebar*/
  }
-    /*
-    .hero-image div{
-        ----El elemento "div" hereda la altura de su elemento padre (hero-image)----
-        min-height: inherit;
-        ---Queremos centrar el texto del elemento div---
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-        background-color: rgba(0, 0, 0, 0.1);
-    }
 
-   
-    .hero-image .logo2{
-        min-width: 20%;
-        width: 20vh;
-        padding-top: 0.5vh;
-    }
-
- 
-    .hero-image .titulos {
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-    }
-        */
+ .hero-image {
+  position: relative;   /* required to use z-index */
+  z-index: 1;           /* put this behind #inicio */
+}
 
 
-    .titleHeader {
-        font-family: var(--letra-tituloSecundario);
-        font-size: 2vw;
-        color: var(--color-quaternary);
-        letter-spacing: 0.5rem;
-        font-weight: 400;
+/* E N D  Black transparent overlay in section letras*/
 
-    }
-    .unica {
-        font-family: var(--letra-tituloPrincipal); 
-        font-size: 4rem;
-        letter-spacing: 14px;
-        text-transform: uppercase;
-        color: var(--color-tertiary);
-        padding: 0.5rem;
-        margin: 0px;
-        line-height: 100%;
-        font-weight: 300;    
-    }
 
-    .mejorada {
-        font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
-        font-weight: 300;
-        font-size: 7vw;
-        text-align: center;
-        color: var(--color-secondary);
-        letter-spacing: 0.3rem;
-        line-height: 95%;
-        padding: 1rem 0rem 5rem 0rem; /*Esto hace que la letra, traída por AJAX, tenga espacio hasta abajo, y poco 1rem arriba, y 0 a los lados*/
-    }
+
 
      
 
@@ -92,53 +46,14 @@
         align-items: center;
     }
 
-    /*Afectan los h1 y h2 de la sección del grid: "letras". Es la primera vusta que se carga en la página 
-    */
-    .titulo h1{
-        font-family: var(--letra-tituloPrincipal) ;
-        font-size: 5vw;
-        font-weight: 100;
-        text-align: center;
-        color: var(--color-secondary);
-        letter-spacing: 1.5rem;
-        padding-top: 3%;
-    } 
-
-    .titulo h2{
-        font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
-        font-weight: 500;
-        font-size: 4vw;
-        text-align: center;
-        color: var(--color-secondary);
-        letter-spacing: 1rem;
-        padding-bottom: 1rem;
-    }
-
-     .titulo h3{
-        font-family: arima, Helvetica, sans-serif;
-        font-weight: 100;
-        font-size: 2vw;
-        text-align: center;
-        color: var(--color-tertiary);
-        margin-bottom: 2rem;
-    }
-
-     .spanish  {
-        font-family: "Arima", Helvetica, sans-serif;
-        font-weight: 300;
-        font-size: 5vw;
-        text-align: center;
-        color: var(--color-primary);
-        margin: 0px;
-        padding: 0px;
-        line-height: 100%;
-        border: 0px;
-       
-    }
+    /*  S T A R T Affecting H1, H2 and H3 of the text in the aim view webpage */
 
 
+    
 
-    /*   ====****||||====****||||====****||||====****||||====****||||====****||||====****||||====****|||| */
+
+    
+/*   ====****||||====****||||====****||||====****||||====****||||====****||||====****||||====****|||| */
     /*   Styles for section: sidebar*/
 
 /*Afecta a: el texto del menú, los botenes: Himnos, Ador<ción Alabanza, etc.*/
@@ -162,8 +77,6 @@
   color: var(--color-quaternary);
   font-weight: 400;
 }
-
-
 
 
 /*Contendio que afecta: el menú desplegable cuando se hace click en un elemento del menú: Himnario, textos, Adoración, etc.*/
@@ -196,132 +109,23 @@
     /* E N D  Styles for section: sidebar*/
     /*   ====****||||====****||||====****||||====****||||====****||||====****||||====****||||====****|||| */
 
-
-    /*   ====****||||====****||||====****||||====****||||====****||||====****||||====****||||====****|||| */
-    /*   Styles for text with backgrounds: dark and light*/
-
-
-    /*Titulos personalziados por tipo de background*/
-    /*Background dark
-    Esto funciona sobre imagenes claras*/
-    .titleLight{
-        font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
-        font-weight: 300;
-        font-size: 5vw;
-        text-align: center;
-        color: var(--color-quaternary);
-        border-radius: 12px;
-        padding: 0.5vw;
-        background-color:  var(--color-secondary);
-        opacity: 50%;
-        display: inline-block;
-        margin-top: 1rem;
-    }
-
-    .subtitleLight{
-        font-family: var(--letra-tituloPrincipal); 
-        font-size: 4rem;
-        letter-spacing: 14px;
-        text-transform: uppercase;
-        color: var(--color-tertiary);
-        padding: 0.5rem;
-        margin: 0px;
-        line-height: 100%;
-        font-weight: 300;
-    }
-
-    .contentLight {
-        font-family: var(--letra-tituloSecundario);
-        font-size: 5rem;
-        color: var(--color-quaternary);
-        border: 0px;
-        padding: 0px;
-        margin: 0px;
-        line-height: 100%;
-        font-weight: 300;
-    }
-
-    /*Background light
-    Funciona con fotos de background oscuras*/
-     .titleDark{
-        font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
-        font-weight: 300;
-        font-size: 5vw;
-        text-align: center;
-        color: var(--color-secondary);
-        border-radius: 12px;
-        padding: 0.5vw;
-        background-color:  var(--color-quaternary);
-        opacity: 50%;
-        display: inline-block;
-        margin-top: 1rem;
-    }
-
-
-    .contentDark {
-        font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
-        font-weight: 300;
-        font-size: 6vw;
-        text-align: center;
-        color: var(--color-quaternary);
-        letter-spacing: 0.1rem;
-        line-height: 100%;
-        padding: 1rem 0rem 5rem 0rem; /*Esto hace que la letra, traída por AJAX, tenga espacio hasta abajo, y poco 1rem arriba, y 0 a los lados*/
-    }
-
-    /* E N D  Styles for text with backgrounds: dark and light*/
-    /*   ====****||||====****||||====****||||====****||||====****||||====****||||====****||||====****|||| */
-
-
-    /*   ====****||||====****||||====****||||====****||||====****||||====****||||====****||||====****|||| */
-    /*   Styles for text for Pesaj*/
- 
-    .pesaj {
-        font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
-        font-weight: 300;
-        font-size: 6vw;
-        text-align: center;
-        color: var(--color-secondary);
-        letter-spacing: 0.1rem;
-        line-height: 100%;
-        padding: 1rem 0rem 5rem 0rem; /*Esto hace que la letra, traída por AJAX, tenga espacio hasta abajo, y poco 1rem arriba, y 0 a los lados*/
-    }
-
-    .pesajTitle {
-        font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
-        font-weight: 300;
-        font-size: 5vw;
-        text-align: center;
-        color: var(--color-fifth);
-        border-radius: 12px;
-        padding: 0.5vw;
-        background-color: rgba(244, 245, 238, 0.9);
-        display: inline-block;
-        margin-top: 1rem;
-    }
-
-    .pesajNumbers {
-        font-family: var(--letra-tituloSecundario); /* Usando la variable que cree el 3april25 */
-        font-weight: 200;
-        font-size: 4vw;
-        text-align: center;
-        color: var(--color-quaternary);
-        border-radius: 12px;
-        padding: 0.2vw;
-    }
-
-    /* E N D  Styles for text for Pesaj*/
-    /*   ====****||||====****||||====****||||====****||||====****||||====****||||====****||||====****|||| */
-    
-
+   
 
     #inicio img {
         width: 100%;
         max-width: 300px;
         height: auto;
+    } 
+
+
+    .overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.5);
+      z-index: 1;
+      pointer-events: none; /* Opcional: permite clics a través */
+
     }
-
-    
-
-
-   
